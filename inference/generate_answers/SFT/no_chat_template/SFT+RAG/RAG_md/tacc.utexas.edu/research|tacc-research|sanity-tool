@@ -1,0 +1,35 @@
+1. [Home](/)
+2. [Research](/research/)
+3. [TACC Research](/research/tacc-research/)
+4. Sanity Tool
+
+# Sanity Tool
+
+### Purpose
+
+It can be troublesome and challenging to diagnose and resolve problems caused by improper individual user account configurations on supercomputing systems. To assist individual users and those who support them in handling these issues efficiently and conveniently, we designed and created a new lightweight system utility called Sanity Tool. Sanity Tool includes a group of generic and machine-specific tests that are used to evaluate the correctness of a user's account configurations.
+
+### Overview
+
+Maintaining the correctness of user account configurations on modern supercomputers has become more and more challenging, due to the variety and complexity of modern large-scale systems. A tremendous amount of time and effort can been spent in diagnosing and resolving problems caused by inappropriate user account configurations.
+
+The emergence of Sanity Tool solves these issues. This convenient tool is particularly designed for modern supercomputing systems. It contains a set of well-designed generic and system-customized tests based on user experience in the past. It helps individual users, user-support staff, and system administrators find improper configurations of users' working environment with little effort. In addition, Sanity Tool can be conveniently ported to new supercomputing systems and easily extended with more customized tests. Sanity Tool has proven one of the most useful and popular software tools that TACC developed and supports.
+
+### Impact
+
+Sanity Tool is provided on TACC systems for all users and system administrators, as well as a few HPC systems worldwide.
+
+### Contributors
+
+**Robert McLay**  
+
+Manager, HPC Software Tools, Research Associate, High Performance Computing
+
+### Related Links
+
+* [Sanity Took GitHub](https://github.com/siliu-tacc/sanitytool)
+* [DOI: 10.1145/2834996.2834999](https://doi.org/10.1145/2834996.2834999)
+
+### Publications
+
+"Sanity tool: lightweight diagnostics for individual user accounts on supercomputer systems," Si Liu, Robert McLay, Doug James, HUST '16 Proceedings of the Third International Workshop on HPC User Support Tools, Nov. 2016.

@@ -1,0 +1,74 @@
+1. [Home](/)
+2. [About](/about/)
+3. [Staff Directory](/about/staff-directory/)
+4. Smruti Padhy
+
+# Smruti Padhy
+
+## Engineering Scientist Cloud & Interactive Computing (CIC)
+
+Phone: **512-475-9411** | Email: **[spadhy@tacc.utexas.edu](mailto:spadhy@tacc.utexas.edu)**
+
+Smruti joined the TACC Cloud and Interactive Computing Group in 2018, where she builds scalable distributed system software and middleware to enable distributed computational science experiments. Prior to joining TACC, she held academic positions at the University of Illinois at Urbana-Champaign and the Massachusetts Institute of Technology. Her research and software development areas include distributed systems, formal verification, cloud computing, data science, cyberinfrastructure, software-defined networking, and reproducible research. Smruti has received the Ph.D. degree in computer science and engineering from the Indian Institute of Technology Delhi, India.
+
+### Selected Publications
+
+S. B. Cleveland, A. Jamthe, S. Padhy, J. Stubbs, M. Packard, J. Looney, S. Terry, R. Cardone, M. Dahan, G. A. Jacobs: "Tapis API Development with Python: Best Practices in Scientific REST API Implementation: Experience implementing a distributed Stream API", PEARC 2020: 181-187. (Best paper in the "Application Software, Support, and Outcomes" track)
+
+S. B. Cleveland, A. Jamathe, S. Padhy, J. Stubbs, J. Powell, M. Daniels, G.A. Jacobs, S. A, Pierce, "Tapis-CHORDS Integration: Time-Series Data Support in Science Gateway Infrastructure", In Proc. Gateways, San Diego, CA, 2019.
+
+D. N. Kennedy, S. A. Abraham, J. F. Bates, A. Crowley, S. Ghosh, T. Gillespie, M. Goncalves, J. S. Grethe, Y. O. Halchenko, M. Hanke, C. Haselgrove, S. Hodge, D. Jarecka, J. Kaczmarzyk, D. B. Keator, K. Meyer, M. E. Martone, S. Padhy, J.B. Poline, N. Preuss, T. Sincomb, M. Travers, "Everything Matters: The ReproNim Perspective on Reproducible Neuroimaging", Frontiers in Neuroinformatics, Vol.13, 2019. DOI=10.3389/fninf.2019.00001
+
+S. Padhy, D. Chen, M. Goncalves, K. Helmer, D. Keator, J. B. Poline and S. Ghosh, BrainVerse: "An Electronic Laboratory Notebook for Reproducible Neuroimaging Research", in the Annual Meeting of the Organization for Human Brain Mapping (OHBM) 2018, Singapore, Poster & Demo, June 17-21, 2018.
+
+R. Kumar, M. Hassan, S. Padhy, K. Evchenko, L. Piramanayagam, S. Mohan and R. Bobba, "End-to-End Network Delay Guarantees for Real-Time Systems using SDN", in Proceedings of the IEEE Real-Time Systems Symposium (RTSS), Paris, France, December 5-8, 2017.
+
+R. Kumar, M. Hasan, S. Padhy, K. Evchenko, L. Piramanayagam, S. Mohan and R. Bobba,"Dependable End-to-End Delay Constraints for Real-Time Systems using SDN", In Proc. ECRTS Workshop on Real-Time Networks (RTN), Dubrovnik, Croatia, 2017.
+
+S. Padhy, J. Alameda, R. Kooper, R. Liu, S. P. Satheesan, I. Zharnitsky, G. Jansen, M. C. Dietze, P. Kumar, J. Lee, R. Marciano, L. Marini, B. Minsker, C. Navarro, M. Slavenas, W. Sullivan, and K. McHenry, "An Architecture for Automatic Deployment of Brown Dog Services at Scale into Diverse Computing Infrastructures", in the proceedings of the XSEDE16 Conference on Diversity, Big Data, and Science at Scale (XSEDE16), Miami, USA, July 17-21, 2016. https://doi.org/10.1145/2949550.2949647
+
+S. Padhy, K. Evchenko, W. Liu, R. B. Bobba, S. Mohan and R. H. Campbell, "Inter-flow Consistency in SDN Network Updates", In Proc. Workshop on Science of Security through Software-Defined Networking (SoSSDN), Poster, Chicago, IL, 2016.
+
+G. Jansen, R. Marciano, S. Padhy and K. McHenry, "Designing Scalable Cyberinfrastructure for Metadata Extraction in Billion-Record Archives", in the proceedings of the 13th International Conference on Digital Preservation (iPRES 2016), Bern, Switzerland, October 3-6, 2016.
+
+S. Padhy, G. Jansen, J. Alameda, E. Black, L. Diesendruck, M. Dietze, P. Kumar, R. Kooper, J. Lee, R. Liu, R. Marciano, L. Marini, D. Mattson, B. Minsker, C. Navarro, M. Slavenas, W. Sullivan, J. Votava, I. Zharnitsky, and K. McHenry, "Brown Dog: Leveraging everything towards autocuration" , in the proceedings of the 2015 IEEE International Conference on Big Data (BIG DATA '15), Santa Clara, CA, USA, October 29 - November 1, 2015. https://doi.org/10.1109/BigData.2015.7363791
+
+S. Padhy, E. Black, B. Cowdery, L. Diesendruck, et al., "Autocuration Cyberinfrastrucutre for Scientific Discovery and Preservation", In Proc. IEEE eScience, Short Paper & Poster, Munich, Germany, 2015.
+
+L. Marini, P. Bajcsy, S. Padhy, A. Vandecreme, R. Kooper, B. Long, M. Ondrejcek, P. Saba, D. Bonnie, J. Chalfoun, et al., "Versus: A Framework for General Content-Based Comparisons", In Proc. IEEE eScience, Poster, Chicago, IL, 2012.
+
+S. Padhy, D. Kreutz, A. Casimiro and M. Pasin, "Trustworthy and Resilient Monitoring System for Cloud Infrastructures", in the proceedings of ACM/IFIP/USENIX 12th International Middleware Conference 2011, Posters, Lisbon, Portugal, December 12-16, 2011.
+
+K. Sarda, P. Gupta, D. Mukherjee, S. Padhy and H. Saran, "A Distributed Trust-based Recommendation System on Social Networks", In Proc. IEEE workshop on Hot Topics in Web Systems and Technologies (HotWeb), Evanston, IL, 2008.
+
+S. Padhy and D. Goswami, "Self-stabilizing Energy-Aware Routing Algorithm in Wireless Sensor Network with Limited Mobility", In Proc. International Conference on Distributed Computing and Internet Technology (ICDCIT), Bhubaneswar, India, 2005.
+
+### Education
+
+**Ph.D., Computer Science & Engineering**  
+
+Indian Institute of Technology Delhi
+
+**M.Tech., Computer Science & Engineering**  
+
+Indian Institute of Technology Guwahati
+
+### Areas of Research
+
+Distributed Systems
+
+Formal Verification
+
+Cloud Computing
+
+Data Science
+
+Cyberinfrastructure
+
+Software-Defined Networking
+
+Reproducible Research
+
+### Current Projects
+
+Project Tapis: Next Generation Software for Distributed Research

@@ -1,0 +1,34 @@
+1. [Home](/)
+2. [Research](/research/)
+3. [TACC Research](/research/tacc-research/)
+4. Stampede2
+
+# Stampede2
+
+### Purpose
+
+Stampede2 offers a powerful new system that builds on the success of Stampede and will continue to enable groundbreaking science. After a careful analysis of the technology landscape and the requirements of the NSF user community, TACC extended previous partnerships with Dell and Intel to deliver a new petascale science resource based on Intel's Xeon and many-core Xeon Phi technologies. Stampede2 doubles the performance of Stampede in most of the dimensions relevant to the science and engineering research community.
+
+Stampede2 is designed for effective user transition today while serving as a bridge to the compute paradigms of tomorrow, providing a uniquely balanced set of capabilities that support both capability and capacity simulation, data intensive science, visualization and data analysis. Our approach provides for a migration plan and aggressive software support to transition users while preparing them for a future of systems with many more cores and deeper memory hierarchies. Users have the benefit of working with the standard HPC-based Linux toolchain, including OpenMP and MPI, to express parallelism in the language of their choice.
+
+The Stampede2 project is not just about the system; our proposal is anchored by an experienced team of partners and vendors with a community-leading track record of performance. The Stampede2 system deployment is complemented by a complete operations approach that includes user support and training, education, outreach, documentation, data management, visualization, analytics-driven application support, and research collaboration. The system is also be supported by a set of software services, include Application Programmer Interfaces (APIs) to support an evolving user base that will make more extensive use of science gateways, automated workflows, and web services.
+
+TACC is a full partner and Level-1 Service Provider in XSEDE, and has offered its unique resources to the nation as part of the XSEDE program. Stampede2 also reaches beyond XSEDE to directly engage the largest consumers and producers of CI, including critical domain specific science efforts (e.g. LIGO, iPlant, NEON, etc.), key community software developers, the nascent software institutes in Science Gateways and Materials Research, and Research Collaboration Networks (RCNs). We are partnering with other providers to provide an integrated CI experience for Stampede2 users, with the Digital Preservation Network, and the nascent National Data Service. Finally, Stampede2 is tightly coupled with complimentary resource projects provided to the NSF community by TACC and its partners, including the Jetstream system for cloud services, Wrangler for data intensive computing, and Maverick for interactive visualization.
+
+### Contributors
+
+**Dan Stanzione**  
+
+Executive Director
+
+### Related Links
+
+* [Stampede2 System Page](/systems/stampede2)
+
+### Publications
+
+Dan Stanzione, Bill Barth, Tommy Minyard, Niall Gaffney, Chris Hempel, Kelly Gaither, et al. "Stampede 2: The Evolution of an XSEDE Supercomputer.," PEARC'17 Conference, v.1, 2017.
+
+### Funding Source
+
+[National Science Foundation, Award #1540931](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1540931)

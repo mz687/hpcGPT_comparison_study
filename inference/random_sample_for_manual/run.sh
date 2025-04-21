@@ -1,0 +1,16 @@
+python3 main.py \
+        --num_samples 200 \
+        --output_file /path/to/random_samples_examples_single_round.json \
+        --deduplication_file_path ./random_samples_examples.json \
+        --generated_answers /path/to/BASE/eval_results_chatbot.json \
+        --generated_answers /path/to/ICL/eval_results_chatbot.json \
+        --generated_answers /path/to/RAG/eval_results_chatbot.json \
+        --generated_answers /path/to/RAG+ICL/eval_results_chatbot.json \
+        --generated_answers /path/to/llama3.1-8B/SFT/eval_answered_k_2_distributed.json \
+        --generated_answers /path/to/llama3.1-8B/SFT+ICL/eval_answered_k_2_distributed.json \
+        --generated_answers /path/to/llama3.1-8B/SFT+RAG/eval_answered_k_2_distributed.json \
+        --generated_answers /path/to/llama3.1-8B/SFT+RAG+ICL/eval_answered_k_2_distributed.json \
+        --generated_answers /path/to/llama3.1-8B-Instruct/SFT/eval_answered_k_2_distributed.json \
+        --generated_answers /path/to/llama3.1-8B-Instruct/SFT+ICL/eval_answered_k_2_distributed.json \
+        --generated_answers /path/to/llama3.1-8B-Instruct/SFT+RAG/eval_answered_k_2_distributed.json \
+        --generated_answers /path/to/llama3.1-8B-Instruct/SFT+RAG+ICL/eval_answered_k_2_distributed.json \

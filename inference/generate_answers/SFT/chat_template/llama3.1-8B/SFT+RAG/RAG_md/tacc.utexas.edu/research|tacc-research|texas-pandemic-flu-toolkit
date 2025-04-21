@@ -1,0 +1,20 @@
+1. [Home](/)
+2. [Research](/research/)
+3. [TACC Research](/research/tacc-research/)
+4. Texas Pandemic Flu Toolkit
+
+# Texas Pandemic Flu Toolkit
+
+### Purpose
+
+The Texas Pandemic Flu Toolkit is a collection of tools for forecasting and simulating flu pandemics, as well as optimizing health resources across the state. These tools are made available via a web-based interface, where users can compute new models and interactively visualize results using a variety of methods. These tools are used by DSHS in preparation for future pandemics, and in response for actual pandemics when they occur. The project leveraged tools from a previous collaboration during the 2009 H1N1 pandemic.
+
+### Contributors
+
+**Paul Navratil**  
+
+Director, Strategic Technologies
+
+### Funding Source
+
+Texas Department of State Health Services (DSHS)

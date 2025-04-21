@@ -1,0 +1,93 @@
+# Stallion User Guide
+
+*Last update: January 25, 2023*
+
+Stallion (stallion.tacc.utexas.edu) is a Dell Linux visualization cluster and large high-resolution tiled display, located in TACC’s Visualization Laboratory (VisLab), 2.404A Peter O’Donnel building (POB) on UT’s main campus in Austin. The system consists of a Dell Precision 690 head node, 18 Dell XPS 720 rendering nodes, and 18 Samsung 8k 65” QLED televisions arranged in a 6 x 3 configuration. Altogether, Stallion provides users with 37 graphics processing units (GPUs), over 164 GB of graphics memory, and a 597 megapixel display.
+
+Stallion is an ideal resource for users wishing to explore and present terascale datasets / geometries or ultra high-resolution imagery. Its resolution allows users to, in the same view, examine large-scale global features of their data from a distance and fine-scale local features close up. Users can also examine multiple views of their data (for example, different timesteps) simultaneously. There is plenty of open standing room allowing large groups to view the display together.
+
+Stallion needs to be scheduled in advance (<https://tacc.utexas.edu/use-tacc/visualization-services/reservations/>, (512) 475-9411) and is available for UT faculty, staff and students for educational and research purposes. The VisLab is open Monday-Friday 9-5 and staff is on-site to help operate the system. It’s best to discuss display content with staff in advance to confirm appropriateness and format compatibility.
+
+## System Configuration
+
+| Head Node stallion.tacc.utexas.edu | Dell Precision T7900 workstations 1 NVIDIA Quadro K5000 graphics card 2 X 8-core Intel Sandy Bridge 2687W @ 3.1 GHz 128 GB memory 1 TB local disk |
+| --- | --- |
+| Rendering Nodes s1 through s18 | Dell XPS 720 desktop 2 x NVIDIA Quadro K5000 graphics cards 2 x 6-core Intel Sandy Bridge 2667W @ 2.9 GHz 64 GB memory 1 TB local disk |
+| Tiled Display | 18 x Samsung 8k 65” QLED tv’s Arrangement: 6 x 3 configuration Individual resolution: 7680 x 4320 Combined resolution: 46,080 x 12,960 (597 megapixels) |
+| Shared Storage | 500 GB /home, 4.5 TB /work |
+| Interconnect | 1 gigabit Ethernet 10 gigabit InfiniBand 4x |
+
+### File Systems
+
+Users are provided with a home directory which is limited to 500 MB. This home directory is routinely backed up. In addition, users are provided with a directory on the 4.5 TB /work filesystem. There are no quotas on /work; however, it may be purged when it becomes full, and is not backed up. The environment variables $HOME and $WORK point to these directories. Both /home and /work are shared between the head node and all of the render nodes.
+
+### Computing Environment
+
+DisplayCluster is a software environment for interactively driving large-scale tiled displays like Stallion. The software allows users to interactively view media such as high-resolution imagery and video, as well as stream content from remote sources such as laptops / desktops or high-performance remote visualization machines. Additionally, Python scripting can be used to automate interaction with DisplayCluster.
+
+## Applications
+
+### DisplayCluster
+
+DisplayCluster presents graphics on the 28.5’ X 8’ 600 megapixel monitor wall.
+Before you can use the display, you must power on the televisions individually with the remote (TACC staff in the VisLab will provide), noting you need to hold and aim the remote close to the sensor at bottom right otherwise you’ll be randomly powering on and off neighboring units.
+Then at Stallion’s console:
+Open a terminal window and enter
+$ stallion\_on (it will continue running until it’s exited after you’re finished with displaycluster, note below)
+
+Open a second terminal window and enter
+$ startdisplaycluster (its interface will start up)
+
+When finished with DisplayCluster:
+
+Quit displaycluster with upper left pull-down on its interface
+
+Exit out of ‘stallion\_on’ (note above) with a cntl-C keystroke in the window it’s running in.
+
+Then in that same window enter:$ stallion\_off
+
+Check the televisions to be sure they’re all off, which will take a few minutes (sensor will show red light). If necessary power off the televisions individually with the remote.
+
+Stallion’s televisions’ settings: (please only adjust settings with the assistance of TACC VisLab staff, and if they are changed confirm they’re back to these defaults when you’re finished with them)
+
+-Timeout: 8 hours so unless that’s been changed and you’re on an extra-long session the tv’s might time out while you’re still using them. If this happens use the remote to power them back on.
+
+-Graphics:
+
+-Source: PC
+
+### Scalable Adaptive Graphics Environment (SAGE)
+
+[SAGE](http://www.evl.uic.edu/cavern/sage/) is a graphics streaming architecture for collaborative scientific visualization environments developed at the Electronic Visualization Laboratory at the University of Illinois at Chicago. SAGE applications stream pixel data to the rendering nodes driving the tiled display. SAGE then renders the content to the display with a user-specified position and size, scaling the content if necessary. SAGE is ideal for displaying imagery and video content. Users can run an arbitrary number of SAGE applications, dynamically positioning them on the tiled display using the SAGE user interface.
+
+#### Launching SAGE
+
+1. Login to the Stallion head node console. In a terminal, run the following:
+
+   ```
+   $ module load sage
+   $ startsage
+   ```
+2. When the GUI appears, hit the ‘Start’ button. The screens will one-by-one turn black as SAGE processes are started.
+3. Open the SAGE user interface by connecting to Stallion (shown in a list of tiled displays). This interface allows you to position and scale your content on the tiled display.
+4. You can now run your SAGE applications.
+
+#### Viewing images with SAGE
+
+The SAGE image viewer is ideal for viewing medium- to high-resolution static imagery. For extremely large images (those greater than 100 megapixels), see the Magic Carpet section. To use the image viewer, run the following in a terminal:
+
+```
+$ module load sage
+$ imageviewer
+```
+#### Playing animations with SAGE
+
+MPlayer has been compiled with SAGE support. Users can thus play most kinds of video content to the tiled display. To use the SAGE-enabled MPlayer, run the following in a terminal:
+
+```
+$ module load sage
+$ mplayer
+```
+## References
+
+* [SAGE](http://www.evl.uic.edu/cavern/sage/)

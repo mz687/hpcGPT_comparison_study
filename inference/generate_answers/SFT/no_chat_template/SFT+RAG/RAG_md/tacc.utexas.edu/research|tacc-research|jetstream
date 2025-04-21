@@ -1,0 +1,38 @@
+1. [Home](/)
+2. [Research](/research/)
+3. [TACC Research](/research/tacc-research/)
+4. Jetstream
+
+# Jetstream2
+
+### Purpose
+
+Jetstream is a new type of computational research resource for the national (non-pclassified) research community - a data analysis and computational resource that scientists and engineers use interactively to conduct their research anytime, anywhere. Jetstream complements current NSF-funded computational resources and brings a cloud-based system to the NSF computational resources incorporating the best elements of commercial cloud computing resources with some of the best software in existence for solving important scientific problems.
+
+In terms of technical details, Jetstream is a configurable large-scale computing resource that leverages both on-demand and persistent virtual machine technology to support a much wider array of software environments and services than current NSF resources can accommodate. As a fully configurable "cloud" resource, Jetstream bridges the obvious major gap in the current ecosystem, which has machines targeted at large-scale high performance computing, high memory, large data, high-throughput, and visualization resources. As the open cloud for science, Jetstream:
+
+* Provides "self-serve" academic cloud services, enabling researchers or students to select a VM image from a published library, or alternatively to create or customize their own virtual environment for discipline- or task-specific personalized research computing.
+* Hosts persistent VMs to provide services beyond the command line interface for science gateways and other science services. For example, Jetstream will become a primary host of the popular Galaxy scientific workbench and its main datasets, bringing many Galaxy users to the NSF ecosystem from day one.
+* Enables new modes of sharing computations, data, and reproducibility.
+* Expands access to the NSF XSEDE ecosystem by making virtual desktop services accessible from institutions with limited resources
+
+### Contributors
+
+**John Fonner, PhD**  
+
+Director, Special Projects
+
+### Related Links
+
+* [Jetstream System Page](/systems/jetstream2)
+* [Jetstream2 Website](https://jetstream-cloud.org/)
+
+### Publications
+
+John Towns, Timothy Cockerill, Maytal Dahan, Ian Foster, Kelly Gaither, Andrew Grimshaw, Victor Hazlewood, Scott Lathrop, Dave Lifka, Gregory D. Peterson, Ralph Roskies, J. Ray Scott, Nancy Wilkins-Diehr, "XSEDE: Accelerating Scientific Discovery", Computing in Science & Engineering, vol.16, no. 5, pp. 62-74, Sept.-Oct. 2014, DOI: [10.1109/MCSE.2014.80](https://doi.org/10.1109/MCSE.2014.80)
+
+Stewart, C.A., Cockerill, T.M., Foster, I., Hancock, D., Merchant, N., Skidmore, E., Stanzione, D., Taylor, J., Tuecke, S., Turner, G., Vaughn, M., and Gaffney, N.I., Jetstream: a self-provisioned, scalable science and engineering cloud environment. 2015, In Proceedings of the 2015 XSEDE Conference: Scientific Advancements Enabled by Enhanced Cyberinfrastructure. St. Louis, Missouri. ACM: 2792774. p. 1-8. DOI: [10.1145/2792745.2792774](http://dx.doi.org/10.1145/2792745.2792774)
+
+### Funding Source
+
+[National Science Foundation, Award #1445604](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1445604)

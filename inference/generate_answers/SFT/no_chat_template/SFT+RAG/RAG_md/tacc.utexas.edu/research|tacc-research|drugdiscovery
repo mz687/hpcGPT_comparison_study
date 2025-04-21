@@ -1,0 +1,31 @@
+1. [Home](/)
+2. [Research](/research/)
+3. [TACC Research](/research/tacc-research/)
+4. DrugDiscovery@TACC
+
+# DrugDiscovery@TACC
+
+### Purpose
+
+Computational drug screening is an important and ubiquitous first step in finding new therapeutic drugs. Though computationally intensive, it helps researchers find promising drug candidates among the tens of millions of commercially available compounds, which researchers then use in further experimental evaluations.
+
+Built in collaboration with the Watowich laboratory at The University of Texas Medical Branch at Galveston, the DrugDiscovery@TACC web portal allows researchers to perform drug screening using the Autodock Vina (Scripps) program on the Lonestar5 supercomputer to search more than 700,000 drug-like compounds in only a few hours. With over 5 million CPU hours used to date, hundreds of academic researchers who would not otherwise have the resources for drug screening at this scale have been able to search for drug candidates for important diseases.
+
+### Contributors
+
+**Joe Allen**  
+
+Research Associate
+
+**John Fonner**  
+
+Research Associate
+
+### Related Links
+
+* [Drug Discovery Portal](https://drugdiscovery.tacc.utexas.edu)
+* [Autodock Vina](http://vina.scripps.edu/)
+
+### Funding Source
+
+Free

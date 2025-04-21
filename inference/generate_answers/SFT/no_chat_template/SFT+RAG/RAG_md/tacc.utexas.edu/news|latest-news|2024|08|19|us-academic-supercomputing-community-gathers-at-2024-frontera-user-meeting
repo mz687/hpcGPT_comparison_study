@@ -1,0 +1,51 @@
+1. [Home](/)
+2. [News](/news/)
+3. Latest News
+
+*List*
+
+*Grid*
+
+# U.S. Academic Supercomputing Community Gathers at 2024 Frontera User Meeting
+
+## Scientists highlighted research and discoveries in astrophysical plasmas, solar wind, plate tectonics, and more
+
+* by[Faith Singer](/news/latest-news/author/faith/)
+
+* Aug. 19, 2024
+
+* [Feature Story](/news/latest-news/category/feature-story/)
+
+share this:
+
+More than 50 scientists gathered in Austin for the 2024 Frontera User Meeting held at TACC in early August. This community of computational scientists and engineers from across the nation presented recent discoveries from research projects, discussed plans for future systems, and exchanged views on how to make effective use of Frontera.
+
+More than 50 scientists gathered in Austin for the 2024 Frontera User Meeting held at the Texas Advanced Computing Center (TACC), August 5-6. This community of computational scientists and engineers from across the nation presented recent discoveries from research projects, discussed plans for future systems, and exchanged views on how to make effective use of [Frontera](https://tacc.utexas.edu/systems/frontera/), one of the most powerful academic supercomputers in the U.S. funded by the National Science Foundation (NSF).
+
+New this year was a half-day training related to TACC’s Vista supercomputer (in the early user period and not officially announced), a new Arm-based system integrating NVIDIA’s new CPU and GPU technologies named [“Grace” and “Hopper”](https://en.wikipedia.org/wiki/Grace_Hopper) for simulation and machine learning. This system will be the first of many at TACC based on a unified memory architecture that tightly integrates CPUs and GPUs.
+
+Tommy Minyard, TACC's Director of Advanced Computing Systems, leads a tour in the machine room on the J.J. Pickle Research Campus.
+
+In his welcome remarks, TACC Executive Director Dan Stanzione discussed plans for the future of Frontera, the evolution of GPU resources on TACC systems, and the [U.S. NSF Leadership-Class Computing Facility (LCCF)](https://new.nsf.gov/news/nsf-announces-groundbreaking-computing-facility), a cutting-edge distributed project led by TACC that will revolutionize computational research and development.
+
+“The Frontera project and now the NSF LCCF project are a reality because we have all of you running on these systems and supporting us in putting them together through the years,” Stanzione said. “Over the next day you will hear from each other on how you’re using Frontera, and most importantly, TACC gets to hear from you, and that’s especially important, because we’ve started construction on the LCCF.”
+
+Zuzanna Jedlinska, a Frontera Fellow from the 2023-2024 cohort, presented her paper titled: “MATILDA.FT: A GPU accelerated software for coarse-grained molecular dynamics simulations.”
+
+The LCCF is expected to begin operations in 2026 and will deploy the largest academic supercomputer, Horizon, dedicated to open-scientific research in the NSF portfolio. Horizon will provide 10 times performance improvement for simulation over Frontera; for AI applications, the leap forward will be even larger, with more than 100 times improvement over Frontera.
+
+Horizon will include a significant investment in GPUs to enable state-of-the-art AI research and more general-purpose processors to support the diverse needs for simulation-based inquiry across all scientific disciplines. In addition to Horizon, LCCF will provide a range of large-scale data storage systems and interactive computing capabilities.
+
+Access to the facility will be open to all scientists and engineers nationwide with allocations to the facility determined through open peer-reviewed processes.
+
+Additionally, attendees learned more about the [Frontera Fellowship program](https://frontera-portal.tacc.utexas.edu/fellowship/), which provides a year-long opportunity for graduate students to compute and collaborate with experts at TACC.
+
+The [outgoing Frontera Fellows](https://tacc.utexas.edu/news/latest-news/2024/07/19/frontera-fellows-good-luck/) (2023-2024) and [incoming Fellows (2024-2025)](https://tacc.utexas.edu/news/latest-news/2024/07/26/frontera-fellows-welcome-aboard/) were in attendance at this year’s user meeting.
+
+Zuzanna Jedlinska, a Fellow from the 2023-2024 cohort, presented her paper titled: “MATILDA.FT: A GPU accelerated software for coarse-grained molecular dynamics simulations.”
+
+When asked how the Frontera Fellowship will help her move forward in her field of research, Zuzanna said: “I improved my software design skills throughout the Fellowship. These skills will help me code faster, better, and more efficiently. The Fellowship also gave me the resources necessary for performing simulations, which resulted in one published paper and one in progress.”
+
+These are “truly exceptional students who did spectacular work on the systems enhancing their codes and using the GPUs,” Stanzione said. “And the ‘best of the best’ is about to start their fellowship for 2024-2025.”
+
+**For a full list of scientists who presented (and available presentations) visit: [2024 Frontera User Meeting](https://frontera-portal.tacc.utexas.edu/user-meeting/2024/).**

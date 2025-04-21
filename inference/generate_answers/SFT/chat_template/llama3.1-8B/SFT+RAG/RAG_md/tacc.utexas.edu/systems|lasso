@@ -1,0 +1,24 @@
+1. [Home](/)
+2. [Systems](/systems/)
+3. Lasso
+
+# Lasso
+
+## Multi-touch Display
+
+Lasso is a multi-touch display in TACC's Visualization Laboratory. At a resolution of 12.4 megapixels (5760x2160), the tiled-display consists of (6) 46" monitors in a 3x2 grid configuration and is driven by a single node using AMD Eyefinity technology. The display's most prominent feature is the PQ Labs 32-point multi-touch infrared perimeter, allowing seamless multi-touch across the display surface. Lasso is also augmented with a Microsoft Kinect for touch-less interaction.
+
+### System Specifications
+
+| Operating System | OS Windows 8.1 SP1, CentOS 6 |
+| --- | --- |
+| Resolution | 12.4 megapixels (5760x2160) |
+| Number of Monitors | (6) 46" monitors |
+| Graphics Card | AMD FirePro V9800 with 4GB texture memory |
+| Multi-Touch Characteristics | 32 simultaneous touch points, 5mm precision, 60Hz update rate, infrared detection with PQ Labs Overlay |
+
+### Lasso White Paper
+
+For more information about development, read Lasso's White Paper: Integrating Multi-touch in High-Resolution Display Environments
+
+[Lasso White Paper](/media/filer_public/03/15/0315246c-90f3-44da-8a8f-12ff21f823a9/lasso-white-paper.pdf)

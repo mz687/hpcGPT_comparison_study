@@ -1,0 +1,31 @@
+1. [Home](/)
+2. [Research](/research/)
+3. [TACC Research](/research/tacc-research/)
+4. Advanced Computing and Evaluation Laboratory (ACELab)
+
+# ACELab
+
+### Purpose
+
+The mission of the TACC Advanced Computing Evaluation Laboratory (ACELab) is to foster development of future computing technologies for computational science research through deployment of state-of-the-art hardware, measurement and documentation of the characteristics of important user applications, and the creation of new and updated benchmarks. Ongoing effort covers a range of technologies that are pushing the limits of high performance computing (HPC) systems, including:
+
+* AMD, ARM, Intel and SPARC processors
+* Intel Xeon Phi Co-processors
+* AMD and NVIDIA GPUs
+* Intel and Mellanox high performance networks
+* Other experimental systems and technologies under development by vendors
+
+The ACELab develops and packages open source benchmarks appropriate for the HPC environment. These include micro-benchmarks and application-level or "user experience" benchmarks. The lab also conducts research to produce new techniques and tools for using current and planned computing technologies, and provides guidance for the design of future computing technologies effectively.
+Results from the ACELab support current and future research projects, including the prediction of application performance and energy consumption based on micro-benchmarks and application profiling data. Such predictions could, for example, assist users in determining the impact of network and file system contention on application throughput, or provide a preview of which computational algorithms are likely to be most effective on future systems.
+
+Hardware vendors that contribute to the ACELab receive periodic reports describing the results achieved with their relevant systems for the life of the system.
+
+### Contributors
+
+**John McCalpin**  
+
+Research Scientist
+
+### Related Links
+
+Industrial HPC users may submit requests for application benchmarks and receive copies of reports through membership in [TACC's STAR program](/partnerships/star-industry-program/).

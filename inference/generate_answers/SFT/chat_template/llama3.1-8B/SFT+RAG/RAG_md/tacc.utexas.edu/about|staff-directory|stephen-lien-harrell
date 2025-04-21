@@ -1,0 +1,136 @@
+1. [Home](/)
+2. [About](/about/)
+3. [Staff Directory](/about/staff-directory/)
+4. Stephen Lien Harrell
+
+# Stephen Lien Harrell
+
+## HPC Engineering Scientist High Performance Computing
+
+Email: **[sharrell@tacc.utexas.edu](mailto:sharrell@tacc.utexas.edu)**
+
+ [ORCID](https://orcid.org/0000-0001-5327-525X)
+
+Stephen Lien Harrell joined TACC in 2020 as an Engineering Scientist in the HPC Performance and Architectures Group at the Texas Advanced Computing Center. He is primarily focused on benchmarking tools and infrastructure for performance analysis. Previously, Stephen spent more than 6 years as a Senior Computational Scientist in the Research Computing group and 6 years before that in the HPC Systems group at Purdue. Stephen has been involved in reproducibility efforts at the SC conference series and is the chair for the ACM SIGHPC Computational and Data Science Fellowship.
+
+### Selected Publications
+
+Protecting Metadata Servers From Harm Through Application-level I/O Control, Macedo, R., Miranda, M., Tanimura, Y., Haga, J., Ruhela, A., Harrell, S., Evans, R., and Paulo, J. IEEE International Conference on Cluster Computing (CLUSTER), Heidelberg, Germany, September 6th, 2022. ([doi](https://doi.org/10.1109/CLUSTER51413.2022.00075))
+
+Advancing Adoption of Reproducibity in HPC: A Preface to the Special Section, Harrell, S., Michael, S., Maltzahn, C., IEEE Transactions on Parallel and Distributed Systems, Volume 33, Issue 9, September 2022, Pages 2011-2013 ([doi](https://doi.org/10.1109/TPDS.2021.3128796))
+
+VPIC 2.0: Next Generation Particle-in-Cell Simulations, Bird, R., Tan, N., Luedtke, S., Harrell, S., Taufer, M., Albright, B., IEEE Transactions on Parallel and Distributed Computing, Volume 33, Issue 4, April, 1 2022, Pages 952-963 ([doi](https://doi.org/10.1109/TPDS.2021.3084795))
+
+Characterizing Containerized HPC Application Performance at Petascale on CPU and GPU Architectures, Ruhela, A., Harrell, S., Evans, R., Zynda, G., Fonner, J., Vaughn, M., Minyard, T., Cazes, J., ISC High Performance, June 24th-Jul 2nd, 2021 ([doi](http://doi.org/10.1007/978-3-030-78713-4_22))
+
+Optimizing GPU-enhanced HPC System and Cloud Procurements for Scientific Workloads, Evans, R., Cawood, M., Harrell, S., Huang, L., Liu, S., Lu, C., Ruhela, A., Wang, I., Zhang, Z.,ISC High Performance, June 24th-July 2nd, 2021([doi](http://doi.org/10.1007/978-3-030-78713-4_17))
+
+BenchTool: a framework for the automation and standardization of HPC performance benchmarking, Cawood, M., Harrell, S., Evans, R.,, PEARC'21: Practice and Experience in Advanced Research Computing, Virtual Conference, July 19th-22nd, 2021 ([doi](https://doi.org/10.1145/3437359.3465611))
+
+Defining Performance of Scientific Application Workloads on the AMD Milan Platform, Wu, T., Harrell, S., Lentner, G., Younts, A., Weekly, S., Mertes, Z., Maji, A., Smith, P., Zhu, X., PEARC'21: Practice and Experience in Advanced Research Computing, Virtual Conference, July 19th-22nd, 2021 ([doi](https://doi.org/10.1145/3437359.3465596))
+
+Research Computing on Campus - Application of a Production Function to the Value of Academic High-Performance Computing, Smith, P., Harrell, S.. PEARC'21: Practice and Experience in Advanced Research Computing, Virtual Conference, July 19th-22nd, 2021 ([doi](https://doi.org/10.1145/3437359.3465564))
+
+Transparency and Reproducibility Practice in Large-scale Computational Science: A Preface to the Special Section, Plale, B., Harrell, S., IEEE Transactions on Parallel and Distributed Systems, Volume 32, Issue 11, November 2021, Pages 2607-2608 ([doi](https://doi.org/10.1109/TPDS.2021.3058393))
+
+Effective Performance Portability. Harrell, S., Kitson, J., Bird, R., Pennycook, J., Sewall, J., Jacobsen, D., Asanza, D., Hsu, A., Kim, H., Robey, R. P3HPC18: International Workshop on Performance, Portability and Productivity in HPC, Dallas, TX. November 16th, 2018. ([doi](https://doi.org/10.1109/P3HPC.2018.00006))
+
+Student Cluster Competition: A Multi-disciplinary Undergraduate HPC Educational Tool. Harrell, S. Nam, H. A., Vergara, V., Keville, K., Kamalic, D. EduHPC-15: Workshop on Education for High-Performance Computing, Austin, TX. November 16th, 2015. ([doi](http://doi.org/10.1145/2831425.2831428))
+
+Cost-effective HPC: The Community or the Cloud? Carlyle, A., Harrell, S., Smith, P. IEEE International Conference on Cloud Computing Technology and Science. Indianapolis, IN. November 30th-December 3rd, 2010. ([doi](http://doi.org/10.1109/CloudCom.2010.115))
+
+### Education
+
+**B.S., Computer Science**  
+
+Purdue University
+
+### Areas of Research
+
+Benchmarking and Performance Analysis
+
+Performance Portability
+
+Reproducibility
+
+### Memberships
+
+Chair, ACM SIGHPC Computational & Data Science Fellowship
+
+Senior Member, ACM
+
+### Current Projects
+
+CNS-2016608  
+
+**CCRI: ENS: Collaborative Research: Open Computer System Usage Repository and Analytics Engine**
+
+OAC-2137603  
+
+**Track 4: Advanced CI Coordination Ecosystem: Monitoring and Measurement Services**
+
+# Stephen Lien Harrell
+
+## HPC Engineering Scientist High Performance Computing
+
+Email: **[sharrell@tacc.utexas.edu](mailto:sharrell@tacc.utexas.edu)**
+
+ [ORCID](https://orcid.org/0000-0001-5327-525X)
+
+Stephen Lien Harrell joined TACC in 2020 as an Engineering Scientist in the HPC Performance and Architectures Group at the Texas Advanced Computing Center. He is primarily focused on benchmarking tools and infrastructure for performance analysis. Previously, Stephen spent more than 6 years as a Senior Computational Scientist in the Research Computing group and 6 years before that in the HPC Systems group at Purdue. Stephen has been involved in reproducibility efforts at the SC conference series and is the chair for the ACM SIGHPC Computational and Data Science Fellowship.
+
+### Selected Publications
+
+Protecting Metadata Servers From Harm Through Application-level I/O Control, Macedo, R., Miranda, M., Tanimura, Y., Haga, J., Ruhela, A., Harrell, S., Evans, R., and Paulo, J. IEEE International Conference on Cluster Computing (CLUSTER), Heidelberg, Germany, September 6th, 2022. ([doi](https://doi.org/10.1109/CLUSTER51413.2022.00075))
+
+Advancing Adoption of Reproducibity in HPC: A Preface to the Special Section, Harrell, S., Michael, S., Maltzahn, C., IEEE Transactions on Parallel and Distributed Systems, Volume 33, Issue 9, September 2022, Pages 2011-2013 ([doi](https://doi.org/10.1109/TPDS.2021.3128796))
+
+VPIC 2.0: Next Generation Particle-in-Cell Simulations, Bird, R., Tan, N., Luedtke, S., Harrell, S., Taufer, M., Albright, B., IEEE Transactions on Parallel and Distributed Computing, Volume 33, Issue 4, April, 1 2022, Pages 952-963 ([doi](https://doi.org/10.1109/TPDS.2021.3084795))
+
+Characterizing Containerized HPC Application Performance at Petascale on CPU and GPU Architectures, Ruhela, A., Harrell, S., Evans, R., Zynda, G., Fonner, J., Vaughn, M., Minyard, T., Cazes, J., ISC High Performance, June 24th-Jul 2nd, 2021 ([doi](http://doi.org/10.1007/978-3-030-78713-4_22))
+
+Optimizing GPU-enhanced HPC System and Cloud Procurements for Scientific Workloads, Evans, R., Cawood, M., Harrell, S., Huang, L., Liu, S., Lu, C., Ruhela, A., Wang, I., Zhang, Z.,ISC High Performance, June 24th-July 2nd, 2021 ([doi](http://doi.org/10.1007/978-3-030-78713-4_17))
+
+BenchTool: a framework for the automation and standardization of HPC performance benchmarking, Cawood, M., Harrell, S., Evans, R.,, PEARC'21: Practice and Experience in Advanced Research Computing, Virtual Conference, July 19th-22nd, 2021 ([doi](https://doi.org/10.1145/3437359.3465611))
+
+Defining Performance of Scientific Application Workloads on the AMD Milan Platform, Wu, T., Harrell, S., Lentner, G., Younts, A., Weekly, S., Mertes, Z., Maji, A., Smith, P., Zhu, X., PEARC'21: Practice and Experience in Advanced Research Computing, Virtual Conference, July 19th-22nd, 2021 ([doi](https://doi.org/10.1145/3437359.3465596))
+
+Research Computing on Campus - Application of a Production Function to the Value of Academic High-Performance Computing, Smith, P., Harrell, S.. PEARC'21: Practice and Experience in Advanced Research Computing, Virtual Conference, July 19th-22nd, 2021 ([doi](https://doi.org/10.1145/3437359.3465564))
+
+Transparency and Reproducibility Practice in Large-scale Computational Science: A Preface to the Special Section, Plale, B., Harrell, S., IEEE Transactions on Parallel and Distributed Systems, Volume 32, Issue 11, November 2021, Pages 2607-2608 ([doi](https://doi.org/10.1109/TPDS.2021.3058393))
+
+Effective Performance Portability. Harrell, S., Kitson, J., Bird, R., Pennycook, J., Sewall, J., Jacobsen, D., Asanza, D., Hsu, A., Kim, H., Robey, R. P3HPC18: International Workshop on Performance, Portability and Productivity in HPC, Dallas, TX. November 16th, 2018. ([doi](https://doi.org/10.1109/P3HPC.2018.00006))
+
+Student Cluster Competition: A Multi-disciplinary Undergraduate HPC Educational Tool. Harrell, S. Nam, H. A., Vergara, V., Keville, K., Kamalic, D. EduHPC-15: Workshop on Education for High-Performance Computing, Austin, TX. November 16th, 2015. ([doi](http://doi.org/10.1145/2831425.2831428))
+
+Cost-effective HPC: The Community or the Cloud? Carlyle, A., Harrell, S., Smith, P. IEEE International Conference on Cloud Computing Technology and Science. Indianapolis, IN. November 30th-December 3rd, 2010. ([doi](http://doi.org/10.1109/CloudCom.2010.115))
+
+### Current Projects
+
+CNS-2016608  
+
+**CCRI: ENS: Collaborative Research: Open Computer System Usage Repository and Analytics Engine**
+
+OAC-2137603  
+
+**Track 4: Advanced CI Coordination Ecosystem: Monitoring and Measurement Services**
+
+### Areas of Research
+
+Benchmarking and Performance Analysis
+
+Performance Portability
+
+Reproducibility
+
+### Memberships
+
+Chair, ACM SIGHPC Computational & Data Science Fellowship
+
+Senior Member, ACM
+
+### Education
+
+**B.S., Computer Science**  
+
+Purdue University

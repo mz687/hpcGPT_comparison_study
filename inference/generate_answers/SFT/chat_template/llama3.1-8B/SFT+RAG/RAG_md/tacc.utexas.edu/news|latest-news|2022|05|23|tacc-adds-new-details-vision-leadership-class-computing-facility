@@ -1,0 +1,65 @@
+1. [Home](/)
+2. [News](/news/)
+3. Latest News
+
+*List*
+
+*Grid*
+
+# TACC Adds New Details to Vision for Leadership-Class Computing Facility
+
+## New resources, services for academic researchers planned for 2026 timeframe
+
+* by[Aaron Dubrow](/news/latest-news/author/adubrow/)
+
+* May 23, 2022
+
+* [Press Release](/news/latest-news/category/press-release/)
+
+share this:
+
+The LCCF advanced computing system will likely be hosted at a Switch commercial datacenter under construction on the Dell Round Rock campus, 10 miles north of TACC. Artist rendering of Switch Data Centers at the Dell Campus. [Courtesy: Switch]
+
+The Texas Advanced Computing Center (TACC) at The University of Texas at Austin passed to the next phase of the planning process for the Leadership Class Computing Facility (LCCF), a process that has many approval stages and will take about four more years.
+
+If ultimately awarded for construction, the LCCF will serve as the leading facility for advanced computing for the U.S. academic open science community, helping to solve the most computationally demanding problems. In March 2022, the peer-review panel organized by the National Science Foundation (NSF) highly recommended that the project move to the Final Design stage.
+
+"The LCCF will be a unique facility," said Dan Stanzione, Executive Director of TACC and Associate Vice-President for Research at UT Austin. "It will have a broader mission than the Department of Energy with support for a broader range of codes. And it will be more focused on science than the commercial cloud can be, with the hardware, software and — most importantly — people needed to power discoveries. We're excited to receive positive responses from the panel and to kick off the next stage of design and planning."
+
+> "The LCCF will be a unique facility. It will have a broader mission than the Department of Energy with support for a broader range of codes. And it will be more focused on science than the commercial cloud can be, with the hardware, software and — most importantly — people needed to power discoveries."
+> Dan Stanzione, Executive Director of TACC and Associate Vice-President for Research at UT Austin
+
+When complete, thousands of scholars and students will interact with the LCCF every year. The primary stakeholders for the LCCF are U.S. academic scholars doing large-scale modeling and simulation; researchers at large scientific facilities, like LIGO and the Large Hadron Collider; AI and machine learning researchers; and the broader cyberinfrastructure community, including staff at other supercomputing centers.
+
+TACC announced as part of its preliminary design presentation that the LCCF advanced computing system will likely be hosted at a Switch commercial datacenter under construction on the Dell Round Rock campus, 10 miles north of TACC. A new facility on the J.J. Pickle Research Campus in Austin, in a building adjacent to TACC's current datacenter, is also being considered. TACC leadership estimates co-location will save up to $80 million in construction costs, and allow the LCCF to support science nine months sooner
+
+A final decision has not been made on the main computing architecture for TACC's next generation supercomputer, which will be named "Horizon." TACC leadership presented their vision of a holistic, collaborative computing ecosystem that supports both simulation and modeling and machine and deep learning approaches, while offering a host of services and capabilities to address the entire data lifecycle — from experimental detection through analysis to publicly shared dataset.
+
+### Partnering with HPC Leaders
+
+As part of the project, the LCCF will partner with four Distributed Science Centers that will provide unique expertise across the national CI ecosystem and expand support for researchers:
+
+* The partnership with [Atlanta University Center (AUC) Data Science Initiative](https://datascience.aucenter.edu/) will leverage four Historically Black Colleges & Universities (HBCU) to provide diverse workforce pathways into computing and the data sciences.
+* The partnership with the [National Center for Supercomputing Applications (NCSA)](https://www.ncsa.illinois.edu/) will explore new processor chips for artificial intelligence (AI).
+* The partnership with [Pittsburgh Supercomputing Center (PSC)](https://www.psc.edu/) will provide data intensive computing and data mirrors for published archives, as well as focus on protected data and FAIR (Findability, Accessibility, Interoperability and Reuse) access.
+* The partnership with [San Diego Supercomputer Center (SDSC)](https://www.sdsc.edu/) will provide testbeds focused on supporting machine learning inference in scientific workflow, exabyte size instrument data workflows, and methods to democratize access to the broader community.
+
+### Code Collaborations
+
+The LCCF project includes plans for CODE@LCCF. The one-week camp for middle school students, based on TACC's successful Code@TACC program, will incorporate project-based learning approach to introduce computational skills and increased awareness of computing at scale.
+
+In preparation for the LCCF, TACC is leading the newly launched [Characteristic Science Application](https://lccf.tacc.utexas.edu/application-partners/) program. With [support from NSF](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2139536&HistoricalAwards=false), the program is [funding 21 research teams](https://www.tacc.utexas.edu/-/21-scientific-codes-selected-for-new-high-performance-software-improvement-program) to work collaboratively with TACC to improve the scientific software, algorithms, and libraries.
+
+The selected applications come from a wide range of fields and utilize an array of computational approaches from molecular modeling to deep learning. Together, they form a representative sample of the research workload that TACC expects to support with the LCCF. They will also form the basis for a set of benchmarks by which improvements of the future system over Frontera will be measured.
+
+### Reaching the Missing Millions
+
+In addition to providing computing resources and assistance, the LCCF will build upon proven education and outreach programs that TACC has developed over the last decade. These include [SPICE](https://www.tacc.utexas.edu/partnerships/spice), a data science curriculum developed in association with Chaminade University in Hawaii; the [Advanced Computing for Social Change Institute](//tacc.utexas.edu/partnerships/stem-research/acsc/), a weeklong hackathon for undergraduates that foregrounds social justice and data science solutions; and [Code@TACC](https://www.tacc.utexas.edu/education/stem-programs), residential summer programs that teach underserved high school students computational science and engineering.
+
+TACC will also grow its internship program, which has been successful in bringing non-traditional candidates to the HPC field. A new learning center at TACC will serve as the hub for public engagement, training, and outreach programs.
+
+Said Kelly Gaither, Director of Health Analytics at TACC: "Not only will the LCCF serve as a research accelerator for the nation, but it will also be an agent of change, helping to bring the ‘missing millions' into the STEM and HPC fields."
+
+---
+
+Planning for the Leadership-Class Computing Facility is support by [NSF Award #1940979](https://nsf.gov/awardsearch/showAward?AWD_ID=1940979&HistoricalAwards=false).

@@ -1,0 +1,31 @@
+1. [Home](/)
+2. [Systems](/systems/)
+3. Chameleon
+
+# Chameleon
+
+## Reconfigurable Large-Scale OpenStack Cloud Tested for Computer Science and Networking Research
+
+Chameleon is a large-scale, deeply reconfigurable experimental platform built to support Computer Sciences systems research. Community projects range from systems research developing new operating systems, virtualization methods, performance variability studies, and power management research to projects in software defined networking, artificial intelligence, and resource management.
+To support experiments of this type, Chameleon has adapted OpenStack to support a bare metal reconfiguration system giving users full control of the software stack including root privileges, kernel customization, and console access.
+
+A virtualization subsystem provides finer-grained resource sharing, balanced against the coarse-grained and stronger isolation properties of bare metal.
+For even more flexibility, a Liqid composable infrastructure subsystem has been added, hosting 10 NVIDIA A100 GPUs and 16 4TB Samsung NVMe drives that can be assigned in any combination to 8 compute nodes.
+
+Chameleon is supported by awards from the National Science Foundation: [CNS-1419152](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1419152&HistoricalAwards=false), [CNS-1743354](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1743354&HistoricalAwards=false).
+
+### System Specifications
+
+| CPU types  * Intel Xeon Haswell * Intel Xeon SkyLake * Intel Xeon CascadeLake * Intel Xeon CascadeLake R * Intel Xeon IceLake * AMD EPYC Zen3 * Fujitsu A64FX ARM64 * Cavium ThunderX2(R) CPU  ---  Accellerators  * GPU * NVIDIA A100 (optional NVLink) * NVIDIA V100 (optional NVLink) * NVIDIA P100 (optional NVLink) * NVIDIA K80 * NVIDIA M40 * NVIDIA RTX 6000 * AMD MI100 * FPGA * Altera Arria 10 1150 GX FPGA * InfiniBand HDR-100  ---  Storage-hierarchy research nodes containing 512 GB RAM, 4 TB NVMe, 6.4 TB SSD's, and 2.4 TB 15K SAS HDDs  ---  Large storage nodes with 32TB in 16 locally attached HDDs |
+| --- |
+
+### User Guide
+
+Access full documentation on system architecture, software, new & advanced user information, best practices, and troubleshooting.
+
+[Chameleon User Guide](https://chameleoncloud.readthedocs.io/en/latest/)
+### Chameleon Cloud
+
+A configurable experimental environment for large-scale edge to cloud research
+
+[Access Chameleon Cloud](https://www.chameleoncloud.org/)

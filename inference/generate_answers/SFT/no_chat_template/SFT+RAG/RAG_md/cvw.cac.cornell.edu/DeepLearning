@@ -1,0 +1,18 @@
+Deep learning comprises a set of methods for Machine Learning and Artificial Intelligence, based on the use of multilayer neural networks to carry out learning. Deep learning techniques can identify patterns in data even within large data sets, and often require substantial computational resources for training model parameters and making predictions. The [Frontera](https://www.tacc.utexas.edu/systems/frontera) supercomputer at the [Texas Advanced Computing Center (TACC)](https://www.tacc.utexas.edu/) is built to support large computational workloads such as those involved with deep learning. Software packages such as TensorFlow, Keras, and PyTorch are widely used to build deep learning pipelines.
+
+##### Objectives
+
+After you complete this workshop, you should be able to:
+
+* Summarize key concepts in deep learning
+* Run deep learning programs using TensorFlow/Keras and PyTorch on TACC supercomputers
+
+##### Prerequisites
+
+Frontera is a dedicated resource for high-performance computing (HPC), so its prospective users are already likely to have a high degree of familiarity and experience with HPC and running jobs on clusters.
+
+There are no formal prerequisites for this Virtual Workshop topic. If you are unfamiliar with Linux, you might want to work through our [Linux](/linux) roadmap first.
+
+##### Requirements
+
+To run the example codes in these topics, you will need either access to a system with relatively recent versions of TensorFlow and PyTorch installed, or the ability to install those packages yourself within a Python virtual environment that you can create. To run the exercises on supercomputers at [TACC](https://www.tacc.utexas.edu/), such as Frontera you will need an allocation to the system in order to gain access. See [Frontera allocations](/frontera/intro/allocations) for more information.

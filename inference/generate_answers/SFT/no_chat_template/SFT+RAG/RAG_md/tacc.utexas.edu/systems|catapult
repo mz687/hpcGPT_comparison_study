@@ -1,0 +1,34 @@
+1. [Home](/)
+2. [Systems](/systems/)
+3. Catapult
+
+# Project Catapult
+
+**Catapult has been decommissioned and is no longer available.**
+
+## A Reconfigurable Architecture for Large Scale Machine Learning
+
+Project Catapult is an open research system deployed at TACC in partnership with a Microsoft Research project of the same name. The goal of the project is to investigate the use of field-programmable gate arrays (FPGAs) as data center accelerators to improve performance, reduce power consumption, and open new research avenues of investigation, particularly in the area of Machine Learning. Catapult was deployed by Microsoft in support of the Bing search engine.
+
+### System Specifications
+
+The system consists of 384 two-socket Intel Xeon-based nodes available for open research. Each Project Catapult node is based on the Microsoft Open CloudServer V1 design and contains with 64 GB of memory and an Altera Stratix V D5 FPGA with 8 GB of local DDR3 memory. FPGAs communicate to their host CPUs via a PCIe Gen3 x8 connection, providing 8GB/s guaranteed-not-to-exceed bandwidth, and each FPGA can read and write data stored on its host node using this connection.
+
+The FPGAs are connected to one another via a dedicated network using high-speed serial links. This network forms a two dimensional 6x8 torus within a pod of 48 servers, and provides low latency communication between neighboring FPGAs. This design supports the use of multiple FPGAs to solve a single problem, while adding resilience to server and FPGA failures.
+
+Users will be provided with access to the servers themselves, as well as access to servers on which to run FPGA tools.
+
+| Per Node: |
+| --- |
+| Two Xeon E5-2450, 2.1GHz, 8-core, 20MB Cache, 95W  64GB RAM  Four 2TB 7.2k 3G SATA 3.5"; Two 480GB 6G Micron SATA SSD 2.5"  Intel 82599 10GbE Mezz Card  Altera Stratix V FPGA Card  Operating System: Windows Server 2012 R2 |
+
+### Access Project Catapult
+
+Request an account to use Project Catapult
+
+[Request Account](https://www.microsoft.com/en-us/research/project/project-catapult/)
+### [Project Catapult Academic Program](https://www.microsoft.com/en-us/research/academic-program/project-catapult-academic-program/)
+
+### [Altera FPGA Design Software – Quartus II](https://www.intel.com/content/www/us/en/products/programmable.html)
+
+### [Altera SDK for OpenCL](https://www.intel.com/content/www/us/en/homepage.html)

@@ -1,0 +1,60 @@
+1. [Home](/)
+2. [Systems](/systems/)
+3. Vista
+
+# Vista
+
+## AI-Focused Supercomputer
+
+Vista is the bridge between Frontera, the current NSF leadership-class computing system, and the forthcoming Horizon, which will be the primary system of the U.S. NSF Leadership-Class Computing Facility, planned for 2026. Vista expands TACC’s capacity for AI and ensures that the broad science, engineering, and education research communities have access to the most advanced computing and AI technologies.
+
+Vista allocations will be available to the broad open science community through the Frontera project and the National AI Research Resource (NAIRR) pilot project.
+
+### System Specifications
+
+Vista marks a departure from the x86-based architecture used by TACC in Frontera, the Stampede systems, and Lonestar6 to CPUs based on the Advanced RISC Machines (Arm) architecture. Vista is an air-cooled system based on NVIDIA’s Grace Hopper and Grace Superchips. The compute nodes and the filesystem are connected with NVIDIA NDR infiniband providing up to 400 Gpbs bandwidth.
+
+Vista is composed of two main components, the Grace Hopper nodes (GH) and the Grace Grace nodes (GG).
+
+#### Grace Hopper Component
+
+| Processors | GH200 Superchip |
+| --- | --- |
+| Cores/Node | 72 |
+| Clock Rate | 3.1GHz |
+| Peak Performance | 34 TF FP64 67 TF FP64, Tensor Core 990 TF FP16, Tensor Core 1979 TF F8, Tensor Core |
+| Memory/Node | 120 GB LPDDR 96 GB HBM3 |
+| Local Disk | 512GB |
+| Network | 400 Gbps |
+| GPU | H100 |
+
+#### Grace Grace Component
+
+| Processors | Grace Superchip |
+| --- | --- |
+| Cores/Node | 144 |
+| Clock Rate | 3.1GHz |
+| Peak Performance | 7.1 TF FP64 |
+| Memory/Node | 240 GB LPDDR |
+| Local Disk | 512GB |
+| Network | 200 Gbps |
+
+### User Guide
+
+Access full documentation on system architecture, software, new & advanced user information, best practices, and troubleshooting.
+
+[Vista User Guide](https://docs.tacc.utexas.edu/hpc/vista/)
+
+---
+
+### NSF Award
+
+Vista is a National Science Foundation-funded supplement to Frontera: Computation for the Endless Frontier (Award #1818253)
+
+[View NSF Award](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1818253)
+
+---
+
+### Press Release
+
+[*>* Vista: AI-Focused Supercomputer in Production for Open Science Community](/news/latest-news/2024/09/04/vista-ai-focused-supercomputer-in-production-for-open-science-community/)

@@ -1,0 +1,50 @@
+1. [Home](/)
+2. [Systems](/systems/)
+3. Stampede3
+
+# Stampede3
+
+## New Stampede3 Advances NSF Supercomputing Ecosystem
+
+Stampede3 is the newest strategic resource for the nation’s open science community since entering full production in 2024.
+
+TACC’s powerful Dell Technologies and Intel based supercomputer will enable groundbreaking open science research projects in the U.S. while leveraging the nation’s previous HPC investment funds. For over a decade, the Stampede systems — Stampede (2012) and Stampede2 (2017) — have been flagships in the U.S. National Science Foundation’s (NSF) ACCESS ecosystem. Stampede3 will be the only system in the NSF [ACCESS](https://access-ci.org/) environment to integrate the new Intel Max Series GPUs.
+
+The system will also include first-class operations, user support and training, education, outreach, documentation, data management, visualization, analytics-driven application support, and research collaboration.
+
+Stampede3 is funded by the NSF Office of Advanced Cyberinfrastructure (OAC) through [award 2320757](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2320757).
+
+### System Specifications
+
+| A new four petaflop capability for high-end simulation: 560 new Intel® Xeon® CPU Max Series processors with high bandwidth memory-enabled nodes, adding 63,000 cores for the largest, most performance-intensive compute jobs. |
+| --- |
+| A new graphics processing unit/AI subsystem including 10 Dell PowerEdge XE9640 servers adding 40 new Intel® Data Center GPU Max Series processors for AI/ML and other GPU-friendly applications. |
+| Reintegration of 224 3rd Gen Intel Xeon Scalable processor nodes for higher memory applications (added to Stampede2 in 2021). |
+| Legacy hardware to support throughput computing — more than 1,000 existing Stampede2 2nd Gen Intel Xeon Scalable processor nodes will be incorporated into the new system to support high-throughput computing, interactive workloads, and other smaller workloads. |
+| The new Omni-Path Fabric 400 Gb/s technology offering highly scalable performance through a network interconnect with 24 TB/s backplane bandwidth to enable low latency, excellent scalability for applications, and high connectivity to the I/O subsystem. |
+| 1,858 compute nodes with more than 140,000 cores, more than 330 terabytes of RAM, 13 petabytes of new storage, and almost 10 petaflops of peak capability. |
+
+### User Guide
+
+Access full documentation on system architecture, software, new & advanced user information, best practices, and troubleshooting.
+
+[Stampede3 User Guide](https://docs.tacc.utexas.edu/hpc/stampede3/)
+
+### Stampede3 Announcement
+
+Learn more about Stampede3 in the press release: TACC’s New Stampede3 Advances NSF Supercomputing Ecosystem.
+
+[Stampede3 Press Release](https://tacc.utexas.edu/news/latest-news/2023/07/24/taccs-new-stampede3-advances-nsf-supercomputing-ecosystem/)
+
+### Stampede2 to Stampede3 Transition
+
+TACC announced the [Stampede3 supercomputer in July 2023](https://tacc.utexas.edu/news/latest-news/2023/07/24/taccs-new-stampede3-advances-nsf-supercomputing-ecosystem/). Below is a timeline of what to expect:
+
+#### Timeline
+
+| November 2023 | Reduction in number of SKX/ICX nodes, reduction in queue maximums |
+| --- | --- |
+| November 2023 | Stampede3 file system available |
+| December 2023 | Stampede2 file system decommissioned |
+| January 2024 | Early user period for Stampede3 |
+| April 2024 | Stampede3 in full production |

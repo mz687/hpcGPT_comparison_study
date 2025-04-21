@@ -1,0 +1,91 @@
+1. [Home](/)
+2. [News](/news/)
+3. Latest News
+
+*List*
+
+*Grid*
+
+# 21 Scientific Codes Selected for New High-Performance Software Improvement Program
+
+## "Characteristic Science Applications" program to improve scientific software, generate benchmarks for Leadership-Class Computing Facility, and demonstrate societal impact of HPC
+
+* by[Aaron Dubrow](/news/latest-news/author/adubrow/)
+
+* May 3, 2022
+
+* [Feature Story](/news/latest-news/category/feature-story/)
+
+* [Frontera](/news/latest-news/tag/frontera/)
+
+share this:
+
+A full-atom model of the SARS-CoV-2 envelope, which contains key integral proteins, like the renowned spike trimer. Though microscopic, simulations of viruses involve hundreds of millions to billions of atoms, pushing the limits of modern supercomputing capabilities. A multi-virus simulations such as the one depicted would involve several billion atoms. With upcoming resources, such as NSF TACC's Horizon, researchers hope to simulate larger and for longer, to drive scientific discovery. Credit: Eric Shinn, Tianle Chen, Karan Kapoor, Noah Trebesch, Aaron Chan, Moeen Meigooni & Emad Tajkhorshid, Theoretical and Computational Biophysics Group, NIH Center for Macromolecular Modeling and Bioinformatics, University of Illinois at Urbana-Champaign
+
+The Texas Advanced Computing Center (TACC) announced the set of 21 codes and ‘grand challenge'-class science problems that will receive funding through the "Characteristic Science Applications" program.
+
+The applications, identified by the community of large-scale scientific computing users, reflect the broad range of science domains and computational approaches— from language, to method, to workflow — that researchers will run on future supercomputers.
+
+Among the applications are software for large international experiments like the IceCube Neutrino Observatory; widely-used codes from the earthquake and astrophysics communities; and custom codes that explore new approaches to machine learning and black hole modeling. [See full list of funded applications below].
+
+The Characteristic Science Applications will be part of the planning and early science program for the [Leadership Class Computing Facility](https://lccf.tacc.utexas.edu/) (LCCF) at TACC. [Funding](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2139536&HistoricalAwards=false) from the program comes from the National Science Foundation (NSF).
+
+The IceCube Neutrino Observatory is the first detector of its kind, designed to observe the cosmos from deep within the South Pole ice. An international group of scientists responsible for the scientific research makes up the IceCube Collaboration. The Characteristic Science Application program will help IceCube researchers incorporate AI into their data processing and analysis schemes. [Credit: Yuya Makino, IceCube/NSF]
+
+The program received 140 submissions, covering all areas of science, and involving 167 institutions in 38 states. These were reviewed by TACC's HPC experts and an independent NSF panel and chosen based on the scientific significance of the problem they aim to solve; whether it adds to the representation of scientific codes that the LCCF facility will likely serve; and the current ability to solve the problem.
+
+"Extensive engagement with the diverse research community is critical to the design of LCCF," said Manish Parashar, director of NSF's Office of Advanced Cyberinfrastructure. "NSF appreciates the overwhelming response from the community to the CSA program. This will ensure that the future facility will have the broadest impact and sustain our nation's leadership in science and engineering."
+
+If awarded, the LCCF will deploy a high performance computing system in the 2026 timeframe with 10 times the capability of TACC's [Frontera](https://frontera-portal.tacc.utexas.edu/) supercomputer — currently the 13th fastest in the world and the most powerful at any university.
+
+Part of the ten-fold improvement will come through improvements in code performance. This, TACC hopes, will be accomplished through close collaborations between academic software development teams and HPC performance experts at TACC. The close collaborations will also help TACC build a system uniquely suited to the needs of scientists and engineers.
+
+"The ultimate design goal of the LCCF is to increase the pace of scientific exploration," Stanzione said. "The CSA projects serve as representatives for the set of problems the LCCF will address over its operational life. In that way, they are also a design driver for the facility, guiding the technology and service choices that comprise the LCCF."
+
+The projects will compute on Frontera, Longhorn (TACC's large GPU-based system), and numerous testbeds of alternative or experimental hardware that are, or will be, available to the research teams in the coming years.
+
+TACC expects a wealth of lessons learned and practical experience will stem from the program. These will enable the development of targeted training, supporting the goal of getting researchers ready to run effectively on LCCF on the first day of operations.
+
+> "The ultimate design goal of the [Leadership-Class Computing Facility] is to increase the pace of scientific exploration."
+> Dan Stanzione, TACC Executive Director
+
+The 21 teams selected will each be awarded $150,000 for the first year of study and design, with a commitment from the science team to collaborate with the LCCF project to improve the code and prepare it for the candidate architecture. In total, NSF awarded TACC $7 million over two years to support the CSA program.
+
+"Far too often, technologies and systems fail to deliver their full potential because the end users were insufficiently engaged," said John West, TACC deputy director and co-principal investigator on the award. "Deep engagement on a future system requires significant investment of time and energy on the part of the scientists. We have constructed the CSA program to create both incentives and ‘skin in the game' for the selected applications teams. Each will receive multi-year funding to make sure their proposed problem is relevant and ready to run when the LCCF becomes a reality."
+
+Teams making sufficient progress may be renewed for a second year of funding at the same level during final design. Ten to 15 teams will enter the construction phase of the LCCF project and be funded for approximately 30 months as the Characteristic Science Applications are demonstrated on the LCCF's HPC resources.
+
+One of the research projects selected aims to improve multi-messenger astrophysics efforts at the IceCube Neutrino Observatory.
+
+"IceCube is undergoing an evolution as we incorporate AI into our data processing and analysis schemes," said Benedikt Riedel, IceCube Global Computing Coordinator. "The CSA program will give us hands-on experience with the newest cyberinfrastructure and allow us to determine the best ways to use that cyberinfrastructure in the future."
+
+Another CSA project, led by Emad Tajkhorshid, Director of the NIH Center for Macromolecular Modeling and Bioinformatics at the University of Illinois at Urbana-Champaign, will drive the development of the simulation software, NAMD, for very large molecules, and give his team the opportunity to improve a code used by thousands of researchers and accelerate the pace of discovery in his field.
+
+"We're also very excited to undertake a highly risky project," he said, "namely modeling and doing full simulations of viruses, which would not be possible without this opportunity."
+
+*The "Characteristic Science Applications for the Leadership Class Computing Facility" project is supported by the National Science Foundation award [#2139536](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2139536&HistoricalAwards=false).*
+
+### CSA Awardees
+
+| **NAME** | **FIELD OF SCIENCE** | **TITLE** | **INSTITUTION** |
+| --- | --- | --- | --- |
+| Michael Norman | Astro | Accelerating cosmological simulations of the first galaxies through deep learning | UC San Diego |
+| Thomas Quinn | Astro | gaining insights into the nature of dark matter and the evolution of baryons and galaxies across the age of the Universe | Washington |
+| Benedikt Riedel | Astro | Multi-Messenger Astrophysics with ICECUBE | Wisconsin |
+| James Stone | Astro | Astrophysical Fluid Dynamics at Exascale | Institute for Advanced Study, Princeton |
+| Yang Wang | MPS | First principles investigation of disorder and electron localization in real materials | Carnegie-Mellon |
+| Steven Gottlieb | MPS | Lattice QCD for Flavor Physics | Indiana University |
+| Feliciano Giustino | MPS | Quantum materials engineering at the exascale | UT-Austin |
+| Jim Chelikowsky | MPS | Ab initio quantum calculations for the optical and dielectric properties of aqueous liquids using many-body perturbation theory (MBPT) within the Bethe-Salpeter Equation | UT-Austin |
+| Daniel Bodony | ENG | Multiphysics simulation of a full hypersonic vehicle, including shocks, chemical reaction, radiation, laminar-to-turbulent boundary layer transition, gas-surface interaction, and surface material modeling | University of Illinois at Urbana-Champaign |
+| PK Yeung | ENG | Fluid Turbulence | Georgia Tech |
+| Yejin Choi | CISE/SBE | Detecting Misinformation and Social Biases | Washington |
+| Rommie Amaro | BIO | Rethinking Airborne Transmissibility of Disease: Viruses in Respiratory Aerosols | UCSD |
+| Lillian Chong | BIO | Tackling the phase-separation of disordered proteins at atomic detail using AI-enhanced weighted ensemble software | Pitt |
+| Emad Tajkhorshid | BIO | Dissecting the Molecular Mechanisms of Viral Infection with NAMD | UIUC |
+| Mike Gurnis | GEO | Great Earthquakes: Bridging short and long time scales in global plate tectonics | Cal Tech |
+| Leigh Orf | GEO | Understanding and predicting the world's most devastating thunderstorms | University of Wisconsin - Madison |
+| Andrew Gettelman | GEO | CESM with Multi-scale Atmosphere | National Center for Atmospheric Research |
+| Alice-Agnes Gabriel | GEO | Multiscale physics for next generation earthquake simulators: off-fault inelastic processes and fluid effects. | UCSD |
+| Yifeng Cui | GEO | Exascale Earthquake Modeling Capabilities | SDSC |
+| Maryam Rahnemoonfar | GEO | Data-driven and physics modeling of ice dynamics | University of Maryland, Baltimore County |

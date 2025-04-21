@@ -1,0 +1,29 @@
+This roadmap will introduce you to the Message Passing Interface (MPI), a specification that is the de facto standard for distributed memory computing. MPI consists of a collection of routines for exchanging data among the processes in a distributed memory parallel program and synchronizing their work.
+
+We will provide an overview of MPI's functionality and key concepts, and give you a first look at how to use MPI on [Stampede2](https://www.tacc.utexas.edu/systems/stampede2) and [Frontera](https://www.tacc.utexas.edu/systems/frontera). This topic is intended to guide researchers getting started with MPI on high performance computing systems. All exercises and examples are verified to work on [Stampede2](https://www.tacc.utexas.edu/systems/stampede2) and [Frontera](https://www.tacc.utexas.edu/systems/frontera).
+
+This is the ***first of five*** MPI related roadmaps in the Cornell Virtual Workshop that cover MPI. To see the other roadmaps available, please visit the complete [CVW roadmaps list](/roadmaps).
+
+##### Objectives
+
+After you complete this roadmap, you should be able to:
+
+* Explain the concept of MPI
+* Write a simple MPI program
+* Run a simple MPI program on Stampede2
+* Compile MPI code
+* Run parallel jobs on Stampede2 using Slurm
+* Select the appropriate MPI implementation for your platform and work
+
+##### Prerequisites
+
+* A working knowledge of general programming concepts
+* Ability to program in a high-level language such as [Fortran](/fintro/intro/index), [C](/cintro/intro/intex), or C++
+* A basic familiarity with [parallel programming concepts](/parallel/intro/index)
+
+##### Requirements
+
+The examples and exercises in this roadmap are designed to run on [Stampede3](https://docs.tacc.utexas.edu/hpc/stampede3/) or [Frontera](https://www.tacc.utexas.edu/systems/frontera). To use these systems, you need:
+
+* A TACC account to login to Stampede2 or Frontera
+* A compute time allocation for Stampede2 or Frontera

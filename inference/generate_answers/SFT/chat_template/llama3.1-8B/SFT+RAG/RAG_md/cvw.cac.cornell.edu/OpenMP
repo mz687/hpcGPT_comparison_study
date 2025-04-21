@@ -1,0 +1,28 @@
+Source: [OpenMP](https://www.openmp.org/)
+
+OpenMP is an API specification for parallel programming, which is useful for a wide array of applications, including High Performance Computing (HPC). The OpenMP standard allows programmers to develop threaded parallel applications on shared-memory computers. This roadmap will guide you through an introduction to OpenMP, highlighting features from versions 3.0 and earlier, with examples of how to write programs that can effectively use multiple cores on a node for concurrent computation.
+
+While OpenMP is designed for parallel computation on a single multi-core machine, it can also be *part* of a solution for multi-node parallel computation. In order to use multiple nodes on Frontera, you will also need to learn MPI to communicate between nodes in a distributed system. We also offer several [topics on MPI](https://cvw.cac.cornell.edu/topics#MPI), ranging from beginner to advanced. When OpenMP and MPI are combined, it is called hybrid programming, which can be used to leverage multiple cores on multiple nodes of Frontera. Once you have an understanding of both OpenMP and MPI individually, the [Hybrid Programming with OpenMP and MPI](/hybrid-openmp-mpi) topic may be useful to understand how to combine them.
+
+##### Objectives
+
+After you complete this workshop, you should be able to:
+
+* Describe OpenMP
+* Identify which portions of an application can be effectively parallelized with OpenMP
+* Demonstrate using OpenMP API
+* Enable concurrent computations in a shared memory environment with OpenMP
+* Avoid common pitfalls in shared memory programming
+
+##### Prerequisites
+
+* A working knowledge of general programming concepts
+* A working knowledge of Linux; otherwise try working through the [Linux](/linux/intro/index) topic first
+* Ability to program in a high-level language such as [Fortran](/fortran-intro) or [C](/cintro)
+* A basic familiarity with [parallel programming concepts](/parallel)
+
+##### Requirements
+
+* Access to a C or Fortran compiler
+* A TACC account to log into [Frontera](https://www.tacc.utexas.edu/systems/frontera) or [Stampede2](https://www.tacc.utexas.edu/systems/stampede2)
+* A TACC computation [allocation](https://portal.tacc.utexas.edu/allocations-overview).

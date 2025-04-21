@@ -1,0 +1,131 @@
+1. [Home](/)
+2. [Use TACC](/use-tacc/)
+3. Allocations
+
+# Allocations
+
+## To access a system, you must submit an allocation request.
+
+TACC enables the research and education of the computational science community at UT and its partners by providing access to advanced computing technologies. TACC's unique and valuable resources include high-performance computing, scientific visualization and data storage systems. The policies and procedures we have implemented to ensure a fair and efficient allocation of these resources are described below.
+
+All TACC resources are allocated on a project basis to a single principal investigator (PI). Faculty, postdoctoral researchers, and research staff can serve as TACC project PIs. Graduate and undergraduate students should have their advisor assume the responsibilities of project PI and submit the allocations request.
+
+### TACC's Acceptable Use Policies
+
+The PI is responsible for ensuring that all users on the allocation use TACC resources in accordance with the [TACC's Acceptable Use Policies](/use-tacc/user-policies/). Failure to do so can result in immediate cancellation of the allocations and account suspension.
+
+### TACC Documentation
+
+All users should familiarize themselves with TACC's [Compute Resource User Guides](https://docs.tacc.utexas.edu/) to learn about the resources best suited to your computational needs.
+
+### Eligibility
+
+Faculty, staff, and postdoctoral researchers at UT Austin, UT System, TACC partner institutions, and Texas higher educational institutions may request PI eligibility through the [NSF-funded ACCESS](https://allocations.access-ci.org/) or [Frontera](https://frontera-portal.tacc.utexas.edu/allocations/) projects. Graduate and undergraduate students should have their advisors assume the responsibilities of project PI who will submit the allocations request. Academic researchers from other US institutions must request allocations via the ACCESS portal.
+
+The TACC industrial affiliates program, [Science and Technology Affiliates for Research (STAR)](/partnerships/star-industry-program/), also provides allocations on TACC resources.
+
+### Requesting an Allocation
+
+**The TACC Resource Allocation System (TxRAS)** handles allocation requests for current and future TACC resources from Texas researchers.
+
+[Apply on TxRAS](https://submit-tacc.xras.org/login)
+
+---
+
+**ACCESS** is for all other US academic researchers.
+
+[Apply on ACCESS](https://allocations.access-ci.org/)
+
+---
+
+To access **Frontera**, please read the Frontera Allocations Guidelines.
+
+[Frontera Allocations](https://frontera-portal.tacc.utexas.edu/allocations/)
+
+---
+
+**If you are an industry professional, apply to our [STAR program](/partnerships/star-industry-program/).**
+
+### Managing Allocations
+
+**After approval**, the PI can manage their allocation on this portal by logging in and and going to Projects and Allocations.
+
+**Within projects**, the PI can add their team and request additional allocation increases.
+
+**PIs can assign Delegates** to manage their allocation for them. Delegates can add and remove users to a project and request allocation increases.
+
+## Allocation Opportunities
+
+TACC offers three types of project allocations: Startup, Educational, and Research. A resource justification document will be required when applying for resources. The document should be in PDF form and include a description of the research being conducted and how TACC computation resources will impact this research. It should also describe the scientific applications to be used, and an estimated plan or table justifying the number of node-hours being requested.
+
+[Read this example](/media/filer_public/e8/7b/e87b3ed8-96d2-4340-8fdc-747297282317/ls6_example_allocation_request.pdf) to better understand how this document should be written.
+
+### Startup
+
+Startup projects are meant to provide the PI with an adequate allocation to build a case for a Research or Educational project. Startup projects will typically receive small allocations with short durations.
+
+**PIs can apply for a Startup project allocation at any time.**
+
+### Educational
+
+Educational project allocations support academic classes, with limited allocation sizes and only on certain TACC resources.
+
+**Educational project allocations will last for the duration of the class plus 14 days.**
+
+### Research
+
+Research project allocations support the computational needs of the scientific community. Research project allocations begin on calendar quarters, are normally for one year, and must be renewed annually for multi-year projects. Requests for new research allocations and renewals must be submitted 30 days prior to the start of the allocation period. Requests submitted after the due date will be considered for the next allocation period. PIs can apply for startup project allocations until the next research project quarterly deadline.
+
+#### Research Allocation Request Deadlines
+
+Research allocation requests are reviewed four times per year according to the following schedule of deadlines.
+
+| Allocation Period | New/Renewal Request Due |
+| --- | --- |
+| January 1 - Dec 31 | December 1 |
+| April 1 - March 31 | March 1 |
+| July 1 - June 30 | June 1 |
+| October 1 - September 31 | September 1 |
+
+## Allocation Project Limits
+
+When applying for an allocation on an HPC or Visualization system, you will be asked to estimate the number of service units (SUs) you will require for the project. SUs are calculated based on the wall-clock time of your jobs (measured in hours) and the number of nodes, depending on the system, used to run a job. Each job run on the resource consumes the SUs allocated to a project.
+
+All the TACC resources listed below calculate Service Units (SUs) in terms of node-hours. Specialty nodes, such as GPU's, may be charged an additional multiplier.
+
+**SUs charged = (Number of nodes) X (job wall-clock time) X (multiplier).**
+
+### Request Limits Per Resource
+
+| System | Startup SUs | Educational SUs | Research SUs |
+| --- | --- | --- | --- |
+| Stampede2 | 2,100 | 2,100 | 21,000 |
+| Lonestar6 | 500 | 500 | Up to 100,000 |
+| Maverick2 | 200 | 200 | 2,100 |
+| Frontera | CPU: 5,000 GPU: 3,000 | [See Frontera Allocations](https://frontera-portal.tacc.utexas.edu/allocations/) | [See Frontera Allocations](https://frontera-portal.tacc.utexas.edu/allocations/) |
+
+## Data Storage
+
+### Default Storage
+
+All users of active projects automatically receive an allocation of 2 TB and 50 thousand files on [Ranch](/systems/ranch/), TACC’s data archive system, and a 1TB allocation on the [Stockyard](/systems/stockyard/) (/work) global file system.
+
+We do not grant requests for increase on these individual allocations; however, you may request a larger common allocation for your project through the TACC portal request process. Researchers are encouraged to request a formal Ranch allocation if they plan to use Ranch for anything other than small-scale backup of working files.
+
+### Protected Data
+
+The Corral storage system stores both normal and secure data that is subject to special restrictions. Corral-Secure allocations require additional documentation to ensure that appropriate protections and agreements are in place. You can initiate that process via the form on the [Protected Data Service page](/about/security-and-compliance/protected-data-service/). Consult the [Corral User Guide](https://docs.tacc.utexas.edu/hpc/corral/) for more details on storage limitations, costs and protected data types.
+
+### Storage Limitations
+
+Each storage allocation includes limits on both file count and total size, as these are separate limited resources within each system. All TACC storage allocations last for one year by default, and you will need to plan to renew annually for multi-year projects. You may request an allocation increase partway through the allocation period but these must be independently reviewed and approved. Allocation quantities are not cumulative. You must ask for the amount you need each year; asking for 5TB in year one and 5TB in year 2 results in an allocation of 5TB in year 2, not 10TB.
+
+### Scientific Visualization and Analysis
+
+Each TACC large-scale system allocation has access to visualization and analysis resources on that system, including remote desktops (VNC and DCV), Jupyter notebooks and RStudio. These resources can be accessed using command-line scripts or through the TACC Analysis Portal.
+
+[TACC Analysis Portal](https://tap.tacc.utexas.edu/)
+
+TACC operates a production Visualization Laboratory (Vislab) on the main campus of UT Austin in the Peter O’Donnell building (POB lab) and an experimental visualization laboratory at TACC’s main office complex at the UT Pickle Research Campus (ACB lab). While you do not need a separate allocation to use the Vislab, we ask that new users complete a training session on lab use.
+
+Users may schedule training and POB lab reservations via the [Vislab Reservations page](/use-tacc/visualization-services/reservations/). The ACB lab is intended for exploratory and prototype visualization work. [Submit a consulting ticket](/about/help/) if you are interested in working with the ACB lab.

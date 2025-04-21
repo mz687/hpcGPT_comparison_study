@@ -1,0 +1,32 @@
+The C programming language is heavily used in the scientific and high performance computing community,
+and also happens to be the same language in which many operating systems are written.
+Thus, it is important for scientists and engineers to have a good understanding of how the language can assist them with their computing needs.
+This document is provided for the beginning programmer who has an interest in learning to effectively use the C language.
+If you have never programmed before, you can also use this document to learn the basic concepts of programming.
+However, you may also want to refer to other [references](https://cvw.cac.cornell.edu/main/reference.aspx) as well.
+
+##### Objectives
+
+After you complete this workshop, you should be able to:
+
+* Describe the overall layout of a C program
+* Name some of the main data types in C
+* Explain the rules for naming variables
+* Describe the different types of program flow (conditionals and loops)
+* Create a C function and invoke it from other C code
+* Use pointers to manage memory and manipulate addresses in C
+* Explain how to create and structures in C
+* Print output to the terminal, as well as read from and write to a file
+
+##### Prerequisites
+
+There are no formal prerequisites for learning C beyond basic computer operations.
+
+##### Requirements
+
+To perform the programming steps outlined in this module you will need:
+
+* A computer with an Intel Core i5 or i7 Processor
+* At least 8 GB of RAM and 256 GB of storage (Hard drive or SSD)
+* At least one monitor with full HD resolution, ideally 1920×1080
+* Access to a C language compiler

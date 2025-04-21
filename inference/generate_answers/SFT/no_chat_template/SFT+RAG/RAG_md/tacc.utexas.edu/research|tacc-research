@@ -1,0 +1,246 @@
+1. [Home](/)
+2. [Research](/research/)
+3. TACC Research
+
+# TACC Research
+
+## Addressing the most complex problems in science, engineering, and society.
+
+Through collaborations with institutions and domain scientists around the globe, TACC aims to advance scientific discovery, innovation, and education. This evolving list of projects conducted by TACC staff members utilizes the center's advanced computing resources and robust scientific software environment, drawing on their broad expertise in research computing.
+
+### Categories
+
+[Algorithms & Libraries](#al)
+
+[Bioinformatics](#bi)
+
+[Cloud Computing & Interface Technologies](#ccit)
+
+[Cyberinfrastructure Systems](#cs)
+
+[Cyberinfrastructure Community Services](#ccs)
+
+[Data Management & Collections](#dmc)
+
+[Experimental Systems](#es)
+
+[Health Informatics & Compliance](#hic)
+
+[Machine Learning & Analytics](#mla)
+
+[Next Generation Portals & Interfaces](#ngpi)
+
+[Next Generation Computing Systems](#ngcs)
+
+[Research Computing Infrastructure](#rci)
+
+[Software Defined Visualization](#sdv)
+
+[Past Projects](#pp)
+
+## Algorithms & Libraries
+
+TACC's software programs provides algorithms and standard libraries that perform calculation, data processing, and automated reasoning. TACC's programmers also create custom libraries. Most modern software systems provide libraries that implement the majority of system services. Such libraries have commoditized the services which a modern application requires. As such, most code used by modern applications is provided in these system libraries.
+
+| Name | Description | Funding Source | Contact |
+| --- | --- | --- | --- |
+| **[Flame Iterative](/research/tacc-research/flame-iterative)** | *Derives Krylov methods in the FLAME framework to show how FLAME can simplify the process of deriving iterative methods, and make a case that a Flame-based environment for deriving new iterative methods is a distinct, and attractive, possibility.* | NSF 0904907 | Victor Eijkhout [eijkhout@tacc.utexas.edu](mailto:eijkhout@tacc.utexas.edu) |
+| **[Sparse Direct Factorizations through Unassembled HyperMatrices](/research/tacc-research/hypermatrix/)** | *A novel strategy for sparse direct factorizations that is geared towards the matrices that arise from hp adaptive Finite Element Methods.* |  | Victor Eijkhout [eijkhout@tacc.utexas.edu](mailto:eijkhout@tacc.utexas.edu) |
+
+[back to top >>](#top)  
+
+## Bioinformatics
+
+Bioinformatics is the computer-assisted data management discipline that helps researchers gather, analyze, and represent information to understand life's processes in the healthy and disease states, and find new or better drugs. TACC's Life Sciences Group is committed to providing the research community with the bioinformatics computational tools and expertise needed to address modern biological research questions. The TACC team is focused on ensuring that TACC maintains the hardware, software and domain expertise to support a wide variety of bioscience research.
+
+| Name | Description | Funding Source | Contact |
+| --- | --- | --- | --- |
+| **[CyVerse/iPlant](/research/tacc-research/cyverse)** | *To develop and operate computational resources in support of grand challenges in the life sciences.* | [NSF #DBI-1265383](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1265383) | John Fonner [jfonner@tacc.utexas.edu](mailto:jfonner@tacc.utexas.edu) |
+| **[Domain Information & Vocabulary Extraction (DIVE)](/research/tacc-research/dive)** | *This project aims to develop new methods and tools to extract biological entities from publication and other text documents.* | [NSF Cyverse Grant #DBI-1265383](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1265383) | Amit Gupta [agupta@tacc.utexas.edu](mailto:agupta@tacc.utexas.edu) |
+| **[Economic, Environmental and Agricultural Impacts in the Texas-Mexico Border Region](/research/tacc-research/natural-gas-water-infrastructures)** | *This project will create coupled fuel, electricity, water, and air models for Texas and eastern Mexico to a develop quantitative understanding of the implications of increased natural gas usage in the Texas-Mexico border region.* | [NSF CMMI-1540941](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1638258&HistoricalAwards=false) | Paul Navratil [pnav@tacc.utexas.edu](mailto:pnav@tacc.utexas.edu) |
+| **[Neuronex](/research/tacc-research/neuronex)** | *This NeuroNex Technology Hub for enhanced resolution three-dimensional electron microscopy (3DEM) will enable the discovery of new details in how brain synapses function across different regions and species.* | [NeuroTechnology Hub award - NSF DBI-1707356](https://nsf.gov/awardsearch/showAward?AWD_ID=1707356) | James Carson [jcarson@tacc.utexas.edu](mailto:jcarson@tacc.utexas.edu) |
+
+[back to top >>](#top)  
+
+## Cloud Computing & Interface Technologies
+
+As a complement to TACC's HPC and visualization resources,TACC offers cloud services to give researchers access to on-demand or persistent hosting of virtual servers, data sets, and gateways. TACC conducts research into cloud architectures and interfaces to improve next generation cloud platforms.
+
+| Name | Description | Funding Source | Contact |
+| --- | --- | --- | --- |
+| **[Learning to Use Essential Tools](/research/tacc-research/learning-to-use-essential-tools)** | *This project aims to research and development of a dynamic, reconfigurable tool to bridge users and remote computing resources to facilitate educational tools for data science. With this tool, curriculums and educational materials on essential tools for data science will be developed and disseminated.* |  | Weijia Xu [xwj@tacc.utexas.edu](mailto:xwj@tacc.utexas.edu) |
+
+[back to top >>](#top)  
+
+## Cyberinfrastructure Systems
+
+Solving the world's biggest problems requires the world's biggest solutions and TACC's advanced computing systems are among the most powerful in the world. These systems are fundamental to science and society, allowing researchers to push the boundaries of human knowledge and tackle the biggest scientific challenges we face today.
+
+| Name | Description | Funding Source | Contact |
+| --- | --- | --- | --- |
+| **[UT System Research Cyberinfrastructure (UTRC)](https://utrc.tacc.utexas.edu/)** | *Superior, comprehensive scientific capabilities that provide research advantages that enable breakthrough results and impact science, attract superior faculty and students, and attract funding to UT System institutions.* | UT System Research Cyberinfrastructure | Joe Allen [wallen@tacc.utexas.edu](mailto:wallen@tacc.utexas.edu) |
+
+[back to top >>](#top)  
+
+## Cyberinfrastructure Community Services
+
+In this day and age, conducting scientific research relies on the analysis and interpretation of tremendous amounts of data. To find meaning in this sea of information, researchers must first be able to organize, store, and share their data. Once data are stored, researchers are able to leverage the advances in data analysis and computing capabilities to enable the systems at TACC to bring understanding and structure to these complex problems and highlight interesting results.
+
+| Name | Description | Funding Source | Contact |
+| --- | --- | --- | --- |
+| **[Data Management & Collections (DMC) Group](/research/tacc-research/dmc)** | *Meeting the needs of faculty and researchers for data collection services, and contributing to the potential of data-driven research to make discoveries.* |  | Chris Jordan [ctjordan@tacc.utexas.edu](mailto:ctjordan@tacc.utexas.edu) |
+| **[Student Cluster Competition](/research/tacc-research/student-cluster)** | *A real-time, 48-hour race between teams of undergraduate or high-school students to build and deploy small cluster computers on the exhibit floor at the annual SC conference.* |  | Nick Thorne [nthorne@tacc.utexas.edu](mailto:nthorne@tacc.utexas.edu) |
+| **[TACC User Portal](/research/tacc-research/user-portal)** | *A web interface for users to manage their TACC account, projects, and allocations.* | Base Funding | Tracy Brown [tbrown@tacc.utexas.edu](mailto:tbrown@tacc.utexas.edu) |
+| **[UT System Research Cyberinfrastructure (UTRC)](https://utrc.tacc.utexas.edu/)** | *Superior, comprehensive scientific capabilities that provide research advantages that enable breakthrough results and impact science, attract superior faculty and students, and attract funding to UT System institutions.* | UTexas System Research Cyberinfrastructure | Joe Allen [wallen@tacc.utexas.edu](mailto:wallen@tacc.utexas.edu) |
+| [**Building Research Innovation at Community Colleges (BRICCs)**](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2019136&HistoricalAwards=false) | *Examines the research and educational needs from advanced cyberinfrastructure in two-year colleges and smaller institutions of higher education.* | NSF | Timothy Cockerill [cockerill@tacc.utexas.edu](mailto:cockerill@tacc.utexas.edu) |
+| [**SouthWest Expertise in Expanding, Training, Education and Research (SWEETER)**](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1925764&HistoricalAwards=false) | *A web-portal and shared cyberinfrastructure that will help remove resource barriers faced by community colleges and smaller institutions.* | NSF | Timothy Cockerill [cockerill@tacc.utexas.edu](mailto:cockerill@tacc.utexas.edu) |
+
+[back to top >>](#top)  
+
+## Data Management & Collections
+
+TACC works to meet the needs of faculty and researchers for data collection services, and contributes to the potential of data-driven research to make discoveries. The center builds and maintains large data-management and storage resources and consults with collections' creators in all aspects of the data lifecycle from creation to long-term preservation and access.
+
+The DMC group also provides special support, such as workflow consulting and preservation pipelines, to the center-wide initiatives listed below. If you have a data management challenge and wish to contact us, please email [data@tacc.utexas.edu](mailto:data@tacc.utexas.edu).
+
+| Name | Description | Funding Source | Contact |
+| --- | --- | --- | --- |
+| **[Data Management & Collections (DMC) Group](/research/tacc-research/dmc)** | *Meeting the needs of faculty and researchers for data collection services, and contributing to the potential of data-driven research to make discoveries.* |  | Chris Jordan [ctjordan@tacc.utexas.edu](mailto:ctjordan@tacc.utexas.edu) |
+| **[DesignSafe](/research/tacc-research/designsafe)** | *Development of curation and publication pipelines and of the preservation and metadata back-end for natural hazards engineering data. Deployment of Fedora-based repository with linked-data support using BlazeGraph for RDF query. Collaboration with Experimental Facilities to automate terabyte-scale data transfers to DesignSafe infrastructure at TACC.* | NSF | Maria Esteva [maria@tacc.utexas.edu](mailto:maria@tacc.utexas.edu) |
+| **[CyVerse/iPlant](/research/tacc-research/cyverse)** | *Support for diverse aspects of the Cyverse data store and Data Commons, a platform for sharing of research data in the life sciences. Contributions include metadata model and minimum requirements, replication strategy for reliable data access, long-term preservation strategy and pipelines, integration with DOI framework for persistent references to data. Hosting and support for petabyte-scale data collections directly and indirectly incorporated into CyVerse.* | NSF | Chris Jordan [ctjordan@tacc.utexas.edu](mailto:ctjordan@tacc.utexas.edu) |
+| **[Digital Rocks Portal](/research/tacc-research/digitalrocks/)** | *Development of web-based portal for storage, management and retrieval of images and related experimental measurements of diverse porous materials. Contributions include development of customized metadata model, analysis backend, search optimization and long-term preservation strategy.* |  | Maria Esteva [maria@tacc.utexas.edu](mailto:maria@tacc.utexas.edu) |
+| **[UT System Research Cyberinfrastructure (UTRC)](https://utrc.tacc.utexas.edu/)** | *Superior, comprehensive scientific capabilities that provide research advantages that enable breakthrough results and impact science, attract superior faculty and students, and attract funding to UT System institutions.* | UTexas System Research Cyberinfrastructure | Joe Allen [wallen@tacc.utexas.edu](mailto:wallen@tacc.utexas.edu) |
+| **[Natural History Collections at TACC](/research/tacc-research/natural-history-collections)** | *Maintains an array of ongoing collaborations with the Texas Natural Sciences Center.* | NSF Xerces Foundation U.S. Forestry Department Texas Parks and Wildlife | Tomislav Urban [turban@tacc.utexas.edu](mailto:turban@tacc.utexas.edu) |
+
+[back to top >>](#top)  
+
+## Experimental Systems
+
+| Name | Description | Funding Source | Contact |
+| --- | --- | --- | --- |
+| **[Catapult](/systems/catapult)** | *An open research system to investigate the use of field-programmable gate arrays (FPGAs) as data center accelerators to improve performance, reduce power consumption, and open new research avenues of investigation.* | [Microsoft Research](http://research.microsoft.com/en-us/projects/catapult/) | Remy Scott [scottre@tacc.utexas.edu](mailto:scottre@tacc.utexas.edu) |
+| **[Discovery](/systems/discovery)** | *Discovery is a testbed for benchmarking and testing hardware. TACC uses it to experiment and evaluate new technologies.* | [Dell](http://www.dell.com) [Intel](http://www.intel.com/) | Tommy Minyard [minyard@tacc.utexas.edu](mailto:minyard@tacc.utexas.edu) |
+| **[Fabric](/systems/fabric)** | *Fabric is an experimental system combining IBM's latest Power 8 processors with NVIDIA GPUs, and FPGAs from Altera and Xilinx, for researchers exploring alternate computer architectures.* | [UT Austin (ECE)](http://www.ece.utexas.edu/) [IBM](http://www.ibm.com/us-en/) | Xiaoyu Ma [xma@tacc.utexas.edu](mailto:xma@tacc.utexas.edu) |
+
+[back to top >>](#top)  
+
+## Health Informatics & Compliance
+
+Health informatics is the study of resources and methods for the management of health information. TACC is capable of handling research with data sets containing personalized health information through HIPAA and FISMA compliance. This enables deeper connections to clinical studies and research in human health.
+
+| Name | Description | Funding Source | Contact |
+| --- | --- | --- | --- |
+| **[Center for Lung Development Imaging and Omics](/research/tacc-research/lung-development)** | *Create a detailed spatial-temporal molecular atlas of the developing lung in preterm infants to young children.* | [NIH 1U01HL122703-01](http://projectreporter.nih.gov/project_info_description.cfm?aid=8686401) | James Carson [jcarson@tacc.utexas.edu](mailto:jcarson@tacc.utexas.edu) |
+| **[DrugDiscovery@TACC](/research/tacc-research/drugdiscovery)** | *Allows researchers to perform drug screening using the Autodock Vina (Scripps) program on the Lonestar5 supercomputer to search more than 700,000 drug-like compounds in only a few hours.* | Free | John Fonner [jfonner@tacc.utexas.edu](mailto:jfonner@tacc.utexas.edu) |
+| **[Individualizing Care in Pregnancy and Childbirth through Digital Phenotyping](/research/tacc-research/individualizing-care)** | *Brings together researchers in medicine, computation, visualization and data to deploy passive monitoring to a cohort of 1000 pregnant women in Central Texas via ubiquitous cell phone apps to develop a digital phenotype of pregnancy.* | [NSF #1838901](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1838901&HistoricalAwards=false) | Kelly Gaither [kelly@tacc.utexas.edu](mailto:kelly@tacc.utexas.edu) |
+
+[back to top >>](#top)  
+
+## Machine Learning & Analytics
+
+At the edge of statistics, computer science and emerging applications in industry, machine learning and analytics focus on the development of fast and efficient algorithms for real-time processing of data as a main goal to deliver accurate predictions of various kinds.
+
+| Name | Description | Funding Source | Contact |
+| --- | --- | --- | --- |
+| **[Data Management & Collections (DMC)](/research/tacc-research/dmc)** | *Meeting the needs of faculty and researchers for data collection services, and contributing to the potential of data-driven research to make discoveries.* |  | Chris Jordan [ctjordan@tacc.utexas.edu](mailto:ctjordan@tacc.utexas.edu) |
+| **[Experimental Data Architectures](/research/tacc-research/experimental-data-architectures)** | *Simplifying data management for administrators and researchers while reducing the overall cost of next-generation storage systems.* | O'Donnell Foundation | Dan Stanzione [dan@tacc.utexas.edu](mailto:dan@tacc.utexas.edu) |
+| **[Memory Error Impact on Deep Learning Training](/research/tacc-research/memory-error-impact-on-deep-learning-training)** | *This project quantifies the impact of silent data corruption on deep learning training.* | Base Funding | Zhao Zhang [zzhang@tacc.utexas.edu](mailto:zzhang@tacc.utexas.edu) |
+| **[Scalable and Efficient I/O for Distributed Deep Learning](/research/tacc-research/scalable-and-efficient-io-for-distributed-deep-learning)** | *This project enables scalable and efficient I/O for distributed deep learning training in computer clusters with existing hardware/software stack.* | Base Funding | Zhao Zhang [zzhang@tacc.utexas.edu](mailto:zzhang@tacc.utexas.edu) |
+| **[Scalable Deep Learning on Supercomputers](/research/tacc-research/scalable-deep-learning-on-supercomputers)** | *This project enables deep learning training on supercomputer scale without losing test accuracy.* | Base Funding | Zhao Zhang [zzhang@tacc.utexas.edu](mailto:zzhang@tacc.utexas.edu) |
+
+[back to top >>](#top)  
+
+## Next Generation Portals & Interfaces
+
+The effective use of advanced computing resources is a challenge to researchers. Providing powerful and intuitive interfaces accelerates the rate at which science can be performed by allowing researchers to focus on scientific exploration rather than technological hurdles.
+
+| Name | Description | Funding Source | Contact |
+| --- | --- | --- | --- |
+| **[CyVerse/iPlant](/research/tacc-research/cyverse)** | *To develop and operate computational resources in support of grand challenges in the life sciences.* | [NSF #DBI-1265383](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1265383) | John Fonner [jfonner@tacc.utexas.edu](mailto:jfonner@tacc.utexas.edu) |
+| [**DesignSafe**](/research/tacc-research/designsafe) | *A resource-sharing Web platform that will enable computer models and simulations of natural hazards that can be validated against real-world data, creating an easily accessible resource for natural hazards researchers across the country.* | [NSF #1520817](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1520817) | Dan Stanzione [dan@tacc.utexas.edu](mailto:dan@tacc.utexas.edu) |
+| **[DrugDiscovery@TACC](/research/tacc-research/drugdiscovery)** | *Allows researchers to perform drug screening using the Autodock Vina (Scripps) program on the Lonestar5 supercomputer to search more than 700,000 drug-like compounds in only a few hours.* | Free | John Fonner [jfonner@tacc.utexas.edu](mailto:jfonner@tacc.utexas.edu) |
+| **[TACC User Portal](/research/tacc-research/user-portal)** | *A web interface for users to manage their TACC account, projects, and allocations.* | Base Funding | Tracy Brown [tbrown@tacc.utexas.edu](mailto:tbrown@tacc.utexas.edu) |
+| **[WholeTale](/research/tacc-research/wholetale)** | *A cyberinfrastructure which captures the "whole tale" of data driven computational research in an easy to use web-based environment. By capturing the input data, processing and analysis steps, and the final data products, the three can be published along with any research publication to allow others to reproduce results or expand upon other's findings directly.* | [NSF #1541450](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1541450) | Niall Gaffney [ngaffney@tacc.utexas.edu](mailto:ngaffney@tacc.utexas.edu) |
+
+[back to top >>](#top)  
+
+## Next Generation Computing Systems
+
+What will TACC build next? TACC leadership and staff are constantly monitoring, evaluating and developing new and innovative technologies in the marketplace to consider what next generation of computer systems will be most effective for science and engineering. Projects in this category are early and experimental technology evaluations, usually in collaboration with industry partners, that look at the efficacy of future system designs. TACC maintains its own expertise in this area creating new frontiers and new challenges for next generation computing.
+
+| Name | Description | Funding Source | Contact |
+| --- | --- | --- | --- |
+| **[Advanced Computing and Evaluation Laboratory (ACELab)](/research/tacc-research/acelab)** | *The ACELab develops and packages open source benchmarks appropriate for the HPC environment.* | Base Funded | John McCalpin [mccalpin@tacc.utexas.edu](mailto:mccalpin@tacc.utexas.edu) |
+| **[Experimental Data Architectures](/research/tacc-research/experimental-data-architectures)** | *Simplifying data management for administrators and researchers while reducing the overall cost of next-generation storage systems.* | O'Donnell Foundation | Dan Stanzione [dan@tacc.utexas.edu](mailto:dan@tacc.utexas.edu) |
+| [**SODA (Scalable Object and Analysis)**](/research/tacc-research/soda) | *This project aims to develop new methods to processes video data collected from traffic monitoring cameras to support traffic analyses including traffic counts and vehicle-pedestrian interactions.* | City of Austin | Amit Gupta [agupta@tacc.utexas.edu](mailto:agupta@tacc.utexas.edu) |
+
+[back to top >>](#top)  
+
+## Research Computing Infrastructure
+
+| Name | Description | Funding Source | Contact |
+| --- | --- | --- | --- |
+| **[Chameleon](/research/tacc-research/chameleon)** | *The Chameleon testbed is deployed at the University of Chicago (UC) and the Texas Advanced Computing Center (TACC) and consists of 650 multi-core cloud nodes, 5PB of total disk space, and leverage 100 Gbps connection between the sites.* | [National Science Foundation, award #1419152](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1419152) | Dan Stanzione [dan@tacc.utexas.edu](mailto:dan@tacc.utexas.edu) |
+| **[Frontera](/research/tacc-research/frontera)** | *The goal of this project and system is to open up new possibilities in science and engineering by providing computational capability that makes it possible for investigators to tackle much larger and more complex research challenges across a wide spectrum of domains.* | [National Science Foundation, award #1818253](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1818253) | Dan Stanzione [dan@tacc.utexas.edu](mailto:dan@tacc.utexas.edu) |
+| **[Jetstream](/research/tacc-research/jetstream)** | *Jetstream is a new type of computational research resource for the national (non-pclassified) research community - a data analysis and computational resource that scientists and engineers use interactively to conduct their research anytime, anywhere.* | [National Science Foundation, award #1445604](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1445604) | John Fonner [jfonner@tacc.utexas.edu](mailto:jfonner@tacc.utexas.edu) |
+| **[Stampede2](/research/tacc-research/stampede2)** | *Stampede 2 offers a powerful new system that builds on the success of Stampede and will continue to enable groundbreaking science.* | [National Science Foundation, award #1540931](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1540931) | Dan Stanzione [dan@tacc.utexas.edu](mailto:dan@tacc.utexas.edu) |
+| [**Accelerating Computing for Emerging Sciences (ACES)**](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2112356&HistoricalAwards=false) | *A platform that removes significant bottlenecks in advanced computing by introducing the flexibility to aggregate various components (i.e., processors, accelerators and memory) on an as-needed basis.* | [National Science Foundation, award #2112356](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2112356&HistoricalAwards=false) | Timothy Cockerill [cockerill@tacc.utexas.edu](mailto:cockerill@tacc.utexas.edu) |
+
+[back to top >>](#top)  
+
+## Software Defined Visualization
+
+Software-defined visualization libraries provide performant rendering on general-purpose processors, including both traditional rasterization methods and ray tracing methods that can provide improved visual fidelity and expanded opportunities for simulation integration. By removing the dependence on particular hardware for performant rendering, these libraries enable visualization capabilities for both in situ and post-process analysis across the various hardware architectures found in high performance computing.
+
+| Name | Description | Funding Source | Contact |
+| --- | --- | --- | --- |
+| **[Software Defined Visualization](/research/tacc-research/software-defined-vis)** | *This project develops a dynamic ray scheduling algorithm that effectively manages both ray state and data accesses.* | Longhorn Supercomputer | Paul Navrátil [pnav@tacc.utexas.edu](mailto:pnav@tacc.utexas.edu) |
+| **[Accelerated 3D Reconstruction and Visualization of Compressible Flow](/research/tacc-research/accelerated-3d-reconstruction)** | *This project aims to create efficient shadowgraph and Schlieren visualizations of simulated airflow leveraging commodity hardware and open-source rendering platforms.* | US Air Force SBIR Topic AF151-182 | Paul Navrátil [pnav@tacc.utexas.edu](mailto:pnav@tacc.utexas.edu) |
+| **[Sculpting Visualizations](/research/tacc-research/sculpting-visualizations)** | *This project investigates making visual analysis of data more effectively by using time-tested methods of visual artists to investigate, reframe and generally make sense of their world. Imagine if data-intensive computing could be a more innately human and creative process, like sculpting (visual, tangible, active, physical).* | National Science Foundation | Greg Abram [gda@tacc.utexas.edu](mailto:gda@tacc.utexas.edu) |
+| **[Stardust](/research/tacc-research/stardust)** | *To reduce the overall cost of the visual analysis of large-scale simulation and observational data by replacing brute-force techniques with data sampling based on the actual requirements and capabilities of the user.* | Department of Energy Office of Advanced Scientific Computing Research | Greg Abram [gda@tacc.utexas.edu](mailto:gda@tacc.utexas.edu) |
+
+[back to top >>](#top)
+
+### Past Projects & Software
+
+* The Arabidopsis Informational Portal
+* BOINC@TACC
+* Causes and Consequences of Epigenetic Variation in Maize
+* Control of Display Environments with Depth-based Skeletal Tracking
+* Digital Rocks
+* Dynamic Changes in the Chick Developing Heart in Response to Altered Hemodynamics
+* Epigenome Dynamics During DNA Replication
+* eXtreme Digital (XD) Technology Investigation Service (TIS)
+* FutureGrid Portal
+* GDBase
+* GotoBlas2
+* Hadoop Cluster
+
+* IBP: Integrated Breeding Platform (portal)
+* Interactive Anatomic System Dashboard (IASD)
+* Interactive Parallelization Tool (IPT)
+* italc
+* Karnak
+* LANIC: Mining Information & Web Archive
+* MIC Development
+* NARA
+* Next Generation Communication
+* Oplontis
+* PerfExpert
+* SALSA
+* ScoreVis
+* Sustainable Places Project
+* Synergistic Discovery and Design Environment (SD2E)
+
+* Texas Test Server Problem
+* A Thousand Words: Advanced Visualization for the Humanities
+* Topology-Aware MPI and Job Scheduling
+* Touch Interface Techniques for Collaborative and Interactive Visualization
+* VDJServer
+* Virtual Reality for Journalists
+* VisIT Performance Enhancements
+* What Jane Saw
+* Windjammer
+* XSEDE 2.0
+* XSEDE Projects
+* XSEDE Technology Audit Service

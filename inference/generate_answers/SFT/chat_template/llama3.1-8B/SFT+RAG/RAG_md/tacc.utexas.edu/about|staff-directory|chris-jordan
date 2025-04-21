@@ -1,0 +1,44 @@
+1. [Home](/)
+2. [About](/about/)
+3. [Staff Directory](/about/staff-directory/)
+4. Chris Jordan
+
+# Chris Jordan
+
+## Manager, Data Management and CollectionsResearch Engineering/Scientist Associate
+
+Phone: **512-232-3755** |
+Email: **[ctjordan@tacc.utexas.edu](mailto:ctjordan@tacc.utexas.edu)**
+
+Chris Jordan joined TACC in April 2008 to work on a variety of issues related to storage and I/O for high-performance computing, as well as long-term digital preservation issues. He currently leads the Data Management and Collections group, and is responsible for deploying research data infrastructure to serve the University of Texas System campuses and the national community. He has led data infrastructure activities for the National Science Foundation's TeraGrid and XSEDE projects. Before joining TACC, Chris spent four years at the San Diego Supercomputer Center, where he helped develop and deploy the GPFS-WAN global file system currently in production across multiple TeraGrid resource providers. He and his collaborators have published and spoken widely about the project. Chris has nearly ten years of experience working directly with some of the largest supercomputers and storage systems in the world, and has worked with a variety of architectures and scientific applications.
+
+### Selected Publications
+
+Exploring the hyper-grid idea with grand challenge applications: The DEISA-TERAGRID interoperability demonstration. Challenges of Large Applications in Distributed Environments Workshop, Paris, France, June 2006, with P. Andrews, H. Lederer, R. Harkness, R. Niederberger, M Buechli, R. Hatzy, T. Rimovsky, A. Schott, T. Sodemann and V. Springel.
+
+Data Grid Authentication via GSI Certificates Within a Very Large Global File System. The 2006 International Conference on Grid Computing and Applications, Las Vegas, NV, June 2006, with P. Andrews and P. Kovatch.
+
+Integrating BlueGene into the TeraGrid. TeraGrid Conference, Indianapolis, Indiana, June 2006, with P. Kovatch and J. White.
+
+Design, Implementation, and Production Experiences of a Global Storage Grid. IEEE, NASA Mass Storage Systems and Technologies Conferences, Symposia, and Workshops, College Park, Maryland, May 2006, with P Andrews and H. Lederer.
+
+'Scaling a Global File System to the Greatest Possible Extent, Performance, Capacity and Number of Users, IEEE, NASA Mass Storage Systems and Technologies Conferences, Symposia and Workshops, Monterey, CA, April 2005, with P. Kovatch, B. Banister, R. Haskin and P. Andrews.
+
+### Current Projects
+
+* Petascale file systems and archives, TACC
+* Data Architect, TeraGrid
+* Data Working Group Lead, XSEDE
+
+### Areas of Research
+
+* High performance & Parallel I/O
+* Digital Preservation
+* Scientific Visualization and Image Rendering
+* Non-traditional Applications of High Performance Computing
+
+### Education
+
+**B.U.S., University Studies,**  
+
+University of New Mexico

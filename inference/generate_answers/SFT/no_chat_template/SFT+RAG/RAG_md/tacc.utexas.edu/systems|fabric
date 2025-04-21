@@ -1,0 +1,20 @@
+1. [Home](/)
+2. [Systems](/systems/)
+3. Fabric
+
+# Fabric
+
+**Fabric has been decommissioned and is no longer available.**
+
+## Exploring Alternate Computer Architectures
+
+The FAbRIC (FPGA Research Infrastructure Cloud) project acquires and maintain comprehensive testbed systems and their tools for open use by researchers wishing to explore the power of reconfigurable hardware. Reconfigurable hardware has tremendous potential in terms of performance and power efficiency. However, the high cost of such systems, the high cost of the tools needed to program such systems, and need to program at a very low level together put such systems out of reach of most researchers. The default usage model for Fabric is "open source to play," which enables anyone who agrees to let the team publish their open source code use the facility free of charge. Such a shared platform with industrial-strength tools and open sourced code finally enables true reproducibility of research results and the ability to leverage others' work.
+
+The original Fabric uses Convey FPGA platforms, and a more recent update added IBM Power 8 processors with NVIDIA GPUs and FPGAs from Altera and Xilinx for researchers exploring alternate computer architectures.
+
+Supported by grants from IBM and the National Science Foundation ([CNS-1205721](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1205721&HistoricalAwards=false)).
+
+### System Specifications
+
+| Nine IBM Power8 S824L nodes  Each Power8 nodes has the following:   * Two 10-core 3.42 GHz POWER8 processor cards * 256GB memory * One NVIDIA K40m GPU * One Alpha Data CAPI accelerator using a Xilinx FPGA * One Nallatech CAPI accelerator using a Altera FPGA |
+| --- |

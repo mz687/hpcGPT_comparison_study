@@ -1,0 +1,37 @@
+1. [Home](/)
+2. [Research](/research/)
+3. [TACC Research](/research/tacc-research/)
+4. DisplayCluster
+
+# DisplayCluster
+
+### Purpose
+
+DisplayCluster is a software environment for interactively driving large-scale tiled displays. The software allows users to interactively view media such as high-resolution imagery and video, as well as stream content from remote sources such as laptops / desktops or high-performance remote visualization machines. Many users can simultaneously interact with DisplayCluster with devices such as joysticks or touch-enabled devices such as the iPhone / iPad / iTouch or Android devices. Additionally, a Python scripting interface is provided to automate interaction with DisplayCluster.
+
+DisplayCluster currently drives Stallion, the world's highest resolution tiled display.
+
+#### DisplayCluster Features
+
+* Cross-platform. DisplayCluster works in both Linux and Mac OSX environments.
+* Media viewing. View video content and high-resolution imagery (up to gigapixels in size).
+* Pixel streaming. Stream desktops or applications from remote sources to the display.
+* Interaction. Multiple users can interact with the display using devices such as:
+  + Joysticks
+  + Gamepad controllers
+  + Touch-enabled devices: iPhone, iPad, iTouch, Android devices
+* Scriptability. DisplayCluster is fully scriptable via a Python API.
+
+The DisplayCluster software is available for download on [GitHub](http://www.github.com/TACC). DisplayCluster is free software issued by the University of Texas at Austin under the BSD license. Please see the LICENSE file for details.
+
+### Contributors
+
+**Gregory D. Abram**  
+
+Research Associate
+
+### Related Links
+
+* [Visualization Laboratory](/use-tacc/visualization-services/)
+* [DisplayCluster Software](http://www.github.com/TACC)
+* [DisplayCluster: An Interactive Visualization Environment for Tiled Displays (White Paper)](/media/filer_public/84/22/842228e5-a800-46bd-8312-34aecabfb66e/displaycluster.pdf)

@@ -1,0 +1,57 @@
+1. [Home](/)
+2. [Research](/research/)
+3. [TACC Research](/research/tacc-research/)
+4. TACC Stats
+
+# TACC Stats
+
+### Purpose
+
+TACC Stats is an infrastructure for the low-overhead collection of system-wide performance data that integrates information from a variety of sources. TACC Stats provides a web-based interface for exploring jobs and system-level reports about this data as well as automated analysis and flagging of jobs that need human attention.
+
+Histograms generated from WRF runs on Stampede. Subplots show run times, job size in cores, average cycles per instruction (CPI), and average floating point computation rate.
+
+### Overview
+
+The TACC Stats monitor runs periodically during the execution of each job to collect a large number of system statistics and hardware performance counter data from a variety of sources including: CPU usage, socket-level memory usage, swapping and paging statistics, system load and process statistics, system and block device counters, interprocess communications, filesystems usage (NFS, Lustre, Panasas), interconnect fabric traffic, and CPU counters and Uncore counters (e.g. counters from the Memory Controller, Cache and NUMA Coherence Agents, Power Control Unit).
+
+Nightly analyses are available to flag underperforming and misconfigured jobs for later attention by HPC consultants. Jobs are flagged when they leave nodes idle, use the wrong network, experience a drastic drop in performance, or show evidence of low efficiency.
+
+TACC Stats' associated web interface allows for browsing all jobs associated with a cluster, identifying flagged jobs, and plotting basic job characteristics.
+
+### Impact
+
+TACC Stats is deployed on all TACC systems, SDSC Comet and Gordon, and LSU SuperMIC.
+
+---
+
+**Cite As**  
+
+J. Hammond, "Tacc stats: I/O performance monitoring for the instransigent," in Invited Keynote for the 3rd IASDS Workshop, 2011, 2011, pp. 1–29.
+
+### Contributors
+
+**Stephen Harrell**  
+
+HPC Engineering Scientist, HPC Performance & Architectures
+
+**Junjie Li**  
+
+Research Associate, HPC Software Tools
+
+**Albert Lu**  
+
+Research Associate, HPC Applications
+
+### Related Links
+
+* [TACC Stats GitHub](https://github.com/TACC/tacc_stats)
+* [DOI: 10.5281/zenodo.495218](https://doi.org/10.5281/zenodo.495218)
+
+### Publications
+
+Evans, T.; Barth, W.L.; Browne, J.C.; DeLeon, R.L.; Furlani, T.R.; Gallo, S.M.; Jones, M.D.; Patra, A.K., "Comprehensive Resource Use Monitoring for HPC Systems with TACC Stats," HPC User Support Tools (HUST), 2014 First International Workshop on , vol., no., pp.13,21, 21-21 Nov. 2014 doi: 10.1109/HUST.2014.7 [[pdf]](/media/filer_public/35/b3/35b3a32a-3c48-4d4b-a803-f9aa30c92b52/tacc_stats_hust.pdf)
+
+### Funding Source
+
+[NSF Award 2137603: Track 4: Advanced CI Coordination Ecosystem: Monitoring and Measurement Services](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2137603)

@@ -1,0 +1,75 @@
+1. [Home](/)
+2. [News](/news/)
+3. Latest News
+
+*List*
+
+*Grid*
+
+# Rare Quasar Triplet Forms Most Massive Object in Universe
+
+## Colossal ASTRID cosmological simulation using TACC's Frontera supercomputer helps probe ultra-massive black hole
+
+* by[Jorge Salazar](/news/latest-news/author/jorge/)
+
+* March 13, 2023
+
+* [Feature Story](/news/latest-news/category/feature-story/)
+* [Podcast](/news/latest-news/category/podcast/)
+
+* [Frontera](/news/latest-news/tag/frontera/)
+
+share this:
+
+Supercomputer simulations on Frontera reveal the origins of ultra-massive black holes, the most massive objects thought to exist in the entire universe. Shown here is the quasar triplet system centered around the most massive quasar (BH1) and its host galaxy environment on the Astrid simulation. The red and yellow lines mark the trajectories of the other two quasars (BH2 and BH3) in the reference frame of BH1, as they spiral into each other and merge. Credit: DOI 10.3847/2041-8213/aca160.
+
+Ultra-massive black holes are the most massive objects in the universe. Their mass can reach millions and billions of solar masses. Supercomputer simulations on TACC's [Frontera](//tacc.utexas.edu/systems/frontera/) supercomputer have helped astrophysicists reveal the origin of ultra-massive black holes formed about 11 billion years ago.
+
+"We found that one possible formation channel for ultra-masssive black holes is from the extreme merger of massive galaxies that are most likely to happen in the epoch of the ‘cosmic noon," said [Yueying Ni](https://yueyingn.github.io/), a postdoctoral fellow at the Harvard–Smithsonian Center for Astrophysics.
+
+Study lead author Yueying Ni, Harvard–Smithsonian Center for Astrophysics, presenting at the 2022 Frontera User Meeting, Texas Advanced Computing Center. Credit: TACC.
+
+Ni is the lead author of work [published](https://iopscience.iop.org/article/10.3847/2041-8213/aca160) in *The Astrophysical Journal* (December 2022) that found ultra-massive black hole formation from the merger of triple [quasars](https://en.wikipedia.org/wiki/Quasar), systems of three galactic cores illuminated by gas and dust falling into a nested supermassive black hole.
+
+Working hand-in-hand with telescope data, computational simulations help astrophysicists fill in the missing pieces on the origins of stars and exotic objects like black holes.
+
+One of the largest cosmological simulations to date is called *[Astrid](https://arxiv.org/pdf/2111.01160.pdf)*, co-developed by Ni. It's the largest simulation in terms of the particle, or memory load in the field of galaxy formation simulations.
+
+"The science goal of *Astrid* is to study galaxy formation, the coalescence of supermassive black holes, and re-ionization over the cosmic history," she explained. Astrid models large volumes of the cosmos spanning hundreds of millions of light years, yet can zoom in to very high resolution.
+
+> It's great to have access to supercomputers, technology that allow us to model a patch of the universe in great detail and make predictions from the observations.
+> Yueying Ni, Harvard–Smithsonian Center for Astrophysics
+
+Ni developed *Astrid*[using](https://www.tacc.utexas.edu/-/top-u-s-academic-supercomputing-community-gathers-at-2022-frontera-user-meeting) the Texas Advanced Computing Center's (TACC) Frontera supercomputer, the most powerful academic supercomputer in the U.S., funded by the National Science Foundation (NSF).
+
+"Frontera is the only system that we performed *Astrid* from day one. It's a pure Frontera-based simulation," Ni continued.
+
+Frontera is ideal for Ni's *Astrid* simulations because of its capability to support large applications that need thousands of compute nodes, the individual physical systems of processors and memory that are harnessed together for some of science's toughest computation.
+
+"We used 2,048 nodes, the maximum allowable in the large queue, to launch this simulation on a routine basis. It's only possible on large supercomputers like Frontera," Ni said.
+
+The NSF-funded Frontera supercomputer at the Texas Advanced Computing Center, UT Austin. Credit: TACC.
+
+Her findings from the *Astrid* simulations show something completely mind-boggling — the formation of black holes can reach a theoretical upper limit of 10 billion solar masses. "It's a very computational challenging task. But you can only catch these rare and extreme objects with a large volume simulation," Ni said.
+
+"What we found are three ultra-massive black holes that assembled their mass during the [cosmic noon](https://cosmicdawn.astro.ucla.edu/cosmic_noon.html), the time 11 billion years ago when star formation, active galactic nuclei (AGN), and supermassive black holes in general reach their peak activity," she added.
+
+About half of all the stars in the universe were born during cosmic noon. Evidence for it comes from multi wavelength data of numerous galaxy surveys such as the [Great Observatories Origins Deep Survey](https://en.wikipedia.org/wiki/Great_Observatories_Origins_Deep_Survey), where the spectra from distant galaxies tell about the ages of its stars, its star formation history, and the chemical elements of the stars within.
+
+"In this epoch we spotted an extreme and relatively fast merger of three massive galaxies," Ni said. "Each of the galaxy masses is 10 times the mass of our own Milky Way, and a supermassive black hole sits in the center of each galaxy. Our findings show the possibility that these quasar triplet systems are the progenitor of those rare ultra-massive blackholes, after those triplets gravitationally interact and merge with each other."
+
+What's more, new observations of galaxies at cosmic noon will help unveil the coalescence of supermassive black holes and the formation the ultra-massive ones. Data is rolling in now from the [James Webb Space Telescope](https://webb.nasa.gov/) (JWST), with high resolution details of galaxy morphologies.
+
+Relation between the stellar mass of galaxies with (i) mass of the most massive black hole in that galaxy (left panel) and (ii) star formation rate of the galaxy (right panel). The blue background shows the 2D histogram for all the galaxy populations at z = 2 in the Astrid simulation. Credit: DOI 10.3847/2041-8213/aca160. Credit: DOI 10.3847/2041-8213/aca160.
+
+"We're pursuing a mock-up of observations for JWST data from the *Astrid* simulation," Ni said.
+
+"In addition, the future space-based NASA [Laser Interferometer Space Antenna](https://lisa.nasa.gov/) (LISA) gravitational wave observatory will give us a much better understanding the how these massive black holes merge and/or coalescence, along with the hierarchical structure, formation, and the galaxy mergers along the cosmic history," she added. "This is an exciting time for astrophysicists, and it's good that we can have simulation to allow theoretical predictions for those observations."
+
+Ni's research group is also planning a systematic study of on AGN hosting of galaxies in general. "They are a very important science target for JWST, determining the morphology of the AGN host galaxies and how they are different compared to the broad population of the galaxy during cosmic noon," she added.
+
+"It's great to have access to supercomputers, technology that allow us to model a patch of the universe in great detail and make predictions from the observations."
+
+---
+
+The study, "Ultramassive Black Holes Formed by Triple Quasar Mergers at z ∼ 2," was published December 2022 in *The Astrophysical Journal*. The study authors are Yueying Ni of the Harvard–Smithsonian Center for Astrophysics; Tiziana Di Matteo, Nianyi Chen, and Rupert Croft of Carnegie Mellon University; and Simeon Bird of the University of California, Riverside. Funding came from the NSF AI Institute: Physics of the Future, NSF PHY-2020295, NASA ATP NNX17AK56G, and NASA ATP 80NSSC18K101. T.D.M. acknowledges additional support from NSF ACI-1614853, NSF AST-1616168, NASA ATP 19-ATP19-0084, and NASA ATP 80NSSC20K0519, and RACC from NSF AST-1909193. S.B. acknowledges funding supported by NASA-80NSSC22K1897.

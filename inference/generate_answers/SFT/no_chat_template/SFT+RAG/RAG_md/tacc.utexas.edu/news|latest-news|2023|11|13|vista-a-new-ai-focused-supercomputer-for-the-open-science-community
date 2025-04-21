@@ -1,0 +1,54 @@
+1. [Home](/)
+2. [News](/news/)
+3. Latest News
+
+*List*
+
+*Grid*
+
+# Vista: A New AI-Focused Supercomputer for the Open Science Community
+
+## NVIDIA technology-based system rounds out Stampede3 (Intel), Lonestar6 (AMD) architectural platforms
+
+* by[Faith Singer](/news/latest-news/author/faith/)
+
+* Nov. 13, 2023
+
+* [Press Release](/news/latest-news/category/press-release/)
+
+* [LCCF](/news/latest-news/tag/lccf/)
+
+share this:
+
+Vista, a new artificial intelligence (AI)-centric system, is arriving at the Texas Advanced Computing Center at The University of Texas at Austin in early 2024.
+
+Vista will set the stage for TACC’s Horizon system, the forthcoming Leadership-Class Computing Facility (LCCF) funded by the National Science Foundation (NSF), planned for fiscal year 2025. Horizon is expected to provide 10 times the computing capability of [Frontera](https://www.tacc.utexas.edu/systems/frontera/), the top U.S. academic supercomputer and the largest supercomputer in the NSF research cyberinfrastructure.
+
+“Vista will bridge the gap between Frontera and Horizon to ensure the broad science and engineering research and education community has access to the most advanced computing and AI technologies,” said Katie Antypas, director in the NSF Office of Advanced Cyberinfrastructure. “Vista will also be a critical new resource to support responsible and trustworthy AI research for the benefit of our national welfare.”
+
+Vista will mark a departure from the x86-based architecture used by TACC in Frontera, the Stampede systems, and others to central processing units (CPU) based on the Advanced RISC Machines (Arm) architecture. The new Arm-based [NVIDIA Grace CPU Superchip](https://www.nvidia.com/en-us/data-center/grace-cpu/) is specifically designed for the rapidly expanding needs of AI and scientific computing.
+
+“We’re excited about Vista,” said TACC Executive Director Dan Stanzione. “It’s our first ever system with an Arm-based primary processor. It will add to our capacity, particularly for AI, and help our user base begin porting to future generations of these technologies. With Vista, alongside our new [Stampede3 (Intel)](https://www.tacc.utexas.edu/news/latest-news/2023/07/24/taccs-new-stampede3-advances-nsf-supercomputing-ecosystem/) system, and the [Lonestar6 (AMD)](https://www.tacc.utexas.edu/news/latest-news/2022/11/14/taccs-lonestar6-supercomputer-gets-gpu-and-server-boost/) system we added last year, our team and our users will gain experience with and insight into the three major architectural paths we might follow for future systems, including Horizon.”
+
+> “We’re excited about Vista, It’s our first ever system with an Arm-based primary processor. It will add to our capacity, particularly for AI, and help our user base begin porting to future generations of these technologies. With Vista, alongside our new Stampede3 (Intel) system, and the Lonestar6 (AMD) system we added last year, our team and our users will gain experience with and insight into the three major architectural paths we might follow for future systems, including Horizon.”
+> Dan Stanzione, TACC Executive Director / Associate Vice President for Research, UT Austin
+
+The NVIDIA GH100 [Grace Hopper Superchip](https://www.nvidia.com/en-us/data-center/grace-hopper-superchip/) will be the processor for a little more than half of Vista’s compute nodes. It combines the Grace CPU with an NVIDIA Hopper architecture-based GPU so that the GPU can seamlessly access CPU memory to enable bigger AI models. The NVIDIA Grace CPU Superchip, which contains two Grace processors in a single module, will fill out the remainder of Vista’s nodes for unaccelerated codes.
+
+Memory is implemented in a new way with the superchips. Instead of traditional DDR DRAM, the Grace uses LPDDR5 technology—like the memory used in laptops but optimized for the needs of the data center. In addition to delivering higher bandwidth, this memory is more power-efficient than traditional DIMMS, offering savings as great as 200 watts per node.
+
+In addition, the [NVIDIA](https://www.nvidia.com/en-us/networking/quantum2/) [Quantum-2](https://www.nvidia.com/en-us/networking/quantum2/) [InfiniBand](https://www.nvidia.com/en-us/networking/quantum2/) networking platform will help advance Vista’s performance with its advanced acceleration engines and in-network computing, propelling it up to 400Gb/s.
+
+“AI has the potential to allow scientific computing to solve some of the most challenging problems facing humanity,” said NVIDIA Director of Accelerated Computing Dion Harris. “NVIDIA’s accelerated computing platform equips leading academic supercomputers, such as TACC’s Vista, with the extreme performance required to unlock this transformative potential.”
+
+On the storage side, TACC has partnered with [VAST Data](https://vastdata.com/) to supply Vista’s file system with all-flash, high-performance storage linked to its Stampede3 supercomputer. The compute nodes will be manufactured by [Gigabyte](https://www.gigabyte.com/), and [Dell Technologies](https://www.dell.com/en-us/dt/corporate/about-us/who-we-are.htm) will provide the integration.
+
+Vista allocations will be available primarily through the NSF-funded Frontera project, and will also offer time throughthe [Advanced](https://access-ci.org/) [Cyberinfrastructure](https://access-ci.org/) [Ecosystem: Services and Support (ACCESS)](https://access-ci.org/) project to its broad user community.
+
+### **Stampede3 to Enter Full Production in Early 2024**
+
+In addition to Vista, TACC announced the Stampede3 system in July 2023, a powerful new Dell Technologies and Intel-based supercomputer that will be the high-capability and high-capacity HPC system available to open science research projects in the U.S. when it enters full production in early 2024. [Learn more](https://www.tacc.utexas.edu/news/latest-news/2023/07/24/taccs-new-stampede3-advances-nsf-supercomputing-ecosystem/) about the system specifications.
+
+### **Lonestar6: TACC’s Primary System for Texas Researchers**
+
+TACC’s Lonestar6 supercomputer went into full production in January 2022 with a boost of new servers and GPUs from Dell Technologies, AMD, and NVIDIA. This is in addition to the three petaflops of pre-existing performance from the AMD CPUs in the system. This system allows Texas researchers to compute and compete at the forefront of science and engineering. Lonestar6 is designed to meet the growing demand for AI and other GPU-accelerated solutions and take advantage of the power efficiency in heterogeneous computing.[Learn more](https://www.tacc.utexas.edu/news/latest-news/2022/11/14/taccs-lonestar6-supercomputer-gets-gpu-and-server-boost/) about the system specifications.

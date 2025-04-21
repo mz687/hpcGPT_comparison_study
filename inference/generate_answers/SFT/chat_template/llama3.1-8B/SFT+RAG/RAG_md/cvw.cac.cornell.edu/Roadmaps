@@ -1,0 +1,362 @@
+### Operating Systems
+
+##### Linux
+
+* [An Introduction to Linux](/Linux)
+
+  Tux, the Linux penguin. Source: Wikipedia
+
+  Linux is a powerful operating system that includes a multitude of tools for programmers and system administrators. It is a robust, stable, and flexible operating system that can be tailored to run on a variety of hardware — from phones to supercomputers. Linux is widely used in academic and scientific communities because it is so versatile and includes over 40 years of scientific tools development.
+
+  This tutorial is intended for the beginning Linux user and should help you get acquainted with some basic principles of the Linux operating system. There is also a wealth of free information about Linux available online — and in several books — so this will not be a comprehensive tutorial, but rather a starting point to help you begin using Linux comfortably.
+  This roadmap focuses on features that are relevant to the scientific communities utilizing Linux-based [ACCESS resources](https://operations.access-ci.org/).
+  However, it may also be useful to other beginning Linux or Unix users in the academic or scientific communities and beyond.
+
+### Programming
+
+##### Languages
+
+* [Introduction to C Programming](/Cintro)
+
+  The C programming language is heavily used in the scientific and high performance computing community,
+  and also happens to be the same language in which many operating systems are written.
+  Thus, it is important for scientists and engineers to have a good understanding of how the language can assist them with their computing needs.
+  This document is provided for the beginning programmer who has an interest in learning to effectively use the C language.
+  If you have never programmed before, you can also use this document to learn the basic concepts of programming.
+  However, you may also want to refer to other [references](https://cvw.cac.cornell.edu/main/reference.aspx) as well.
+* [Introduction to Fortran Programming](/fortran-intro)
+
+  Fortran is one of the premier languages for numerical analysis and high performance computing. For this reason, Fortran compilers are typically available on all large-scale computing platforms, including Stampede2 and Frontera at TACC. Today, Fortran continues to evolve steadily to fit the needs of the (super)computing community. This introductory roadmap focuses mainly on its elementary features.
+* [Introduction to Python Programming](/python-intro)
+
+  Python is a programming language designed with ease of programming and readable code as its foremost goals. Python has risen to prominence in scientific computing as an excellent tool for doing data conversions, scripting parameter studies, capturing complex algorithmic logic, and in general providing the “glue” to hook together many pieces of scientific workflows.
+
+  In this online course, a quick overview of the language is presented, along with a few tricks to improve the utility of Python for engineering and science modeling. Python naturally invites a “try it and see” approach, so mini-exercises are interspersed for practice.
+
+  This is not intended as a comprehensive syntax review for Python. Rather, it's enough to get started for beginners (with pointers to more detailed resources), plus a few hints for improvement once you make it out of the beginner phase. Although we will be learning Python on UNIX/Linux, nearly all of the Python language operates the same on Windows; this platform-independence is another contributor to Python's wider appeal.
+* [Introduction to R](/R)
+
+  This roadmap provides a brief introduction to R. It covers the basic syntax of the language and illustrates some of its data handling and statistical capabilities. The focus will be on how to run R in various environments, particularly on TACC's [Stampede3](https://docs.tacc.utexas.edu/hpc/stampede3/) and [Frontera](https://frontera-portal.tacc.utexas.edu/user-guide/) supercomputers, and especially how to run R in parallel. It is by no means a comprehensive discussion of R. Instead refer to the various manuals available on the R website, or one of the many books on R.
+* [Relational Databases](/RelationalDBs)
+
+  Relational databases are a commonly-used and powerful way of storing data to allow robust querying and maintaining consistency of the stored data; sometimes called "SQL databases", they are queried using the Structured Query Language (SQL) and
+  SQL can also be used to create, populate and alter the database. Relational database management systems (RDBMSs) and their SQL flavours have much in common across the different distributions; although advanced features may require consulting
+  the documentation specific to that RDBMS, most operations can be done with standard SQL
+* [MATLAB Programming](/matlab)
+
+  MATLAB is a programming and numeric computing platform used to analyze data, develop algorithms and create models.
+  This roadmap includes topics that provide a basic introduction to MATLAB,
+  discuss how to write MATLAB code that can be compiled for speed,
+  and offer tips on getting the best performance out of MATLAB.
+
+  The example code in these topics was run and verified using MATLAB 2017a through 2021a.
+  Most of it (outside of Mex and other FFI examples) should also work with slight modifications in GNU Octave.
+
+##### Best Practices
+
+* [Checkpointing](/Checkpoint)
+
+  When running a job for any substantial length of time, you hope that nothing interrupts it so that you won't have to start over. But no matter the environment, interruption is always a possibility. Checkpoint/Restart (C/R) solutions allow you to resume a job from approximately where it left off. Checkpointing strategies also have additional benefits beyond fault tolerance, so learning about these strategies is likely to benefit your own work.
+
+  This roadmap provides an overview of the checkpointing/restart strategy and a survey of different types of C/R solutions.
+* [Python for High Performance](/python-performance)
+
+  Python is a very popular programming language for scientific computing, due to both the expressiveness of the language itself and the availability of a rich ecosystem of packages, tools, and libraries that have been developed by the community to support a wide array of different computational tasks. Python is an interpreted language, however, and therefore Python programs are intrinsically slower than equivalent programs written in a compiled language. This roadmap introduces packages, tools, and strategies that are useful for achieving high computational performance with Python, both on workstations and on multiprocessor clusters.
+
+##### Code Improvement
+
+* [Case Study: Profiling and Optimization on Advanced Cluster Architectures](/case-study-opt)
+
+  This case study details how to use various profiling tools to assess computational performance and possible optimization strategies that can improve performance. This walk-through focuses on the Stampede2 KNL nodes at TACC, but the tools and approaches are generally applicable to a variety of advanced computational architectures.
+
+  The complex internal structure of modern processors makes such profiling and analysis tools especially important, as one is often not able to predict computational performance a priori in the face of so many contributing factors. Analyses discussed here include:
+
+  + Identification of code hotspots
+  + Scaling of computational runtimes with number of nodes
+  + Identification of performance limitations due to inefficient communication with memory
+  + Profiling of vectorization performance
+
+  Optimizations emphasized here primarily involve the use of various compiler options and small compiler directives that can be added to code, as opposed to large-scale restructuring of algorithms or data structures to improve performance.
+
+  The material is based on a webcast presentation given by Shiquan Su (NCAR) and Chad Burdyshaw (NICS) on October 17, 2017, as part of the ECSS Symposium Series. This tutorial augments that presentation by integrating video clips from the webcast with a textual summary of key points, along with further explanations and remarks. The latter part of the joint presentation by Burdyshaw, which leverages the use of the Intel performance analysis tools (especially VTune Amplifier XE or "VTune"), is emphasized here, as it should be pertinent to a wide range of application codes. The first part of the presentation by Su focuses more on the scientific and numerical background of the particular code being analyzed. The key take-home messages from Su's presentation are summarized in the [Application Context](/case-study-opt/context/) topic (and expanded upon in the [Appendix](/case-study-opt/appendix/)), which serves as a prelude to the more generally applicable topics, [Performance Analysis](/case-study-opt/performance/) and [Vectorization & Parallelization](/case-study-opt/vector-parallel/).
+* [Profiling and Debugging](/profiling-debugging)
+
+  This roadmap will introduce profiling and debugging,
+  two techniques for performing analysis of the runtime behavior of an application. Effective use of profiling and debugging techniques
+  requires a basic understanding of system-level details related to compiling, linking, storing, and running executables, which this roadmap will discuss.
+
+  Profiling and debugging have different goals. Profiling focuses on characterizing the performance of an application, while debugging focuses on diagnosing faults. In particular, [Debugging](/profiling-debugging/debugging/index):
+
+  + Helps one find defects, analyze failures, and analyze expected program flow.
+  + Inspects and modifies the state of a running program, or performs post-mortem analysis of failures via inspecting memory dumps.
+  + Is harder in parallel applications.
+
+  ...while [Profiling](/profiling-debugging/profiling/index):
+
+  + Measures performance characteristics, helping to identify areas for performance improvement.
+  + Collects performance measurements of a running program, analyzes results afterward.
+  + Is harder in parallel applications.
+
+  Profiling and debugging tools and techniques
+  for parallel applications will be discussed along with a survey of profiling and debugging tools available on
+  [Frontera](https://www.tacc.utexas.edu/systems/frontera/) at [TACC](https://www.tacc.utexas.edu/).
+* [Code Optimization](/code-optimization)
+
+  There are a few simple things one can do in one's code to make the most of typical computing resources, up to and including high performance computing (HPC) resources. This roadmap covers basic aspects of code optimization that can have a big impact, as well as common performance pitfalls to avoid. The roadmap also explains the main features of microprocessor architecture and how they relate to the performance of compiled code.
+* [Vectorization](/vector)
+
+  Vectorization is a process by which mathematical operations found in tight loops in scientific code are executed in parallel on special vector hardware found in CPUs and coprocessors. This roadmap describes the vectorization process as it relates to computing hardware, compilers, and coding practices. Knowing where in code vectorization ought to occur, how vectorization will increase performance, and whether the compiler is vectorizing loops within a code as it should are critical to getting the full potential from the CPUs of modern HPC systems such as [Frontera](https://www.tacc.utexas.edu/systems/frontera) and [Stampede3](https://www.tacc.utexas.edu/systems/stampede3).
+
+### Computing Resources
+
+##### Clusters and Clouds
+
+* [Getting Started on Frontera](/frontera)
+
+  Frontera is the largest academic supercomputer in the world. Located at The University of Texas at Austin's Texas Advanced Computing
+  Center (TACC), Frontera is tailored towards the very largest of scientific computing projects. This quick-start guide covers an
+  architecture overview, the user environment, file storage and data movement, compiling code, and running jobs.
+* [Introduction to Jetstream2](/jetstream)
+
+  [Jetstream2](https://jetstream-cloud.org/)
+  is a user-friendly cloud computing
+  environment for researchers that is based on [OpenStack](https://www.openstack.org/software/)
+  and [Exosphere](https://gitlab.com/exosphere/exosphere).
+  It is designed to provide configurable cyberinfrastructure
+  that gives you access to interactive computing and data analysis resources on demand,
+  whenever and wherever you want to analyze your data.
+  This roadmap covers the basic knowledge that you need to make productive use of Jetstream2,
+  including how to access Jetstream2, create and manage instances and volumes, log in to instances, and transfer files.
+* [Using the Jetstream2 APIs](/JetstreamAPI)
+
+  [Jetstream2](https://jetstream-cloud.org/) is a user-friendly
+  cloud computing environment that is designed to provide configurable cyberinfrastucture to researchers.
+  To learn more about Jetstream2's features and how to use it,
+  visit the topic [Introduction to Jetstream2](/Jetstream).
+
+  This topic covers advanced subjects related to accessing and controlling
+  Jetstream2's functionality through programmatic means such as
+  Application Programmer Interfaces (APIs).
+  APIs provide *low level* access that is designed to be powerful rather than easy to use.
+  As such, the techniques described in this topic may be challenging
+  for less experienced cloud computing users and programmers.
+
+##### Architectures
+
+* [Introduction to Advanced Cluster Architectures](/clusterarch)
+
+  Advanced clusters for High Performance Computing (HPC), such as the Frontera and Stampede3 supercomputers run by the Texas Advanced Computing Center (TACC), are powered by a large number of multi-core processors, abundant memory and cache, and fast interconnects. The Frontera and Stampede3 supercomputers use processors from the Intel Xeon Scalable Processor (SP) product line: Stampede3 is built in part using Intel Skylake processors, and Frontera leverages Intel Cascade Lake chips.
+
+  This topic presents the salient characteristics of these clusters and of both these processors, which represent the first two generations of the Intel Xeon Scalable Processor product line. Stampede3 also contains nodes based on the third- and fourth-generation SP processors, Ice Lake and Sapphire Rapids, which were added in 2022 and 2024, respectively. While we focus on the earlier Intel Xeon Scalable Processors, much of the material in this topic is generally applicable to other advanced cluster architectures built out of a large number of multi-core nodes, providing information on how to effectively use such hardware and scale applications for larger problem sizes.
+* [Understanding GPU Architecture](/gpu-architecture)
+
+  In preparing application programs to run on GPUs, it can be helpful to have an understanding of the main features of GPU hardware design, and to be aware of similarities to and differences from CPUs. This roadmap is intended for those who are relatively new to GPUs or who would just like to learn more about the computer technology that goes into them. No particular parallel programming experience is assumed, and the exercises are based on standard NVIDIA sample programs that are included with the CUDA Toolkit.
+
+##### Running Applications
+
+* [Advanced Slurm](/slurm)
+
+  Slurm Workload Manager Logo
+
+  The [Slurm Workload Manager](https://slurm.schedmd.com/) (originally the Simple Linux Utility for Resource Management) is a collection of utilities for managing workloads on compute clusters. Slurm is commonly used to manage all the jobs that execute on large-scale HPC resources such as [Stampede2](https://www.tacc.utexas.edu/systems/stampede2) and [Frontera](https://frontera-portal.tacc.utexas.edu/) at [TACC](https://www.tacc.utexas.edu/), among others.
+  The basic knowledge required to use Slurm to submit, monitor, and control jobs on the compute nodes of Stampede3 is provided in the [Stampede3 User Guide](https://docs.tacc.utexas.edu/hpc/stampede3/#running). Similar guidance for Frontera is found in [Getting Started on Frontera](/frontera/running-jobs/index) and the [Frontera User Guide](https://frontera-portal.tacc.utexas.edu/user-guide/running/).
+
+  This roadmap is for users who are already familiar with the process of submitting jobs via Slurm, but who have needs that go beyond submitting simple batch files or interactive jobs. We will discuss some of the lesser-known but powerful features of Slurm that offer potential strategies for setting up advanced workflows such as parameter sweeps. The goal is to impart practical techniques and a broader understanding of Slurm from the user perspective, without taking the time to cover every possible aspect of Slurm.
+* [Using Terraform on Jetstream2](/Jetstream-Terraform)
+
+  [Jetstream2](https://jetstream-cloud.org/) is a user-friendly cloud computing environment
+  that is designed to provide configurable cyberinfrastucture to researchers.
+  To learn more about Jetstream2's features and how to use it,
+  visit the topic [Introduction to Jetstream2](/Jetstream).
+  Programmatic access to Jetstream2 is available through its various
+  Application Programmer Interfaces (APIs), which are described in the advanced topic
+  [Using the Jetstream2 APIs](/JetstreamAPI).
+
+  This topic describes techniques for deploying cloud components on Jetstream2
+  using the "orchestration" system [Terraform](https://www.terraform.io/).
+  Orchestration systems automate and simplify the process of deploying
+  a desired configuration of instances, networking, etc. to a cloud computing environment.
+  This subject matter presumes previous experience with cloud computing on Jetstream2,
+  including familiarity with its APIs, and is not meant for inexperienced users.
+
+### Data
+
+##### Transfer/Storage
+
+* [Data Transfer](/DataTransfer)
+
+  Transferring data and code between your workstation and a remote computer is
+  a common part of scientific workflows.
+  Sometimes this data can be quite large, and sometimes you wish to transmit your data securely.
+  And recently, data transfers between cloud storage and computing facilities are becoming increasingly common.
+  There are a number of utilities available to help you accomplish these essential tasks.
+
+  Your choice of data transfer utility will depend on how much data you are transferring, how you prefer to perform the transfer,
+  and your priorities (including transfer speed, ease of use, security and validation).
+  This topic presents several data transfer options and their pros and cons, as well as ways to make these transfers faster.
+  While the file transfer techniques presented here are useful in many situations, the included examples will use [TACC](https://www.tacc.utexas.edu/)'s Stampede2 and Frontera as the remote computers.
+* [Globus Data Transfer](/GlobusXfer)
+
+  [Globus](https://www.globus.org/) is a research data management system that provides fast,
+  reliable and secure file transfers and data sharing, as well as publication and discovery functionality.
+  It is available on many high performance computing resources,
+  including those at the [Texas Advanced Computing Center (TACC)](https://www.tacc.utexas.edu/).
+
+  This topic describes the basic Globus file transfer functionality and how to use it through the Globus web interface.
+  The web interface allows you to initiate and mange file and folder transfers, and to delete and rename files and folders.
+  For most users, the Globus web interface provides all the transfer functionality they will need to support their research.
+
+  Globus also provides a Command Line Interface (CLI) that can be used to perform transfers from within scripts.
+  Additionally, users can run software on their personal computers to facilitate data transfers between those computers and
+  other computers that support Globus transfers.
+  Readers who are interested in the CLI or transfers to/from a personal computer are advised to
+  complete this topic before continuing on to the [Globus Data Transfer - Advanced topic](/globusxfer2/intro/index)
+  where the CLI, scripting and transfers from personal computers are discussed.
+* [Advanced Globus Data Transfer](/GlobusXfer2)
+
+  [Globus](https://www.globus.org/) is a research data management system that is available on
+  [Texas Advanced Computing Center (TACC)](https://www.tacc.utexas.edu/) systems.
+  It provides fast, reliable and secure file transfers and data sharing, as well as publication and discovery functionality.
+
+  This topic introduces some advanced subjects for Globus data transfer functionality:
+
+  + [The Globus Command Line Interface (CLI)](https://docs.globus.org/cli/)
+  + Using Globus CLI commands in scripts
+  + Creating and configuring personal Globus endpoints
+
+  If you are new to Globus, you should begin your learning with
+  the introductory [Globus Data Transfer](/globusxfer) topic, which covers the basics of:
+
+  + Creating Globus accounts
+  + Transferring files through the Globus web interface
+* [Relational Databases](/RelationalDBs)
+
+  Relational databases are a commonly-used and powerful way of storing data to allow robust querying and maintaining consistency of the stored data; sometimes called "SQL databases", they are queried using the Structured Query Language (SQL) and
+  SQL can also be used to create, populate and alter the database. Relational database management systems (RDBMSs) and their SQL flavours have much in common across the different distributions; although advanced features may require consulting
+  the documentation specific to that RDBMS, most operations can be done with standard SQL
+* [Checkpointing](/Checkpoint)
+
+  When running a job for any substantial length of time, you hope that nothing interrupts it so that you won't have to start over. But no matter the environment, interruption is always a possibility. Checkpoint/Restart (C/R) solutions allow you to resume a job from approximately where it left off. Checkpointing strategies also have additional benefits beyond fault tolerance, so learning about these strategies is likely to benefit your own work.
+
+  This roadmap provides an overview of the checkpointing/restart strategy and a survey of different types of C/R solutions.
+
+##### AI, Machine Learning, Data Science
+
+* [Python for Data Science](/python-data-science)
+
+  The availability of many large and detailed datasets across the physical, biological, technological, and social sciences has given rise to great interest in "data science", an amalgamation of tools and techniques from computational science, statistics, machine learning, and other fields, aimed at making sense of complex datasets and in building predictive models from those data. The Python programming language has emerged as one of the key technologies supporting data science, both because its expressive syntax allows for the rapid development of complex algorithms and data analysis pipelines, and because a dedicated developer and user community have built a rich ecosystem of tools and libraries to facilitate research and production workflows in data science. Many different types of libraries are integrated into the Python ecosystem for data science, supporting data access and manipulation, numerical modeling, statistical operations, machine learning, and data visualization. The aim of this tutorial is to provide a broad overview of some of these tools, with links to more detailed information elsewhere, along with some concrete examples of how these tools can be used in various data science applications.
+* [AI with Deep Learning](/DeepLearning)
+
+  Deep learning comprises a set of methods for Machine Learning and Artificial Intelligence, based on the use of multilayer neural networks to carry out learning. Deep learning techniques can identify patterns in data even within large data sets, and often require substantial computational resources for training model parameters and making predictions. The [Frontera](https://www.tacc.utexas.edu/systems/frontera) supercomputer at the [Texas Advanced Computing Center (TACC)](https://www.tacc.utexas.edu/) is built to support large computational workloads such as those involved with deep learning. Software packages such as TensorFlow, Keras, and PyTorch are widely used to build deep learning pipelines.
+
+##### Visualization
+
+* [Large Data Visualization](/large-data-vis)
+
+  This module provides an introduction to concepts of visualization with a focus on parallel computing techniques to handle large datasets.
+  It should clarify some of the choices you have when configuring visualization tools such as ParaView for use on Stampede2 or Frontera.
+* [ParaView](/ParaView)
+
+  [ParaView](https://www.paraview.org/) is a highly capable visualization application for computational fluid dynamics and other subjects.
+  It is open source and can run in parallel.
+  This topic includes exercises that create visualizations of a sample dataset on both a local computer and on the
+  [Stampede2](https://www.tacc.utexas.edu/systems/stampede2/) and [Frontera](https://www.tacc.utexas.edu/systems/frontera) supercomputers
+  at the [Texas Advanced Computing Center (TACC)](https://www.tacc.utexas.edu/).
+* [ParaView - Advanced](/ParaView-Adv)
+
+  [ParaView](https://www.paraview.org/) is a highly capable visualization application
+  for computational fluid dynamics and other subjects.
+  It is open source and can run in parallel on resources at the [Texas Advanced Computing Center (TACC)](https://www.tacc.utexas.edu/).
+  This topic provides high level introductions to several of ParaView's more advanced features.
+* [Interactive Data Visualization with Bokeh](/bokeh)
+
+  [Bokeh](https://bokeh.org) is a software package in the Python ecosystem for data science that provides support for interactive visualization of data. As such, it is complementary to other visualization packages that focus more on enabling the generation of static figures for inclusion in publications and reports. Bokeh renders data visualizations within web browsers and Jupyter notebooks, providing capabilities for inspecting different aspects of plotted data, selecting and highlighting subsets of data, setting parameters through graphical user interfaces and direct interactions with plots, and the construction of dashboards that integrate different data streams and analyses based on user interactions.
+
+### Parallel Computing
+
+##### Concepts
+
+* [Parallel Programming Concepts and High-Performance Computing](/Parallel)
+
+  This roadmap explains parallel programming concepts, how parallel programming relates to high performance computing, and how to design programs that can effectively use many cores. It introduces the concepts and considerations necessary for designing, writing, and optimizing parallel programs, without delving into the specifics of particular programs.
+
+  Parallel programming is increasingly relevant for all computing platforms; most personal computers (and even cell phones) sold today include multiple processing cores and require parallel programs to yield the best performance. Though parallel programming requires more time and effort than serial programming, parallel computation is the only way to leverage the power of supercomputer installations like [Stampede2](https://www.tacc.utexas.edu/systems/stampede2).
+
+  You may be motivated to develop a parallel program because the serial version of your program runs too slowly. Parallelization can spread the computation across the cores of your personal workstation, reducing run times from days to hours — or it can spread your computation across the nodes of a supercomputer, reducing the runtime from years to hours. Stampede2's most important feature is that it has over 350,000 cores for concurrent computation. By leveraging parallel computation on a machine like Stampede2, a person can complete many months' worth of serial computation in days.
+
+  As of March 2022, Stampede2 has:
+  + 3,752 Intel Xeon Phi 7250 "Knights Landing" (KNL) nodes on Stampede2; each KNL node has 68 cores, 96GB DDR4 RAM, and 16GB high-speed MCDRAM.
+  + 1,736 Xeon Platinum 8160 "Skylake" (SKX) larger-memory nodes with 48 cores and 192GB DDR4 RAM.
+  + 224 two-socket Intel Xeon Platinum 8380 "Ice Lake" (ICX) nodes with 80 cores and 256GB DDR4 RAM.
+
+  Another reason you might parallelize your code is to use more memory than is available on a single machine. Parallel processing allows programs to use the massive amounts of memory available on supercomputing clusters.
+* [Scalability](/Scalability)
+
+  How do you optimize the overall performance of a big, computationally intensive code? On an HPC cluster like [Frontera](https://www.tacc.utexas.edu/systems/frontera/) at [TACC](https://www.tacc.utexas.edu/), with 8,570 nodes and nearly half a million cores of various kinds, the most beneficial optimizations are likely to be those that improve a code's *scalability*. Such optimizations allow your code to run on more and more processors. With that goal in mind, we start with grand design principles and strategies, then proceed to a discussion of software interfaces, the network interconnect, and even processor microarchitectures. This content should guide you towards the right level to concentrate your efforts, and give you some ideas about what to do to make your code more efficient.
+
+##### MPI
+
+* [Message Passing Interface (MPI)](/MPI)
+
+  This roadmap will introduce you to the Message Passing Interface (MPI), a specification that is the de facto standard for distributed memory computing. MPI consists of a collection of routines for exchanging data among the processes in a distributed memory parallel program and synchronizing their work.
+
+  We will provide an overview of MPI's functionality and key concepts, and give you a first look at how to use MPI on [Stampede2](https://www.tacc.utexas.edu/systems/stampede2) and [Frontera](https://www.tacc.utexas.edu/systems/frontera). This topic is intended to guide researchers getting started with MPI on high performance computing systems. All exercises and examples are verified to work on [Stampede2](https://www.tacc.utexas.edu/systems/stampede2) and [Frontera](https://www.tacc.utexas.edu/systems/frontera).
+
+  This is the ***first of five*** MPI related roadmaps in the Cornell Virtual Workshop that cover MPI. To see the other roadmaps available, please visit the complete [CVW roadmaps list](/roadmaps).
+* [MPI Point-to-Point](/MPIP2P)
+
+  Point-to-point communication encompasses all the methods MPI offers to transmit a message between a pair of processes. MPI features a broad range of point-to-point communication calls; they differ in subtle ways which can affect the performance of your MPI program. This roadmap details and differentiates the various types of point-to-point communication available in MPI-3.0 and discusses when and how to use each method. We will examine blocking as well as nonblocking communication calls and go through some examples using these methods. All exercises and examples are verified to work on [Stampede2](https://www.tacc.utexas.edu/systems/stampede2) and [Frontera](https://www.tacc.utexas.edu/systems/frontera).
+
+  MPI also provides for transmission of messages among groups of processes, which is called collective communication. Collective communication is the subject of a [different roadmap](/mpicc/intro/index).
+
+  This is the ***second of five*** related roadmaps in the Cornell Virtual Workshop that cover MPI. To see the other roadmaps available, please visit the complete [roadmaps list](/roadmaps).
+* [MPI Collective Communications](/MPIcc)
+
+  Collective communication involves all the processes in a [communicator](/mpi/communicators/).
+  The purpose of collective communication is to manipulate a shared piece or set of information. The collective communication routines were built upon point-to-point communication routines. You could build your own collective communication routines in this way, but it might involve a lot of tedious work and might not be as efficient.
+
+  Although other message-passing libraries provide some collective communication calls, none of them provides a set that is as complete and robust as the one provided by MPI. In this roadmap, we introduce these routines in three categories: synchronization, data movement, and global computation. This roadmap includes one topic about the nonblocking variants collective communication calls introduced in MPI-3. All exercises and examples are verified to work on [Stampede2](https://www.tacc.utexas.edu/systems/stampede2) and [Frontera](https://www.tacc.utexas.edu/systems/frontera).
+
+  This is the ***third of five*** related roadmaps in the Cornell Virtual Workshop that cover MPI. To see the other roadmaps available, please visit the complete [roadmaps list](/roadmaps).
+* [MPI Advanced Topics](/MPIAdvTopics)
+
+  This roadmap discusses some of the more advanced functionality available in MPI-3. It will show you how to:
+
+  + overlay your data with datatypes to speed message passing
+  + arrange your MPI processes into virtual groupings and topologies
+  + use the MPI Tool Information Interface to get and sometimes set control variables and view performance variables
+
+  This roadmap does not cover MPI's Parallel I/O features. Although using parallel I/O requires some additional work up front, the pay-off can be well worth it as it offers a single (unified) file for visualization and pre/post-processing. As this is a large topic in itself, we refer the reader to the [Parallel I/O roadmap](/parallelio).
+
+  All exercises and examples are verified to work on [Stampede2](https://www.tacc.utexas.edu/systems/stampede2) and [Frontera](https://www.tacc.utexas.edu/systems/frontera).
+
+  This is the ***fourth of five*** related roadmaps in the Cornell Virtual Workshop that cover MPI. To see the other roadmaps available, please visit the complete [roadmaps list](/roadmaps).
+* [MPI One-Sided Communication](/MPIoneSided)
+
+  One-sided communication methods were added to MPI as a part of the MPI-2 improvements and were greatly expanded in MPI-3 by including support for shared memory windows, windows with dynamically attached memory, request-based communication calls, and more window locking mechanisms. On Stampede2 and Frontera, the one-sided communication methods implemented in the Intel MPI and MVAPICH2 libraries use the Remote Direct Memory Access (RMA or RDMA) functionality provided by low-latency interconnect fabrics such as Omni-Path and InfiniBand. In this roadmap, we will introduce the various components of MPI RMA and how to use them.
+
+  All exercises and examples are verified to work on [Stampede2](https://www.tacc.utexas.edu/systems/stampede2) and [Frontera](https://www.tacc.utexas.edu/systems/frontera).
+
+  This is the ***fifth of five*** related roadmaps in the Cornell Virtual Workshop that cover MPI. To see the other roadmaps available, please visit the complete [roadmaps list](/roadmaps).
+
+##### Parallel I/O
+
+* [Parallel I/O](/Parallel-IO)
+
+  This roadmap presents basic concepts and techniques that will allow your application to take advantage of parallel I/O to increase throughput and improve scalability. The parallel I/O software stack is introduced from the hardware level on up. Emphasis is placed on the Lustre parallel file system, and on MPI-IO as a fundamental API for enabling parallel I/O. These are the building blocks of typical HPC software stacks, including those available on the HPC systems at [TACC](https://www.tacc.utexas.edu/).
+* [Parallel I/O Libraries](/parallel-io-libraries/)
+
+  Many scientific applications work with structured data, and in many cases such data require pre- and post-processing. I/O libraries exist that not only allow applications to work with portable, self-describing file formats, but also provide tools to process the data. In this roadmap, we introduce parallel I/O libraries and techniques that can be used to increase the throughput and efficiency of I/O bound applications. Efficient parallel I/O becomes extremely important as we scale scientific applications across large numbers of nodes comprised of multiple cores and accelerators.
+
+##### OpenMP
+
+* [OpenMP](/OpenMP/)
+
+  Source: [OpenMP](https://www.openmp.org/)
+
+  OpenMP is an API specification for parallel programming, which is useful for a wide array of applications, including High Performance Computing (HPC). The OpenMP standard allows programmers to develop threaded parallel applications on shared-memory computers. This roadmap will guide you through an introduction to OpenMP, highlighting features from versions 3.0 and earlier, with examples of how to write programs that can effectively use multiple cores on a node for concurrent computation.
+
+  While OpenMP is designed for parallel computation on a single multi-core machine, it can also be *part* of a solution for multi-node parallel computation. In order to use multiple nodes on Frontera, you will also need to learn MPI to communicate between nodes in a distributed system. We also offer several [topics on MPI](https://cvw.cac.cornell.edu/topics#MPI), ranging from beginner to advanced. When OpenMP and MPI are combined, it is called hybrid programming, which can be used to leverage multiple cores on multiple nodes of Frontera. Once you have an understanding of both OpenMP and MPI individually, the [Hybrid Programming with OpenMP and MPI](/hybrid-openmp-mpi) topic may be useful to understand how to combine them.
+* [Hybrid Programming with OpenMP and MPI](/hybrid-openmp-mpi/)
+
+  This roadmap describes how to combine parallel programming techniques from MPI and OpenMP when writing applications for multi-node HPC systems, such as Frontera and Stampede3, and explains the motivation for doing so.

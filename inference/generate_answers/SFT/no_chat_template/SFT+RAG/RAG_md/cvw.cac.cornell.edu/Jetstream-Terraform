@@ -1,0 +1,48 @@
+[Jetstream2](https://jetstream-cloud.org/) is a user-friendly cloud computing environment
+that is designed to provide configurable cyberinfrastucture to researchers.
+To learn more about Jetstream2's features and how to use it,
+visit the topic [Introduction to Jetstream2](/Jetstream).
+Programmatic access to Jetstream2 is available through its various
+Application Programmer Interfaces (APIs), which are described in the advanced topic
+[Using the Jetstream2 APIs](/JetstreamAPI).
+
+This topic describes techniques for deploying cloud components on Jetstream2
+using the "orchestration" system [Terraform](https://www.terraform.io/).
+Orchestration systems automate and simplify the process of deploying
+a desired configuration of instances, networking, etc. to a cloud computing environment.
+This subject matter presumes previous experience with cloud computing on Jetstream2,
+including familiarity with its APIs, and is not meant for inexperienced users.
+
+##### Objectives
+
+After you complete this roadmap, you should be able to:
+
+* Understand the benefits of orchestrating deployments to cloud computing environments.
+* Understand the benefits of using Terraform to perform such deployments.
+* Perform some basic deployments on Jetstream2 using Terraform.
+* Perform some provisioning of deployed Jetstream2 resources through Terraform.
+
+This topic does not attempt to teach:
+
+* How to use Jetstream2 or its Application Programmer Interfaces (APIs).
+* *All* of the functionality available in Terraform.
+* Details for using Terraform to deploy Jetstream2 components for any *specific* application.
+
+##### Prerequisites
+
+* Complete the [Introduction to Jetstream2](/Jetstream) tutorial.
+* Complete the [Using the Jetstream2 APIs](/JetstreamAPI) topic,
+  which introduces terminology and procedures that are
+  also relevant when using tools like Terraform to deploy to Jetstream2.
+
+##### Requirements
+
+To perform the steps outlined in this roadmap you will need:
+
+* An [ACCESS](https://access-ci.org/) User ID, which may be obtained from the
+  [ACCESS User Registration page](https://identity.access-ci.org/new-user).
+* An ACCESS allocation.
+  ACCESS provides [complete information](https://allocations.access-ci.org/) about its allocations,
+  while Jetstream2 provides [an overview](https://docs.jetstream-cloud.org/alloc/overview/)
+  of the types of allocations that are available,
+  with links to detailed information about allocations in the context of Jetstream2.

@@ -1,0 +1,32 @@
+Collective communication involves all the processes in a [communicator](/mpi/communicators/).
+The purpose of collective communication is to manipulate a shared piece or set of information. The collective communication routines were built upon point-to-point communication routines. You could build your own collective communication routines in this way, but it might involve a lot of tedious work and might not be as efficient.
+
+Although other message-passing libraries provide some collective communication calls, none of them provides a set that is as complete and robust as the one provided by MPI. In this roadmap, we introduce these routines in three categories: synchronization, data movement, and global computation. This roadmap includes one topic about the nonblocking variants collective communication calls introduced in MPI-3. All exercises and examples are verified to work on [Stampede2](https://www.tacc.utexas.edu/systems/stampede2) and [Frontera](https://www.tacc.utexas.edu/systems/frontera).
+
+This is the ***third of five*** related roadmaps in the Cornell Virtual Workshop that cover MPI. To see the other roadmaps available, please visit the complete [roadmaps list](/roadmaps).
+
+##### Objectives
+
+After you complete this roadmap, you should be able to:
+
+* Demonstrate using collective communications
+* Distinguish between MPI Point-to-Point and Collective communications
+* List the three subsets of collective communication
+* Define barrier synchronization
+* List and describe the three data movement routines
+* List and describe the two global computation routines
+* Distinguish between blocking and nonblocking collective communications
+* Identify ideal conditions for collective communication
+* Distinguish between scatter and scatterv
+
+##### Prerequisites
+
+* A basic knowledge of parallel programming and MPI. Information on these prerequisites can be found in other topics ([Parallel Programming Concepts and High-Performance Computing](/parallel/intro/index), [MPI Basics](/mpi/intro/index)).
+* Ability to program in a high-level language such as [Fortran](/fintro/intro/index) or [C](/cintro/intro/index).
+
+##### Requirements
+
+System requirements include:
+
+* A TACC account to login to Stampede2 or Frontera
+* A computation [allocation](/environment/allocation/index) for Stampede2 or [Frontera](https://www.tacc.utexas.edu/systems/frontera)

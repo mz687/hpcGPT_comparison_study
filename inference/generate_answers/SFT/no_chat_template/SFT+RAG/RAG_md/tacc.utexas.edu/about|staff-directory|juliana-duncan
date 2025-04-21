@@ -1,0 +1,39 @@
+1. [Home](/)
+2. [About](/about/)
+3. [Staff Directory](/about/staff-directory/)
+4. Juliana Duncan
+
+# Juliana Duncan
+
+## Manager, Scalable Computational IntelligenceResearch Associate
+
+Phone: **512-475-9411** |
+Email: **[jduncan@tacc.utexas.edu](mailto:jduncan@tacc.utexas.edu)**
+
+Dr. Juliana Duncan is a data and computational scientist as well as an experienced instructor. She earned her Ph.D. in computational chemistry from the University of Texas at Austin in August of 2015 where she developed a novel saddle point finding method, applied machine learning techniques to accelerate molecular dynamics simulations, and used computational methods to simulate chemical processes. As an Assistant Professor of Practice at UT Austin, Juliana led and created all curricula for an undergraduate computational science research program and led an undergraduate research group that conducted research on topics such as using high throughput computing to find materials for catalysis, and global optimization methods. Prior to joining TACC in October of 2021, Juliana served as the Lead Data Science Instructor, Principal Data Scientist at Galvanize, Inc. At Galvanize, she led 13 week immersive bootcamps using Python-based curriculum that taught students techniques in statistics, machine learning, and big data.
+
+### Selected Publications
+
+**J. Duncan**, A. Harjunmaa, R. Terrell, R. Drautz, G. Henkelman, and J. Rogal, "Collective Atomic Displacements During Complex Phase Boundary Migration in Solid-Solid Phase Transformations", *Phys. Rev. Lett.* **116**, 035701 (2016). [DOI](https://doi.org/10.1103/PhysRevLett.116.035701)
+
+P. Xiao\*, **J. Duncan**\*, L. Zhang, and G. Henkelman, "Ridge-Based Bias Potentials to Accelerate Molecular Dynamics", *J. Chem. Phys.* **143**, 244104 (2015). [DOI](http://theory.cm.utexas.edu/henkelman/pubs/xiao15_244104.pdf)
+
+**J. Duncan**, Q. Wu, K. Promislow, and G. Henkelman, "Biased gradient squared descent saddle point finding method," *J. Chem. Phys.* **140**, 194102 (2014). [DOI](https://doi.org/10.1063/1.4875477)
+
+K. Barmak, J. Liu, L. Harlan, P. Xiao, **J. Duncan**, and G. Henkelman, "Transformation of Topologically Close-Packed β-W to Body-Centered Cubic α-W: Comparison of Experiments and Computations," *J. Chem. Phys.* **147**, 152709 (2017). [DOI](https://doi.org/10.1063/1.4995261)
+
+### Areas of Research
+
+* Data Science
+* Computational Chemistry
+* Algorithm Development
+
+### Education
+
+**Ph.D., Computational Chemistry**  
+
+University of Texas at Austin
+
+**B.S., Chemistry and Mathematics**  
+
+University of North Carolina Asheville

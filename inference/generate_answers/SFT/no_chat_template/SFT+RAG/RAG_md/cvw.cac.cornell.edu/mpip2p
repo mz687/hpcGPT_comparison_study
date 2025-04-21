@@ -1,0 +1,27 @@
+Point-to-point communication encompasses all the methods MPI offers to transmit a message between a pair of processes. MPI features a broad range of point-to-point communication calls; they differ in subtle ways which can affect the performance of your MPI program. This roadmap details and differentiates the various types of point-to-point communication available in MPI-3.0 and discusses when and how to use each method. We will examine blocking as well as nonblocking communication calls and go through some examples using these methods. All exercises and examples are verified to work on [Stampede2](https://www.tacc.utexas.edu/systems/stampede2) and [Frontera](https://www.tacc.utexas.edu/systems/frontera).
+
+MPI also provides for transmission of messages among groups of processes, which is called collective communication. Collective communication is the subject of a [different roadmap](/mpicc/intro/index).
+
+This is the ***second of five*** related roadmaps in the Cornell Virtual Workshop that cover MPI. To see the other roadmaps available, please visit the complete [roadmaps list](/roadmaps).
+
+##### Objectives
+
+After you complete this roadmap, you should be able to:
+
+* Explain the four MPI communication modes
+* Distinguish between blocking and nonblocking communication
+* Identify deadlock avoidance strategies
+* Explain the wait, test, and probe functions and their objects
+
+##### Prerequisites
+
+* Familiarity with [HPC paradigms](/parallel/intro/index) and [MPI Basics](/mpi/intro/index).
+* Experience programming in a high-level language such as [Fortran](/fintro/intro/index) or [C](/cintro/intro/index) would be helpful, but the reader can still follow along to understand the concepts and methodologies.
+* A basic familiarity with [parallel programming concepts](/parallel/intro/index)
+
+##### Requirements
+
+To use MPI on Stampede2 or Frontera:
+
+* A TACC account to login to Stampede2 or Frontera
+* A computation [allocation](/environment/allocation/index) for Stampede2 or Frontera

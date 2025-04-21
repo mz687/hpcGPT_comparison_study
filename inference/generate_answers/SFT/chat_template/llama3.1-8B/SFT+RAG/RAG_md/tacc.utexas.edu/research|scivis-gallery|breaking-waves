@@ -1,0 +1,44 @@
+1. [Home](/)
+2. [Research](/research/)
+3. [SciVis Gallery](/research/scivis-gallery/)
+4. Breaking Waves
+
+# Breaking Waves
+
+### Science Behind the Image
+
+The simulation of complex free-surface phenomena such as breaking waves, spray sheets, and air entrainment play a key role in the design and operation of naval combatants. As a ship progresses through water, steep breaking waves are formed; spray is shed along the crests of the breaking waves and near the ship's bow where thin sheets of water form. Air is also entrained along the turbulent face of breaking waves and along the contact line where the free surface, which is the interface between the air and water, intersects the hull. These phenomena are among the most challenging problems in computational fluid dynamics today. The image shows the resulting turbulence as water flows past a NACA 0024.
+
+### Visualization Behind the Image
+
+The visualization was created using a Virtual Rheoscopic Fluid plot. The plot uses the fluid velocity data to create and orient virtual rheoscopic particles to obtain an image similar to those used in bench experiments. This technique enables novel vector plots in VisIt on a wide variety of data and the visual comparison of the quality of different technique variations.
+
+### Authors
+
+#### TACC
+
+Paul A. Navrátil  
+
+William L. Barth
+
+---
+
+#### University of Oregon
+
+Hank Childs
+
+---
+
+#### Science Applications International Corporation
+
+Doug G. Dommermuth
+
+### LDAV 2013 Publication
+
+Virtual Rheoscopic Fluids for Dense Large-Scale Fluid Flow Visualizations
+
+### Conferences
+
+IEEE Symposium on Large Data Analysis and Visualization (LDAV) 2012
+
+SC12 Visualization Showcase Feature

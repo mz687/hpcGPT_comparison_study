@@ -1,0 +1,27 @@
+1. [Home](/)
+2. [Research](/research/)
+3. [SciVis Gallery](/research/scivis-gallery/)
+4. Spherically expanding turbulent flames in absence of gravity
+
+# Spherically expanding turbulent flames in absence of gravity
+
+### Science Behind the Image
+
+The image shows instantaneous flame surface at three different times (from left to right) as the flame expands radially outwards. Flame surface is coloured with the net local flame stretch (K, the normalized rate of growth of surface area) . Positive values (orange) indicate locally expanding surface and negative values (blue) indicate surface destruction due to curvature.
+
+### Visualization Behind the Image
+
+Produced using Paraview.
+
+### Authors
+
+#### TACC
+
+Greg Foss
+
+---
+
+#### The University of Texas at Austin
+
+Fabrizio Bisetti  
+Tejas U. Kulkarni

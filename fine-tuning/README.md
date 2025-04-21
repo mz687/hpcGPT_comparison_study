@@ -1,0 +1,1 @@
+The fine-tuning part of this project leverages [DeepSpeed-Chat](https://github.com/deepspeedai/DeepSpeedExamples/blob/master/applications/DeepSpeed-Chat/README.md).

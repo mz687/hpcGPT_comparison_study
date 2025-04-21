@@ -1,0 +1,22 @@
+1. [Home](/)
+2. [News](/news/)
+3. [User Updates](/news/user-updates/)
+4. Frontera Texascale Days - September 2024
+
+# Frontera Texascale Days - September 2024
+
+* by 
+  Mark Brueschke
+* Published 
+  August 30, 2024
+
+Texascale Days allows participating researchers the space and time to compute some of their biggest data and consult with our experts on benchmarking and optimizations. During this event, we reserve Frontera for large scale runs using half of the system (3500 - 4096 nodes) or the full system (7000 - 8192 nodes) for participants.  
+
+This year, the event is being **September 18th, 2024**.  
+**Want to Participate?**To be eligible to participate in Texascale Days September 2024, your large scale workflow must have already **successfully run on at least 2,048 nodes** in the "large" queue on Frontera.  
+For access to the Frontera "large" queue, please [submit a ticket](https://tacc.utexas.edu/portal/tickets) with scaling data.  
+To request to participate, please fill out and submit the application below by **17:00 CDT September 10th.**On **Wednesday, September 18th**, two hour blocks will be available for large-scale benchmarking efforts.  
+
+Beginning **Thursday September 19th,** Frontera will be reserved for Texascale Days production runs. On these days, each project will have dedicated access to the number of nodes requested for a 24 hour period starting at 10:00 CDT.  
+
+Submission form: <https://forms.gle/yvZaJuJfD3owPVRr9>

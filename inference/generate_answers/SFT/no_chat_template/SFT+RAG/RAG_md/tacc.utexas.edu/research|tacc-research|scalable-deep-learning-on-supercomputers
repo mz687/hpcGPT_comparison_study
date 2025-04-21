@@ -1,0 +1,39 @@
+1. [Home](/)
+2. [Research](/research/)
+3. [TACC Research](/research/tacc-research/)
+4. Scalable Deep Learning on Supercomputers
+
+# Scalable Deep Learning on Supercomputers
+
+### Purpose
+
+This project enables deep learning training on supercomputer scale without losing test accuracy.
+
+### Overview
+
+In this project, we investigate supercomputers' capability of speeding up deep neural network (DNN) training. Our approach is to use large batch size, powered by the Layer-wise Adaptive Rate Scaling (LARS) algorithm, to make efficient use of massive computing resources. We investigate the generality of this approach using AlexNet and ResNet-50 using the ImageNet-1K dataset. With batch sizes that are larger than 16K, our approach shows significantly better test accuracy compared to the baseline in previous work. We are able to scale the 100-epoch AlexNet training to 2,048 Intel Xeon Platinum 8160 processors on the Stampede2 supercomputer and reduce training time from hours to 11 minutes. Similarly, we reduce the 90-epoch ResNet-50 training time to 20 minutes using 2,048 Intel Xeon Phi 7250 processors. Our implementation is open source and has been released in the Intel distribution of Caffe v1.0.7.
+
+### Impact
+
+* This research is one of the earliest works that showcases supercomputers' capability of speeding up deep learning training without losing test accuracy.
+* The corresponding paper, "ImageNet Training in Minutes" won the best paper in the 47th International Conference on Parallel Processing [1].
+* The work was featured on NSF News [2] and reported by media [3].
+
+### Contributors
+
+**Zhao Zhang**  
+
+Research Associate
+
+### Related Links
+
+* [Supercomputing speeds up deep learning training](https://www.nsf.gov/news/news_summ.jsp?cntn_id=243741)2
+* [Facebook’s nerds bested by Japan’s in the race to train AI](https://thenextweb.com/artificial-intelligence/2017/11/20/researchers-did-in-15-minutes-what-takes-facebook-an-hour)3
+
+### Publications
+
+You, Yang, Zhao Zhang, Cho-Jui Hsieh, James Demmel, and Kurt Keutzer. "ImageNet training in minutes." In Proceedings of the 47th International Conference on Parallel Processing, p. 1. ACM, 2018.1
+
+### Funding Source
+
+Base funding

@@ -1,0 +1,83 @@
+1. [Home](/)
+2. [News](/news/)
+3. Latest News
+
+*List*
+
+*Grid*
+
+# HETDEX Reveals Galaxy Gold Mine in First Large Survey
+
+## TACC systems support catalog release of over 200,000 new star and galaxy locations
+
+* by[Jorge Salazar](/news/latest-news/author/jorge/)
+
+* Feb. 9, 2023
+
+* [Feature Story](/news/latest-news/category/feature-story/)
+* [Podcast](/news/latest-news/category/podcast/)
+
+share this:
+
+The Hobby-Eberly Telescope Dark Energy Experiment (HETDEX) announced their first publicly released catalog mapping over 200,000 astronomical objects, which include distant stars and galaxies bursting with star formation. HETDEX tiles the sky, collecting spectroscopic data that is used to pinpoint location of a star or galaxy and its distance from Earth. (Top) Sky coverage of the planned HETDEX Fall field (in red) and the footprint of this catalog release (in blue), with stars, Lyman-alpha emitting (lae), [O II]-emitting (oii), and low-z galaxies of non [OII] emission (lzg) color coded. Credit: Erin Mentuch Cooper et al 2023 ApJ 943 177.
+
+Astronomers have barely scratched the surface of mapping the nearly endless stars and galaxies of the heavens. Using supercomputers, researchers with [The University of Texas at Austin](https://www.utexas.edu/) have has now revealed the locations of more than 200,000 new astronomical objects. Their goal is to map even more and use that knowledge to predict the ultimate fate of the universe.
+
+The [Hobby-Eberly Telescope Dark Energy Experiment (HETDEX)](https://hetdex.org/) has scanned the dark skies of the Davis Mountains in West Texas since 2017 with a keen eye towards capturing spectroscopic data on [Lyman-alpha frequency light](https://en.wikipedia.org/wiki/Lyman-alpha_line) from neutral hydrogen emission in galaxies over 10 billion light years away. These galaxies emit a signature wavelength of light from hydrogen that signals to astronomers the intense creation of new stars.
+
+Karl Gebhardt (left) and Erin Mentuch Cooper (right) of the University of Texas at Austin and the HETDEX Collaboration.
+
+The HETDEX collaboration involves a large team including astronomers, engineers, technicians, and graduate students from six academic institutions in the United States and Germany.
+
+For the first time, the researchers have cataloged astronomical objects — mapping over 51,863 [Lyman-alpha-emitting galaxies](https://en.wikipedia.org/wiki/Lyman-alpha_emitter) at high redshift; 123,891 star forming galaxies at lower redshift; 5,274 non-emission line galaxies at low redshift; and 4,976 [active galactic nuclei (AGN)](https://en.wikipedia.org/wiki/Active_galactic_nucleus) — bright spots that signal the presence of black holes.
+
+The [paper](https://iopscience.iop.org/article/10.3847/1538-4357/aca962) describing the catalog is published February 2023 in The Astrophysical Journal.
+
+"We've just exploded in terms of the number of [redshifts](https://en.wikipedia.org/wiki/Redshift) cataloged for the first time," said study co-author [Erin Mentuch Cooper](https://hetdex.org/about-hetdex/meet-the-team/), a research scientist at The University of Texas at Austin (UT Austin). Cooper is the data manager for the HETDEX project.
+
+"There is a gold mine of astronomy exploration in the HETDEX catalog. That's what I love about it," said study co-author [Karl Gebhardt](https://cns.utexas.edu/directory/item/11-astronomy/264-gebhardt-karl?Itemid=349), the Herman and Joan Suit Professor in Astronomy, College of Natural Sciences, UT Austin. Gebhardt is project scientist and principal investigator of HETDEX.
+
+A star's redshift tells astronomers how fast a star is moving away from the Earth because its frequency, akin to its color, gets lower as it moves away, much like the horn of a train as it passes by.
+
+Illustration showing the Hobby-Eberly Telescope and VIRUS spectrograph pairs mounted on either side of the telescope. Credit: McDonald Observatory/HETDEX Collaboration.
+
+The faster a star moves away, the farther away it is. That relationship between speed and distance, called [Hubble's Law](https://en.wikipedia.org/wiki/Hubble%27s_law), can pin down a galaxy's location and allows astronomers to create a 3D map of over 200,000 stars and galaxies with HETDEX.
+
+"This is only a small percentage of what we will find, but it's a good start. Ultimately, HETDEX aims to map one million red-shifted galaxies," Cooper said.
+
+HETDEX is unique from previous large sky surveys because it's a non-targeted survey, blanketing the sky and collecting spectra from the 35,000 fiber optic cables of the Visible Integral Field Replicable Unit Spectrograph (VIRUS).
+
+VIRUS takes starlight from distant galaxies and splits the light into its component colors like a prism does. HETDEX tiles the sky, collecting 35,000 spectra in a moon-sized swath of sky and moving from spot to spot. It collects about 500-600 hours of observations each year for its survey data.
+
+"We have the largest spectroscopic instrument on the planet, and we're doing one of the longest surveys in terms of time," Gebhardt said. "To analyze this data, we need the fastest computer we can get our hands on, and that's where TACC comes in. TACC does all the data storage and all the data analysis for this giant survey."
+
+The data from the telescope goes straight to the TACC Corral data storage system via high speed lines at 100 Gigabits/second.
+
+> There is a gold mine of astronomy exploration in the HETDEX catalog.
+> Karl Gebhardt, University of Texas at Austin.
+
+"TACC has worked hard with us to streamline our system, and it's just working fantastically. We can process years of data in a couple of days, maybe a week of time on TACC systems. And we do it multiple times because we keep adjusting and improving our methods," Gebhardt added.
+
+HETDEX used the [Maverick](//tacc.utexas.edu/systems/maverick2/) and [Stampede2](//tacc.utexas.edu/systems/stampede2/) supercomputers of the Texas Advanced Computing Center, a leading academic supercomputing center at UT Austin. Stampede2 is funded by the National Science Foundation as a shared resource for thousands of scientists across the US. They helped process and analyze about 60 terabytes of image data on TACC's [Corral](//tacc.utexas.edu/systems/corral/) system.
+
+What's more, Cooper and colleagues have worked with TACC to create [JupyterHub](https://jupyter.org/hub) public [access](https://hetdex.org/data-results/) to the data.
+
+"Anyone with any academic credentials can get a TACC account and go on through a web browser to access our data. We're going to let them access all of our data. This is just the catalog right now. But, the future is going to offer a legacy potential of the science from HETDEX. TACC is helping setting that up," Cooper said.
+
+TACC Supercomputers helping scan the skies: Maverick2 (top), Stampede2 (left), Corral (right). Credit: TACC.
+
+One interesting highlight from the catalog is the identification of an active galactic nuclei (AGN) with strong Lyman-alpha light emission. Gebhadt co-authored a [study](https://iopscience.iop.org/article/10.3847/1538-4357/ac9af2) led by UT Austin astronomy post-doctoral researcher Chenxu Liu, published November 2022 in The Astrophysical Journal. It presents intriguing evidence of a black hole without a surrounding host galaxy.
+
+"This is what I call ‘naked black holes,'" Gebhardt said. "Nothing confirmed yet, but we suspect these could be out there. Only a survey like HETDEX will be able to find these."
+
+The science generated from HETDEX adds to the bigger picture of understanding the expansion of the entire universe, unexpectedly growing much faster than expected based on precise observations from the Hubble Space Telescope in 2019 of supernovae that act like a cosmic yardstick.
+
+The Holy Grail for HETDEX is an accurate measure of the Universe expansion rate 10 billion years ago that will reveal the physical model for dark energy.
+
+Astronomers are at odds over how to explain the measure of the current expansion rate. Understanding it could require a modification in the theory of gravity, or a change in the fundamental Big Bang theory. It might be the handiwork of an undiscovered particle.
+
+A precise value of the expansion rate early in the Universe can be compared to the expansion rate today. This comparison can determine if the Universe will continue to expand forever, or will someday collapse on itself many billions of years from now.
+
+"The whole point of the HETDEX project is to measure the expansion of the universe," Gebhardt said.
+
+"This new catalog adds valuable data in finally answering the ‘million galaxy' question, which is something the HETDEX Collaboration is working very hard on in the coming year. But there's a bigger picture here, and that's what we give back to the community, not just to the scientists around the world but the general community. We wouldn't be able to do this work without the supercomputing resources and experts at TACC, through allowing us the computing power to run many analyses of the data and continue to improve the process."

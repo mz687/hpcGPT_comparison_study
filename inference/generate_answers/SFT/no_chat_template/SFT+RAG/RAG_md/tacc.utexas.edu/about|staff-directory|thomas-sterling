@@ -1,0 +1,62 @@
+1. [Home](/)
+2. [About](/about/)
+3. [Staff Directory](/about/staff-directory/)
+4. Thomas Sterling
+
+# Thomas Sterling, Ph.D.
+
+## Director of Future Computing Architectures, Senior Research Scientist Leadership Computing
+
+Email: **[tsterling@tacc.utexas.edu](mailto:tsterling@tacc.utexas.edu)**
+
+Dr. Thomas Sterling is a Senior Research Scientist and Director of the Department of Advanced Future Computing at the Texas Advanced Computing Center at the University of Texas at Austin. For the previous 13 years he was a Full Professor at Indiana University, Bloomington, School of Informatics, Computing, and Engineering. Since receiving his Ph.D from MIT as a Hertz Fellow in 1984, Dr. Sterling has engaged in applied research in parallel computing system structures, semantics, and operation in industry, government labs, and academia. Professional affiliations have included Harris Corp., IDA Supercomputing Research Center, NASA (GSFC, JPL), Un. of Maryland, Caltech, and LSU. Dr. Sterling is best known as the "father of Beowulf" for his pioneering research in commodity/Linux cluster computing for which he shared the Gordon Bell Prize in 1997. His current research is associated with innovative extreme scale computing through memory-centric non von Neumann architecture concepts to accelerate dynamic graph processing for AI including Machine Learning. Dr. Sterling was the recipient of the 2013 Vanguard Award, is a Fellow of the AAAS, and has been inducted in the Space Technologies Hall of Fame. Sterling is the co-author of seven books and holds six patents. Most recently, he co-authored the introductory textbook, “High Performance Computing”, published by Morgan-Kaufmann in 2018 which is going into 2nd edition.
+
+### Selected Publications
+
+Thomas Sterling, Maciej Brodowicz, Danny Kogler, Matthew Anderson, Asymptotic Computing – Undoing the Damage, in *New Frontiers in High Performance Computing and Big Data* from International Research Workshop on Advanced High Performance Computing Systems, July 2016, Cetraro, Italy.
+
+T. Sterling and M. Brodowicz. *A non von Neumann Continuum Computer Architecture for Scalability beyond Moore’s Law*. In CF’16 Proceedings of the ACM International Conference on Computing Frontiers, p.335-338, 2016, DOI:10.1145/2903150.2903486
+
+T. Sterling, M. Brodowicz, D. Kogler, and M. Anderson. *Asymptotic Computing – Undoing the Damage*. In New Frontiers in High Performance Computing and Big Data, IOS Press, vol. 30, p.55-73, 2017, DOI:10.3233/978-1-61499-816-7-55
+
+T. Sterling, M. Anderson, and M. Brodowicz. *A Survey: Runtime Systems for High Performance Computing*. In Supercomputing Frontiers and Innovations, 4(1), p.48-68, 2017, DOI:10.14529/jsfi170103
+
+M. Brodowicz and T. Sterling. Simultac Fonton: *A Fine-Grain Architecture for Extreme Performance beyond Moore’s Law*. In Supercomputing Frontiers and Innovations, 4(2), p.27-37, 2017, DOI:10.14529/jsfi170203
+
+M. Anderson, M. Brodowicz, M. Swany, and T. Sterling. *Accelerating the 3-D FFT Using a Heterogeneous FPGA Architecture*. Euro-Par 10th Workshop on the UnConventional High Performance Computing (UCHPC 2017), p.653-663, 2017, DOI:10.1007/978-3-319-75178-8\_52
+
+### Current Projects
+
+* Pilot-CRIS
+* IARPA
+
+### Areas of Research
+
+* Beowulf Linux commodity clusters
+* ParalleX execution model
+* HPX runtime system software
+* Active Memory Architecture
+
+### Memberships
+
+* IEEE (Senior Member)
+* AAAS (Fellow)
+* ACM
+
+### Education
+
+**Ph.D**  
+
+Massachusetts Institute of Technology
+
+**EE**  
+
+Massachusetts Institute of Technology
+
+**SMEE**  
+
+Massachusetts Institute of Technology
+
+**BSEE**  
+
+Old Dominion University

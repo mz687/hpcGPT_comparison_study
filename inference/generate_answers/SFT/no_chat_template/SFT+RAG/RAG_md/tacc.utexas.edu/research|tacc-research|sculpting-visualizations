@@ -1,0 +1,62 @@
+1. [Home](/)
+2. [Research](/research/)
+3. [TACC Research](/research/tacc-research/)
+4. Sculpting Visualizations
+
+# Sculpting Visualizations: Toward a Practice and Theory of Digital + Physical Scientific Visualization
+
+### Purpose
+
+This project investigates making visual analysis of data more effectively by using time-tested methods of visual artists to investigate, reframe and generally make sense of their world. Imagine if data-intensive computing could be a more innately human and creative process, like sculpting (visual, tangible, active, physical).
+
+### Overview
+
+Finding inspiration in nature, combining disparate objects in new ways, understanding through hands-on experimenting and creating – these are the time-tested methods of visual artists; for centuries these methods have helped us investigate, reframe, and ultimately make sense of our world. In the next ten years, we know that major advances in science will increasingly come from a new "data exploration" paradigm of discovery, but how will humans move from data to actionable insight in this new paradigm? Imagine if data-intensive computing could be a more innately human and creative process, like sculpting (visual, tangible, active, physical).
+
+Interactive exploratory visualization has advanced significantly in recent years, motivated in large part by the high potential impact of a more powerful approach to analyzing these data that aligns with human visual processing. Yet, major challenges remain in:
+
+1. Creating effective visual representations for data – an especially challenging case is determining correct and expressive visual languages to see new relationships between multiple variables in scientific datasets with complex, 3D spatial relationships that change over time.
+2. Exploring data – rather than visualization for explaining known concepts, there is a need to tightly integrate visualization into the scientific discovery process, where the act of generating exciting new hypotheses is often even more valuable than the ability to test known hypotheses.
+3. rnessing visualization to broaden participation in science – in theory, visualization should be a golden ticket to enabling a broad range of creative thinkers (doctors, engineers, artists) to participate in solving the scientific problems of the future; in practice, skilled programmers are often needed to create and refine new visualizations for science, greatly limiting accessibility.
+
+These open challenges are often most pronounced when working with 3D scientific datasets (e.g., brain structure and function, ocean currents and atmospheric changes across the globe). Therefore, we ask, what if the processes of creating and using visualizations were more like the most creative 3D task that humans engage in – rather than programming visualizations, what if we could sculpt them? Likewise, if we could look at, touch, and experience 3D datasets with the same physical acuity that we use to inspect a cast bronze sculpture, then we could understand complex spatial relationships in the wiring of the brain in ways that are even more intuitive than current virtual reality (VR) displays. Finally, if we could visualize and explore data in ways that do not require graduate-level programming skill and instead use rapid iterative experimentation with hands-on interfaces, then science would become radically more accessible to many members of society.
+
+### Impact
+
+We anticipate a number of significant advances:
+
+* User interfaces and algorithms for capturing and incorporating physical media (clay, textural patterns, paint, sketches) into visualization design processes that support rapid ideation and experimentation.
+* An extensible online catalog, classification system, and curriculum for harnessing physical media for creating scientific visualizations, organized to build upon visual taxonomies from cognitive science.
+* A creative fusion of augmented reality (AR) displays with 3D printing to produce a new approach to hybrid physical + digital scientific visualization, including touch-based interaction techniques.
+* An empirical evaluation of the hypothesized benefit of the physical component of these new displays.
+* User interfaces and algorithms that use visualization design tasks as a scaffolding for data exploration, translating artist-inspired processes into effective data exploration tools for scientists.
+* Evaluations with collaborators of the impact these new tools have on real driving problems in understanding current scientific datasets, with a focus on brain imaging and ocean climate modeling.
+
+The new tools and techniques developed will be made available via open source. Results will be disseminated on the project webpage and via scientific publications. Broader impacts will come in part from museum exhibits that draw upon the Co-PIs' dual background in art and science.
+
+### Contributors
+
+**Dan Keefe (PI)**  
+
+University of Minnesota
+
+**Francesca Samsel (Co-PI)**  
+
+Research Scientist, University of Texas at Austin
+
+**Greg Abram**  
+
+Research Scientist, University of Texas at Austin
+
+**Annie Barnes**  
+
+University of Texas at Austin
+
+### Related Links
+
+* [Sculpting Visualizations Website](https://www.sculpting-vis.org/)
+* [UM Interactive Visualization Lab](http://ivlab.cs.umn.edu)
+
+### Funding Source
+
+National Science Foundation, Information Integration and Informatics – Cyber-Human Systems

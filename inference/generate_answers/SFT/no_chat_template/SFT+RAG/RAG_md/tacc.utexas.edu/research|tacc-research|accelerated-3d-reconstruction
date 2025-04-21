@@ -1,0 +1,36 @@
+1. [Home](/)
+2. [Research](/research/)
+3. [TACC Research](/research/tacc-research/)
+4. Accelerated 3D Reconstruction and Visualization of Compressible Flow
+
+# Accelerated 3D Reconstruction and Visualization of Compressible Flow
+
+### Purpose
+
+This project aims to create efficient shadowgraph and Schlieren visualizations of simulated airflow leveraging commodity hardware and open-source rendering platforms.
+
+### Overview
+
+Analysts in numerous capacities require techniques to visualize complex flow features around objects in wind tunnel testing. Schlieren imaging and similar techniques provide an effective means to visualize these features. Unfortunately, these techniques typically provide only a single two-dimensional (2D) view of the flow and therefore fail to reveal important three-dimensional (3D) features that could affect testing procedures. Methods for 3D reconstruction and visualization of flow structure thus become necessary. Moreover, any such method must be able to acquire, process, and visualize wind tunnel test procedures fast enough for insights derived from visual analysis to positively impact testing decisions in real time.
+
+While 3D reconstruction using Schlieren imaging is a demonstrated technology, the key requirement for this effort is to perform acquisition, reconstruction, and visualization sufficiently fast to support analysis during wind tunnel testing—that is, to support analysis at near-real-time rates. This requirement for high performance dictates code optimization at every level. We are thus leveraging modern massively parallel computing architectures to implement an affordable and scalable system for 3D capture of compressible flow structure using consumer-level components and state-of-the-art techniques in tomographic reconstruction and interactive visualization.
+
+### Contributors
+
+**Paul Navratil**  
+
+Director of Visualization
+
+### Related Links
+
+* [PI – SURVICE Technical POC – Dr. Christiaan Gribble](http://www.survice.com/employees-cgribble)
+
+### Publications
+
+Physically-Based Interactive Schlieren Flow Visualization. C. Brownlee, V. Pegoraro, S. Shankar, P. McCormick, C. Hansen. IEEE Transactions on Visualization and Computer Graphics. 17:11, November 2011. [doi.org/10.1109/TVCG.2010.255](https://doi.org/10.1109/TVCG.2010.255)
+
+### Funding Source
+
+[US Air Force SBIR Topic AF151-182, Prime award FA9101-17-C-0028 awarded to SURVICE Engineering](http://www.survice.com). Subcontract to TACC.
+
+[Original Call](https://www.nsf.gov/pubs/2015/nsf15531/nsf15531.htm )

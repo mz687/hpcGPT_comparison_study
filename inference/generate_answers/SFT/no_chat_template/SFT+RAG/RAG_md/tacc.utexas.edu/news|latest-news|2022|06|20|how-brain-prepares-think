@@ -1,0 +1,67 @@
+1. [Home](/)
+2. [News](/news/)
+3. Latest News
+
+*List*
+
+*Grid*
+
+# How the Brain Prepares to Think
+
+## UT Southwestern researcher's decades-long quest to understand synaptic transmission gets help from fastest U.S. academic supercomputer
+
+* by[Aaron Dubrow](/news/latest-news/author/adubrow/)
+
+* June 20, 2022
+
+* [Feature Story](/news/latest-news/category/feature-story/)
+
+* [Frontera](/news/latest-news/tag/frontera/)
+
+share this:
+
+Configuration of the primed synaptotagmin-SNARE-complexin complex suggested by molecular dynamics simulations. Credit: Rizo-Rey, UT Southwestern Medical Center
+
+Let's think for a second about thought – specifically, the physics of neurons in the brain.
+
+This topic has been the lifelong interest of [Jose Rizo-Rey](https://profiles.utsouthwestern.edu/profile/16107/jose-rizo-rey.html), professor of Biophysics at the University of Texas Southwestern Medical Center.
+
+Our brains have billions of nerve cells or neurons, and each neuron has thousands of connections to other neurons. The calibrated interactions of these neurons is what thoughts are made of, whether the explicit kind – a distant memory surfacing – or the taken-for-granted kind — our peripheral awareness of our surroundings as we move through the world.
+
+Initial configuration of the molecular dynamics simulations designed to investigate the nature of the primed state of synaptic vesicles. Credit: Rizo-Rey, UT Southwestern Medical Center
+
+"The brain is an amazing network of communications," said Rizo-Rey. "When a cell gets excited by electrical signals, very fast synaptic vesicle fusion occurs. The neurotransmitters come out of the cell and bind to receptors on the synaptic side. That's the signal and this process is very fast."
+
+How exactly these signals can occur so fast — less than 60 microseconds or millionths of a second — is the focus of intense study. So is the dysregulation of this process in neurons, which causes a host of neurological conditions, from Alzheimer's to Parkinson's disease.
+
+Decades of research has led to a thorough understanding of the main protein players and the broad strokes of membrane fusion for synaptic transmission. [Bernard Katz](https://www.nobelprize.org/prizes/medicine/1970/katz/facts/) was awarded the 1970 Nobel Prize in Medicine in part for demonstrating that chemical synaptic transmission consists of a neurotransmitter-filled synaptic vesicle fusing with the plasma membrane at nerve endings and releasing its content into the opposing postsynaptic cell. And Rizo-Rey's longtime collaborator, [Thomas Südhof](https://www.nobelprize.org/prizes/medicine/2013/sudhof/facts/), won the Nobel Prize in Medicine in 2013 for his studies of the machinery that mediates neurotransmitter release (many with Rizo-Rey as a co-author).
+
+But Rizo-Rey says his goal is to understand the specific physics of how the activation process of thought occurs in much more detail. "If I can understand that, winning the Nobel Prize would just be a small reward," he said.
+
+Recently, using the [Frontera supercomputer](//tacc.utexas.edu/systems/frontera/) at the Texas Advanced Computing Center (TACC), one of the most powerful systems in the world, Rizo-Rey has been exploring this process, creating a multi-million atom model of the proteins, the membranes, and their environment, and setting them in motion virtually to see what happens, a process known as molecular dynamics.
+
+Jose Rizo-Rey, professor of Biophysics at the University of Texas Southwestern Medical Center.
+
+Writing in [*eLife*](https://elifesciences.org/articles/76356) in June 2022, Rizo-Rey and collaborators presented all-atom molecular dynamics simulations of synaptic vesicle fusion, providing a glimpse at the primed state. The research shows a system where several specialized proteins are "spring-loaded," awaiting only the delivery of calcium ions to trigger fusion.
+
+"It's ready to release, but it doesn't," he explained. "Why doesn't it? It's waiting for the calcium signal. Neurotransmission is about controlling fusion. You want to have the system ready to fuse, so when calcium comes in, it can happen very fast, but it's not fusing yet."
+
+The research is funded by the Welch Foundation and the National Institutes of Health, who selected Rizo-Rey among the first 30 neuroscientists to receive the [R35 Research Program Award (RPA)](https://www.ninds.nih.gov/funding/about-funding/research-program-award-r35/research-program-award-r35-recipients/jose-rizo-rey), a pilot program designed to encourage creative research by enhancing funding stability.
+
+The study represents a return to computational approaches for Rizo-Rey, who recalls using the original Cray supercomputer at the University of Texas at Austin in the early 1990s. He went on to use primarily experimental methods like nuclear magnetic resonance spectroscopy over the past three decades to study the biophysics of the brain.
+
+"Supercomputers weren't powerful enough to resolve this problem of how transmission was occurring in the brain. So for a long time, I used other methods," he said. "However, with Frontera, I can model 6 million atoms and really get a picture of what's going on with this system."
+
+Rizo-Rey's simulations only cover the first few microseconds of the fusion process, but his hypothesis is that the act of fusion should happen in that time. "If I see how it's starting, the lipids starting to mix, then I'll ask for 5 million hours [the maximum time available] on Frontera," he said, to capture the snap of the spring-loaded proteins and the step-by-step process by which the fusion and transmission happens.
+
+Rizo-Rey says the sheer amount of computation that can be harnessed today is unbelievable. "We have a supercomputer system here at the University of Texas Southwestern Medical Center. I can use up to 16 nodes," he said. "What I did on Frontera, instead of a few months, would have taken 10 years."
+
+Investing in basic research — and in the computing systems that support this type of research — is fundamental to the health and well-being of our nation, Rizo-Rey says.
+
+"This country was very successful because of basic research. Translation is important, but if you don't have the basic science, you have nothing to translate."
+
+---
+
+Josep Rizo, Levent Sari, Yife Qi, Wonpil Im, Milo M Lin (2022) **All-atom molecular dynamics simulations of Synaptotagmin-SNARE-complexin complexes bridging a vesicle and a flat lipid bilayer** 11:e76356
+
+<https://doi.org/10.7554/eLife.76356>

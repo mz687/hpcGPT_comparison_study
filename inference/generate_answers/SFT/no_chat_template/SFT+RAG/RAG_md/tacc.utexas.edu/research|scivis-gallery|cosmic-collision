@@ -1,0 +1,32 @@
+1. [Home](/)
+2. [Research](/research/)
+3. [SciVis Gallery](/research/scivis-gallery/)
+4. Cosmic Collision
+
+# Cosmic Collision
+
+### Science Behind the Image
+
+Visualization of a two black holes colliding, and the resulting generated gravitational waves using GR-Chombo simulation for the February 2015 announced event detection by the LIGO experiment.
+
+### Visualization Behind the Image
+
+Created using ParaView with OSPRay.
+
+### Authors
+
+#### TACC
+
+Carson Brownlee
+
+---
+
+Pau Figueras  
+
+Markus Kunesch  
+
+Saran Tunyasuvunakool  
+
+Juha Jäykkä  
+
+Stephen Hawking Centre for Theoretical Cosmology

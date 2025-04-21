@@ -1,0 +1,52 @@
+1. [Home](/)
+2. [News](/news/)
+3. Latest News
+
+*List*
+
+*Grid*
+
+# TACC Receives NIH Award to Develop Cloud Workspace Implementation Center
+
+## New workspace to make data management sustainable for life sciences data analysis
+
+* by[Faith Singer](/news/latest-news/author/faith/)
+
+* Nov. 25, 2024
+
+* [Press Release](/news/latest-news/category/press-release/)
+
+share this:
+
+The Texas Advanced Computing Center (TACC) received an award from the National Institutes of Health (NIH) through the [Common Fund Data Ecosystem](https://commonfund.nih.gov/dataecosystem/) (CFDE) to develop the CFDE Cloud Workspace Implementation Center (CWIC). The project was awarded for five years under NIH Award #OT2OD037936.
+
+The comprehensive platform will provide researchers with a space to import and integrate their own data and data from CFDE sources; provide an extensive and extensible catalog of apps, workflows, and interactive environments to perform analysis using the software of their choice; and build upon a comprehensive set of compute resources from commercial and academic cloud providers.
+
+"We are grateful for the opportunity to serve the NIH research community and excited to build a comprehensive cloud workspace with our partners from Penn State University, Johns Hopkins University, and the University of California San Diego," said John Fonner, principal investigator, and director of Special Projects at TACC. "Building upon the Galaxy platform, the CloudBank project, and the powerful computing and data storage resources at TACC, the CFDE Cloud Workspace will be an accessible resource for researchers of all experience levels performing a wide range of life sciences data analysis at any scale.”
+
+John Fonner, Principal Investigator and Director of Special Projects at the Texas Advanced Computing Center
+
+The cloud workspace will offer researchers an intuitive starting point to manage and integrate datasets; draw from a large, established catalog of bioinformatics tools; build, share, and search for workflows that align with their datasets; and support collaboration with trusted colleagues.
+
+In addition to providing an accessible web interface, the workspace sets itself apart by providing users with multiple access options across the underlying infrastructure, including direct access to Jupyter, VS Code, Linux command line, and other interfaces.
+
+The core software layer will be built upon the ubiquitous Galaxy Project, an open-source platform for bioinformatics and omics research. Complementing this platform, the CFDE Cloud Workspace will be a multi-cloud platform built on top of the large-scale computing infrastructure at TACC and the commercial cloud through integration with CloudBank. New users will use the portal interface to access account creation, documentation, and the Galaxy web interface will be used for managing data and performing analyses.
+
+“The CFDE Cloud Workspace will integrate a broad array of well-known multi omic tools, workflows, and computing architecture with our other CFDE components to bring together Common Fund and user data to serve a wide variety of investigators from novice to expert," said George Papanicolaou, NIH CFDE Program Leader. "The Cloud Workspace will contribute to making NIH Common Fund-generated data and resources more Findable, Accessible, Interoperable, and Reusable (FAIR), and to catalyze novel biomedical discoveries that would not be possible without integration across the Common Fund's rich datasets."
+
+**This CFDE Cloud Workspace has several advantages:** 
+
+* Open source widely adopted Galaxy platform interface and capabilities are already familiar to most life sciences research communities.
+* The platform can leverage all major cloud providers and academic compute resources, giving unparalleled cost control and flexibility over time.
+* Community adoption and contribution to Galaxy tools and workflows mean the analytical capability will be expansive on day one with proven extensibility as new tools arise.
+* The open source nature of the platform and compatibility across cloud resources assures sustainability beyond the duration of the project.
+* The platform will provide long-term infrastructure stability and  
+
+  empower research innovation.
+* The initial tier is at no cost to the researcher.
+
+“Researchers will be empowered to use the resources and interfaces that best facilitate their work,” Fonner said. “The CFDE Cloud Workspace will have dozens of rich datasets and studies at scale behind it, significant training effort and documentation, and very mature tools.”
+
+These features will be backed by TACC’s academic cloud and HPC resources, and CloudBank’s integration with third-party clouds.
+
+Learn more about these awards and other CFDE initiatives on the NIH CFDE [Funded Research](https://commonfund.nih.gov/dataecosystem/FundedResearch) page.

@@ -1,0 +1,82 @@
+1. [Home](/)
+2. [News](/news/)
+3. Latest News
+
+*List*
+
+*Grid*
+
+# AI Modeling Delivers More Benefits, Less Risk for Water Partnerships
+
+## TACC Stampede2 supercomputer used to aid complex water problems, address water scarcity
+
+* by[Jorge Salazar](/news/latest-news/author/jorge/)
+
+* Sept. 24, 2024
+
+* [Feature Story](/news/latest-news/category/feature-story/)
+
+share this:
+
+Cooperative partnerships seeking to spread the cost burden of water infrastructure projects among regional stakeholders often end up forcing local partners to bear the brunt of underlying supply and financial risks, according to a Cornell-led study that used AI modeling and supercomputers in the risk simulations. Farmland and aqueduct pictured in San Joaquin Valley, California. (iStock)
+
+A Cornell-led research collaboration found that cooperative partnerships seeking to spread the cost burden of water infrastructure projects among regional stakeholders often end up forcing local partners to bear the brunt of underlying supply and financial risks.
+
+That imbalance is caused by a range of factors from institutional complexity to hydroclimatic variability. However, the researchers demonstrated that AI-driven computing and modeling algorithms can help design partnerships with substantially higher water supply benefits and a fraction of the financial risk.
+
+To explore the tradeoffs inherent in these water infrastructure partnerships, the researchers, led by Patrick Reed, the Joseph C. Ford Professor of Engineering, used the Friant-Kern Canal in California’s San Joaquin Valley as a case study.
+
+The team’s [paper](https://www.nature.com/articles/s41467-024-51660-8), “Resilient Water Infrastructure Partnerships in Institutionally Complex Systems Face Challenging Supply and Financial Risk Tradeoffs,” published August 27 in Nature Communications. The lead author is Andrew Hamilton, a former postdoctoral researcher in Reed’s lab.
+
+Parallel coordinate plot showing the performance of different infrastructure partnerships relative to four decision-relevant objectives (vertical axes). Each colored line represents one of the 374 optimal tradeoff partnerships. Each objective is oriented such that the preferred direction is up (e.g., maximum water gain, minimum cost). Ideal performance would be a horizontal line across the top, while diagonal segments represent tradeoffs between conflicting objectives. Credit: DOI: 10.1038/s41467-024-51660-8
+
+“This isn’t only a California story,” Reed said. “We have thousands of municipal water supply systems in the United States that are all confronting some level of uncertainty and financial risk, and we have a tremendous amount of our infrastructure that is aging out, in addition to confronting conditions it wasn’t necessarily designed for. It’s a big problem. Our work is a step in the direction of highlighting some key concerns, but there’s a tremendous amount more broadly that could and should be done, especially given that most of the financial risk is going to be local.”
+
+The combined effects of climate change, economic growth, and regulatory changes have led to growing concerns related to water shortages in California and throughout the U.S., increasing the need for investments in new infrastructure, such as major canals and groundwater banking facilities.
+
+One popular approach for financing large-scale infrastructure projects has been collaborative partnerships—also called consolidation or regionalization—in which multiple water providers and users work together to finance, build, and operate shared facilities.
+
+Patrick Michael Reed (L) and Andrew Hamilton (R), Department of Civil and Environmental Engineering, Cornell University.
+
+“When you have potentially tens of independent regional entities managing water, the argument is, it makes sense in terms of efficiency and cost effectiveness to bring them together in cooperative partnerships, or to regionalize these distributed systems into a coordinated system, or to consolidate the planning and investment,” Hamilton said.
+
+But given the complexity of so many interconnected systems, and the aggregated way the benefits are tallied, vulnerabilities for individual partners can be difficult to assess.
+
+To better understand the conflicting objectives and the tradeoffs, Reed, Hamilton and their co-authors looked to California’s San Joaquin Valley region, which contains more than four million people and five million acres of irrigated farmland.
+
+The San Joaquin Valley region and California overall face very complex water risks that emerge from the combination of natural extremes such as floods or droughts, interconnected infrastructure, and complex water management institutions pertaining to water rights, regulatory requirements, and more.
+
+The researchers reported that the hardest part of capturing risk was characterizing the immense variability of plausible extreme wet and dry conditions that strongly tied complex phenomena like atmospheric rivers.
+
+"To capture a sufficient representation of candidate risks, we explored more than 2,000 scenario years statistically and simulated them using the CALFEWS model at the daily scale (>700,000 operational days)," Reed said. "Even more demanding, we looked at 2,000 years of scenarios for 300,000 different system designs. Supercomputing is critical for us to be able to feasibly explore these use scenario and design spaces tractably."
+
+> “When used correctly, supercomputers and AI pose a potential collaborative tool that can dramatically accelerate our insights for very complex water problems."
+> Patrick Reed, Cornell University.
+
+The National Science Foundation-funded Advanced Cyberinfrastructure Coordination Ecosystem: Services & Support ([ACCESS](https://access-ci.org/)) awarded Reed allocations on the [Stampede2](//tacc.utexas.edu/systems/stampede2/) supercomputer at the Texas Advanced Computing Center.
+
+Stampede2 was used in their hierarchical parallelization simulations to balance distributed partnership designs from the self-adaptive massively parallel search tool called the [Borg Multiobjective Evolutionary Algorithm](http://borgmoea.org/) (MOEA) to nodes where they then underwent massively parallel scenario evaluations for their multi-objective performance. The Borg MOEA algorithm suggests new designs as it gets feedback from successive generations exploring candidate partnership designs.
+
+The researchers used AI-driven computing and modeling, or “multi-objective intelligent search,” to represent the system dynamics in 300,000 different candidate partnerships across more than 2,000 different scenario years with a variety of plausible climatic conditions. The effort required a tremendous amount of data collection and development of the computational tools needed to get an accurate picture of the variables in play.
+
+The team’s modeling showed that the cumulative estimates for cooperative partnership benefits can hide substantial inequalities and negative impacts for those partnering water providers that already have thin financial margins.
+
+The NSF-funded Stampede2 supercomputer at TACC was made available to water researchers through allocations awarded by the NSF-funded Advanced Cyberinfrastructure Coordination Ecosystem: Services & Support (ACCESS).
+
+Reed added that supercomputers and AI do not replace the need for care in how to formulate, explore, and communicate solutions with the communities impacted. “There is a need to always be conscientious about potential biases, unintended consequences, and the generality of candidate results,” he said. “When used correctly, superconputers and AI pose a potential collaborative tool that can dramatically accelerate our insights for very complex water problems."
+
+When it came to the most beneficial types of infrastructure projects, the researchers found that most partnerships can diversify their risks by investing in portfolios of both canal expansion and groundwater banking, rather than relying on only one strategy to address water scarcity.
+
+The researchers also found that, compared to the current Friant-Kern Canal partnership, their algorithm could help identify “Goldilocks” configurations that would provide significantly more water at a lower level of financial risk for all participants.  
+
+The researchers are sharing the algorithm freely in the hope that water infrastructure partnerships can better understand, and more effectively and equitably fund, their own projects.
+
+“The new intelligent search tools and simulation frameworks have the ability to test many different alternatives in many different scenarios and make the tradeoffs more explicit,” Reed said.
+
+“We don’t want to come off as saying that we know more about the system than the people who are operating it,” Hamilton said. “The point of this is saying that the system is complex, and maybe we should take a step back and think about better ways to avoid unintended consequences when we’re making really large, and in many cases irreversible, investments.”
+
+Adapted from a [press release](https://news.cornell.edu/stories/2024/08/ai-modeling-delivers-more-benefits-less-risk-water-partnerships) by David Nutt, Cornell Chronicle.
+
+---
+
+*The research was partially supported by the National Science Foundation (NSF), along with the Advanced Cyberinfrastructure Coordination Ecosystem Services and Support Program, and the Extreme Science and Engineering Discovery Environment Program, both of which are supported by the NSF. Additional support was provided by the U.S. Department of Energy's Office of Science, as part of research in the MultiSector Dynamics, Earth and Environmental Systems Modeling Program.*

@@ -1,0 +1,54 @@
+1. [Home](/)
+2. [About](/about/)
+3. [Staff Directory](/about/staff-directory/)
+4. Albert Lu
+
+# Chun-Yaung (Albert) Lu
+
+## Research Associate HPC Applications
+
+Email: **[alu@tacc.utexas.edu](mailto:alu@tacc.utexas.edu)**
+
+Albert joined TACC in Spring 2018 as a Research Associate in the HPC Application group.
+
+Albert's current research interest has focused on the development of new tools for resource monitoring on HPC systems and the creation of graphical user interfaces/platforms for data collection, management, and visualization. Additionally, he is actively involved in writing software packages that utilize the moving boundary truncated grid method to model dynamical systems.
+
+Albert obtained his Ph.D. in Chemistry from the University of Texas at Austin, where his research was centered on developing novel methodologies to extend the timescales of molecular dynamics simulations. Following his graduation, he served as a postdoctoral researcher in the Theoretical Division at the Los Alamos National Laboratory (2011-2014) and later at the Department of Energy Resources Engineering at Stanford University (2014-2016). Before joining TACC, he worked as a computational materials scientist at Brewer Science Inc.
+
+### Selected Publications
+
+Chun-Yaung Lu and Kent Milfeld, REMORA Resource Monitor: Usability, Performance and User Interface Improvements, Proceedings of the SC '23 Workshops of The International Conference on High Performance Computing, Network, Storage, and Analysis, p.663–672, (2023).
+
+Yinzhi Wang, John D McCalpin, Junjie Li, Matthew Cawood, John Cazes, Hanning Chen, Lars Koesterke, Hang Liu, Chun-Yaung Lu, Robert McLay, Kent Milfield, Amit Ruhela, Dave Semeraro, Wenyang Zhang Application performance analysis: A report on the impact of memory bandwidth, International Conference on High Performance Computing, p.339-352 (2023)
+
+Chun-Yaung Lu, Tsung-Yen Lee, and Chia-Chun Chou, Moving boundary truncated grid method for electronic nonadiabatic dynamics, The Journal of Chemical Physics, 156, 044107 (2022).
+
+Lei Huang, Yinzhi Wang, Chun-Yaung Lu, and Si Liu, Best practice of IO workload management in containerized environments on supercomputers, PEARC '21: Practice and Experience in Advanced Research Computing, Article No: 13, p.1–7 (2021)
+
+Tsung-Yen Lee, Chun-Yaung Lu, and Chia-Chun Chou, Moving Boundary Truncated Grid Method: Application to the Time Evolution of Distribution Functions in Phase Space, Journal of Physical Chemistry A, 125, 1, p.476–491 (2021)
+
+Chun-Yaung Lu, Tsung-Yen Lee, and Chia-Chun Chou, Moving boundary truncated grid method: Multidimensional quantum dynamics, International Journal of Quantum Chemistry, 120, 1, e26055 (2020)
+
+Chun-Yaung Lu; Danny Perez, and Arthur F. Voter, Accelerating ring-polymer molecular dynamics with parallel-replica dynamics, The Journal of Chemical Physics, 144, 244109 (2016)
+
+Chun-Yaung Lu, Arthur F. Voter, and Danny Perez, Extending atomistic simulation timescale in solid/liquid systems: Crystal growth from solution by a parallel-replica dynamics and continuum hybrid method, The Journal of Chemical Physics, 140, 044116 (2014)
+
+### Current Projects
+
+* Remora, RemoraPy, and RP-Stats
+
+### Areas of Research
+
+* High Performance Computing
+* Computational and Theoretical Chemistry
+* Atomistic simulation and method development
+
+### Education
+
+**Ph.D., Chemistry**  
+
+The University of Texas at Austin
+
+**B.S. Chemistry**  
+
+National Taiwan University

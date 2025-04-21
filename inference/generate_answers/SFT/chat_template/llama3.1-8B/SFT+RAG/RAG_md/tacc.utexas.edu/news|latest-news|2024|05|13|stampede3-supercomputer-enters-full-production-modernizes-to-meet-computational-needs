@@ -1,0 +1,64 @@
+1. [Home](/)
+2. [News](/news/)
+3. Latest News
+
+*List*
+
+*Grid*
+
+# Stampede3 Supercomputer Enters Full Production, Modernizes To Meet Computational Needs
+
+## NSF-funded system enables science and engineering research and education for thousands of projects and users nationwide
+
+* by[Faith Singer](/news/latest-news/author/faith/)
+
+* May 13, 2024
+
+* [Press Release](/news/latest-news/category/press-release/)
+
+share this:
+
+A powerful new supercomputer that will enable dynamic open science research projects in the U.S. is in full production at the Texas Advanced Computing Center (TACC) at The University of Texas at Austin.
+
+For more than a decade, the Stampede systems — Stampede (2012), Stampede2 (2017), and now Stampede3 (2024) — have been flagships in the U.S. National Science Foundation’s scientific supercomputing ecosystem, now called [ACCESS](https://access-ci.org/).
+
+Tommy Minyard, Director of Advanced Computing Systems and Principal Investigator of the Stampede3 project, TACC
+
+Made possible by a $10 million NSF [award](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2320757&HistoricalAwards=false), Stampede3 will enable computational and data-driven science and engineering research and education with a modern foundation and new capabilities for thousands of projects and users nationwide.
+
+“During our pre-production period, users experienced capabilities such as an increase in speed-up for scientific applications due to better memory bandwidth per core provided by the Intel Xeon CPU Max processors,” said Tommy Minyard, TACC’s director of Advanced Computing Systems and principal investigator of the Stampede3 project. “And for the first time, we are using a storage system with no spinning disk — we are expecting a significant improvement for users in their I/O performance and reliability.”
+
+TACC continues its strategic collaboration with Dell Technologies and Intel on Stampede3, a nearly 10 petaflop system offering tremendous capability for diverse scientific applications. Stampede3 offers substantial new computing capability, while also re-purposing hardware from previous NSF investments to support high throughput users.
+
+“Stampede3 brings a significant increase in computational and data capabilities to the science and engineering research community,” said Katie Antypas, office director for the NSF’s Office of Advanced Cyberinfrastructure. “The new high-bandwidth memory node architecture as well as the all-flash filesystem will accelerate a wide range of applications, and I expect it will be in high demand by the user community.”
+
+More than 450 distinct users ran a half million jobs during the pre-production period. The system will enable researchers nationwide to investigate questions that require advanced computing power ranging from data analysis in biology to supersonic turbulence flows to atomistic simulations on a wide range of materials.
+
+> Stampede3 brings a significant increase in computational and data capabilities to the science and engineering research community. The new high-bandwidth memory node architecture as well as the all-flash filesystem will accelerate a wide range of applications, and I expect it will be in high demand by the user community.
+> Katie Antypas, Office Director for the NSF Office of Advanced Cyberinfrastructure
+
+### **A few of the early users and projects include:**
+
+* Biology: The Galaxy project provides a unique, freely available, high performance data analysis environment serving the full range of questions related to biology as well as other disciplines. The allocation on Stampede3 aims at significantly improving the capability of Galaxy to allow for the full range of data analysis scenarios currently present in modern biology.
+* Fluid dynamics, Diego Donzis, Texas A&M University: Understanding turbulent flows at both low and high speeds by performing incompressible and compressible simulations at massive scales with unbounded and wall-bounded flows. The allocation on Stampde3 will support the development of a new numerical approach to accurately solve turbulence at a lower computational cost.
+* Industrial chemistry and materials science, Qi Liang, University of Michigan: The allocation on Stampede3 will support the development of a kinetic Monte Carlo simulation method to study the long-time evaluation of solute atoms into solute clusters based on surrogate models. These studies provide the means to predict complex defect-solute interactions accurately.
+
+TACC also added an experimental Intel GPU hardware subsystem for artificial intelligence and machine learning, further advancing the [University’s Year of AI initiative](http://yearofai.utexas.edu/) and highlighting the AI data processing capabilities available only at UT.
+
+### **Stampede3 delivers:**
+
+* A new four petaflop capability for high-end simulation: 560 new Intel Xeon CPU Max Series processors with high bandwidth memory-enabled Dell PowerEdge C6620 servers, adding nearly 63,000 cores for the largest, most performance-intensive compute jobs.
+* A new graphics processing unit/AI subsystem including 20 Dell PowerEdge XE9640 servers adding 80 new Intel® Data Center GPU Max 1550s for AI/ML and other GPU-enabled applications.
+* Reintegration of 224 3rd Gen Intel Xeon Scalable processor nodes for higher memory applications (added to Stampede2 in 2021).
+* Legacy hardware to support throughput computing — more than 1,200 existing Stampede2 2nd Gen Intel Xeon Scalable processor nodes will be incorporated into the new system to support high-throughput computing, interactive workloads, and other smaller workloads.
+* VAST Data – 10PB usable all flash storage system capable of 50GB/s write, 500GB/s read bandwidth.
+* The new Cornelis Networks CN5000 Omni-Path™ highly scalable 400Gb/s network interconnect to enable low latency, excellent scalability for applications, and high connectivity to the I/O subsystem (to be deployed later in 2024).
+* 2,044 compute nodes with almost 200,000 cores, more than 350 terabytes of RAM, 10 petabytes of new storage, and almost 10 petaflops of peak capability.
+
+“The integration of Intel technologies, from CPUs to GPUs, within TACCs Stampede3 system will transform the capabilities available to engineers, researchers, and scientists as they harness this system for HPC and AI tasks to uncover new realms of science and research,” said Ogi Brkic, vice president and general manager, Data Center AI Solutions BU Category Lead. “Our solutions will speed up the analysis of current and future data within the targeted focus areas by leveraging widely adopted AI frameworks and libraries seamlessly, without the need for code changes on the CPU.”
+
+“Stampede3 continues TACC’s reputation for pushing the boundaries of innovation,” said Travis Vigil, senior vice president, ISG Product Management, Dell Technologies. “Powered by Dell PowerEdge servers, Stampede3 will be able to use accelerated computer power from the direct liquid cooling server rack to leverage AI and ML in new ways.”
+
+The Stampede3 project also includes first-class operations, user support and training, education, outreach, documentation, data management, visualization, analytics-driven application support, and research collaboration.
+
+Stampede3 will serve the open science community from 2024 through 2029.

@@ -1,0 +1,32 @@
+1. [Home](/)
+2. [Research](/research/)
+3. [TACC Research](/research/tacc-research/)
+4. Showq/Showres/qlimits
+
+# Showq/Showres/qlimits
+
+### Purpose
+
+The main purpose of this project is to provide convenient tools for HPC users and administrators with easy-to-use SLURM interface or commands.
+
+### Overview
+
+"showq" is not a native SLURM command, but an SGE one. For users who are familiar with SGE, we created this advanced version of "showq" for SLURM users to monitor job and system status.
+
+"showres" is a single-line command to display user and system reservation status for TACC systems. It is heavily used with the TACC Wrangler system.
+
+"qlimits" is a single-line command to display real-time information regarding user and system limit on available queues.
+
+### Impact
+
+Showq is provided on all TACC systems for all users and system administrators.
+
+### Contributors
+
+**Si Liu**  
+
+Research Associate, High Performance Computing
+
+### Related Links
+
+* [slurm\_showq GitHub](https://github.com/siliu-tacc/slurm_showq)

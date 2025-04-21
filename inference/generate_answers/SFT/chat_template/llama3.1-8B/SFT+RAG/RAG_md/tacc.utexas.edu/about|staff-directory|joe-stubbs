@@ -1,0 +1,63 @@
+1. [Home](/)
+2. [About](/about/)
+3. [Staff Directory](/about/staff-directory/)
+4. Joe Stubbs
+
+# Joe Stubbs, Ph.D.
+
+## Manager Cloud & Interactive Computing (CIC)
+
+Phone: **512-475-9411** |
+Email: **[jstubbs@tacc.utexas.edu](mailto:jstubbs@tacc.utexas.edu)**
+
+Joe leads the Cloud and Interactive Computing group at the Texas Advanced Computing Center (TACC), which builds and maintains national-scale cloud computing platforms and distributed systems for advanced research computing. He is the PI of multiple NSF-funded projects, including the Tapis API framework, and he leads TACC’s involvement in the ICICLE AI Institute. He also teaches courses and mentors students in the Computational Engineering program within the Cockrell School of Engineering at the University of Texas at Austin. His teaching focuses on software engineering, scalable distributed systems design and machine learning.
+
+Prior to joining the University of Texas, Joe received a B.S. in Mathematics from the University of Texas, Austin and a Ph.D. in Mathematics from the University of Michigan. His research interests include cloud and distributed computing, software engineering, security, machine learning, and formal methods.
+
+### Selected Publications
+
+**Joe Stubbs**, Smruti Padhy, Richard Cardone, Steve Black. CloudSec: An Extensible Automated Reasoning Framework for Cloud Security Policies. Accepted, International Conference on Advances in Computing Research (ACF24). Madrid, Spain. June 3-5, 2024. To appear in Lecture Notes in Networks and Systems (LNNS). Springer.
+
+Richard Cardone, Smruti Padhy, Steve Black, Sean Cleveland and **Joe Stubbs**. A Decentralized Authorization and Security Framework for Distributed Research Workflows. Accepted, IEEE Computers, Software, and Applications Conference (COMPSAC 2023).
+
+**Joe Stubbs**, Anagha Jamthe, Nathan Freeman, Mike Packard, Gilbert Curbelo and Cody Hammock, Scalable Scientific Interactive Research Computing With Project Scinco," in Computing in Science & Engineering, vol. 25, no. 1, pp. 43-50, Jan.-Feb. 2023, doi: 10.1109/MCSE.2023.3267679.
+
+Nathan Freeman, **Joe Stubbs**, Richard Cardone, and Christian Garcia. 2023. Detailed Functional Overview of an API and Workflow Engine for Scientific Research Computing. In Practice and Experience in Advanced Research Computing (PEARC '23), July 23--27, 2023, Portland, OR, USA. ACM, New York, NY, USA 8 Pages, <https://doi.org/10.1145/3569951.3593609>.
+
+Yamei Tu, Xiaoqi Wang, Rui Qiu, Han-Wei Shen, Michelle Miller, Jinmeng Rao, Song Gao, Patrick R Huber, Allan D. Hollander, Matthew Lange, Christian R Garcia, **Joe Stubbs**. An Interactive Knowledge and Learning Environment in Smart Foodsheds. IEEE Computer Graphics and Applications, vol. 43, no. 3, pp. 36-47, 1 May-June 2023, doi: 10.1109/MCG.2023.3263960.
+
+Cardone, Richard; **Stubbs, Joe**; Black, Steve; Garcia, Christian; Jamthe, Anagha; Packard, Mike; Padhy, Smruti. "A Design Pattern for Recoverable Job Management”. In Practice and Experience in Advanced Research Computing (PEARC '22). July 2022, ACM, New York, NY, USA Pages 1–4, <https://doi.org/10.1145/3491418.3535136>.
+
+Smruti Padhy and **Joe Stubbs**. Designing and Proving Properties of the Abaco Autoscaler Using TLA+. In: Bloem R., Dimitrova R., Fan C., Sharygina N. (eds) Software Verification. NSV 2021, VSTTE 2021. Lecture Notes in Computer Science, vol 13124. Springer, Cham, <https://doi.org/10.1007/978-3-030-95561-8_6>.
+
+**Joe Stubbs**, Richard Cardone, Mike Packard, Anagha Jamthe, Smruti Padhy, Steve Terry, Julia Looney, Joseph Meiring, Steve Black, Maytal Dahan, Sean Cleveland, Gwen Jacobs. (2021) Tapis: An API Platform for Reproducible, Distributed Computational Research. In: Arai K. (eds) Advances in Information and Communication. FICC 2021. Advances in Intelligent Systems and Computing, vol 1363. Springer, Cham, <https://doi.org/10.1007/978-3-030-73100-7_61>.
+
+**Joe Stubbs**, Suresh Marru, Daniel Mejia, John-Paul Navarro, Eric Franz, Steve Black, Dimuthu Wannipurage, Sudhakar Pamidighantam, Claire Stirm, Maytal Dahan, Marlon Pierce and Michael Zentner. Common Resource Descriptions for Interoperable Gateway Cyberinfrastructure. PEARC '21: Practice and Experience in Advanced Research Computing. July 2021, Virtual Event. ACM, New York, NY, USA. Article No. 20 Pages 1–9, <https://doi.org/10.1145/3437359.3465576>.
+
+Sean B. Cleveland, Anagha Jamthe, Smruti Padhy, **Joe Stubbs**, Michael Packard, Julia Looney, Steve Terry, Richard Cardone, Maytal Dahan, and Gwen A. Jacobs. 2020. Tapis API Development with Python: Best Practices In Scientific REST API Implementation: Experience implementing a distributed Stream API. In Practice and Experience in Advanced Research Computing (PEARC ’20), July 26–30, 2020, Virtual Event. ACM, New York, NY, USA, 7 pages, <https://doi.org/10.1145/3311790.3396647> (Best Paper Award).
+
+### Current Projects
+
+* Tapis: Next Generation Software for Distributed Research
+* ICICLE: Intelligent CyberIfrastructure with Computational Learning in the Environment
+* Tuitus: A sustainable, inclusive, open ecosystem for Natural Hazards Engineering
+* Abaco: Flexible, Scalable, and Usable Functions-As-A-Service via the Actor Model
+* Automated Software Pipeline for the NASA NEID Telescope
+
+### Areas of Research
+
+* Cloud Computing and Distributed Systems
+* Security
+* Software Engineering
+* Machine Learning
+* Formal Methods
+
+### Education
+
+**Ph.D., Mathematics,**  
+
+University of Michigan
+
+**B.S., Mathematics,**  
+
+University of Texas at Austin

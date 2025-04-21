@@ -1,0 +1,33 @@
+1. [Home](/)
+2. [Research](/research/)
+3. [SciVis Gallery](/research/scivis-gallery/)
+4. Drug Delivery Systems to Aid Heart Disease
+
+# Drug Delivery Systems to Aid Heart Disease
+
+### Science Behind the Image
+
+The vast majority of heart attacks occur when there is a sudden rupture of vulnerable plaques forming clots that cause blockages in coronary arteries. The diseased arteries can be treated with drugs intravascularly injected into these rupture-prone plaques. In designing the local drug delivery devices, important issues regarding drug distribution and targeting need to be addressed to ensure therapeutic efficacy. In this case, a computational toolset was developed to support the design and analysis of a catheter-based local drug delivery system that uses nanoparticles as drug carriers to treat vulnerable plaques and diffuse atherosclerosis. Simulations were run on a 3D patient-specific diseased coronary artery segment obtained directly from CT-imaging data. The visualization depicts a cross-section of the artery taken right through the vulnerable plaque with a large lipid core and a thin fibrous cap that is formed near the coronary artery bifurcation region. Results show the drug (in red) accumulating in the lipid core of the vulnerable plaque, which is highly encouraging from a therapeutic point of view.
+
+### Visualization Behind the Image
+
+Using TACC's HPC resources, a 3D mathematical model of coupled transport of drug and drug-encapsulated nanoparticles was developed and solved numerically using isogeometric finite element analysis. The visualization component of this project, a 13-minute animation, explains the motivation of the research, the physical mechanism of the proposed solution concept, the mathematical models used, the computational methodology applied for simulation, and the scientific visualization of the results. This tool is now poised to be used in the medical device industry.
+
+### Authors
+
+#### TACC
+
+Karla Vega  
+
+Ben Urick  
+Jo Wozniak
+
+---
+
+#### UT Austin
+
+Shaolie Hossain  
+Thomas J.R. Hughes  
+
+Erik Zumalt  
+Juan Diaz

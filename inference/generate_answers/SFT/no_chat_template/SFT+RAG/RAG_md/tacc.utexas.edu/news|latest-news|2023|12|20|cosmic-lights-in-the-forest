@@ -1,0 +1,82 @@
+1. [Home](/)
+2. [News](/news/)
+3. Latest News
+
+*List*
+
+*Grid*
+
+# Cosmic Lights in the Forest
+
+## PRIYA supercomputer simulations largest-ever of Lyman-𝛼 forest spectral data, illustrate large-scale structure of universe
+
+* by[Jorge Salazar](/news/latest-news/author/jorge/)
+
+* Dec. 20, 2023
+
+* [Feature Story](/news/latest-news/category/feature-story/)
+
+* [Frontera](/news/latest-news/tag/frontera/)
+
+share this:
+
+TACC’s Frontera supercomputer helped astronomers develop PRIYA, the largest suite of hydrodynamic simulations yet made of large-scale structure in the universe. Example Lyman-α forest spectra from quasar light and corresponding gas density and temperature from simulations at redshift z = 4. Top panel shows high resolution, bottom panel shows low resolution, middle panel shows the Lyman-α forest spectra. Credit: DOI: 10.48550/arXiv.2309.03943
+
+Like a celestial beacon, distant quasars make the brightest light in the universe. They emit more light than our entire Milky Way galaxy. The light comes from matter ripped apart as it is swallowed by a supermassive black hole. Quasar light reveals clues about the large-scale structure of the universe as it shines through enormous clouds of neutral hydrogen gas formed shortly after the Big Bang on the scale of 20 million light years across or more.
+
+Using quasar light data, the National Science Foundation (NSF)-funded Frontera supercomputer at the Texas Advanced Computing Center (TACC) helped astronomers develop PRIYA, the largest suite of hydrodynamic simulations yet made for simulating large-scale structure in the universe.
+
+“We’ve created a new simulation model to compare data that exists at the real universe,” said Simeon Bird, an assistant professor in astronomy at the University of California, Riverside.
+
+Bird and colleagues developed PRIYA, which takes optical light data from the Extended Baryon Oscillation Spectroscopic Survey (eBOSS) of the Sloan Digital Sky Survey (SDSS). He and colleagues [published](https://iopscience.iop.org/article/10.1088/1475-7516/2023/10/037) their work announcing PRIYA October 2023 in the Journal of Cosmology and Astroparticle Physics (JCAP).
+
+Cosmological parameters are important numerical constraints astronomers use to trace the evolution of the entire universe billions of years after the Big Bang.
+
+High fidelity visualizations at 𝑧 = 2.2. of 20 × 20 Mpc/h tubes across the full 120 Mpc/h box. A sightline is drawn (high resolution: gold, low resolution: blue) through the center of the simulation box, and the spectra visualized. Colors indicate the density of the gas, with redder colors indicating higher temperature. Low fidelity simulations shown to be reasonably well converged with high. Credit: DOI: 10.1088/1475-7516/2023/10/037.
+
+“We compare eBOSS data to a variety of simulation models with different cosmological parameters and different initial conditions to the universe, such as different matter densities,” Bird explained. “You find the one that works best and how far away from that one you can go without breaking the reasonable agreement between the data and simulations. This knowledge tells us how much matter there is in the universe, or how much structure there is in the universe.”
+
+The PRIYA simulation suite is connected to large-scale cosmological simulations also co-developed by Bird, called [ASTRID](https://www.tacc.utexas.edu/news/latest-news/2023/03/13/rare-quasar-triplet-forms-most-massive-object-universe/), which is used to study galaxy formation, the coalescence of supermassive black holes, and the re-ionization period early in the history of the universe. PRIYA goes a step further. It takes the galaxy information and the black hole formation rules found in ASTRID and changes the initial conditions.
+
+[PRIYA simulation](https://arxiv.org/abs/2306.05471) is based on [Astrid simulation model](https://arxiv.org/abs/2111.01160) running in 2x1536^3 and 2x3072^3 gas+dark matter particles in a comoving 120 Mpc/h box. Credit: Ming-Feng Ho (UCR)
+
+“With these rules, we can we take the model that we developed that matches galaxies and black holes, and then we change the initial conditions and compare it to the Lyman-𝛼 forest data from eBOSS of the neutral hydrogen gas,” Bird said.
+
+The ‘Lyman-𝛼 forest’ gets its name from the ‘forest’ of closely packed absorption lines on a graph of the quasar spectrum resulting from electron transitions between energy levels in atoms of neutral hydrogen. The ‘forest’ indicates the distribution, density, and temperature of enormous intergalactic neutral hydrogen clouds. What’s more, the lumpiness of the gas indicates the presence of dark matter, a hypothetical substance that cannot be seen yet is evident by its observed tug on galaxies.
+
+PRIYA simulation suite (https://arxiv.org/abs/2306.05471) follows a quasar sightline passing through a 120 cMpc/h x 20 cMpc/h x 20 cMpc/h tube. Credit: Ming-Feng Ho (UCR).
+
+PRIYA simulations have been used to refine cosmological parameters in [work](https://arxiv.org/abs/2309.03943) submitted to JCAP September 2023 and authored by Simeon Bird and his UC Riverside colleagues, M.A. Fernandez and Ming-Feng Ho.
+
+Previous analysis of the neutrino mass parameters did not agree with data from the Cosmic Microwave Background radiation (CMB), described as the afterglow of the Big Bang. Astronomers use CMB data from the Plank space observatory to place tight constraints on the mass of neutrinos. Neutrinos are the most abundant particle in the universe, so pinpointing their mass value is important for cosmological models of large-scale structure in the universe.
+
+Simeon Bird, University of California, Riverside. Bird presented findings from the PRIYA suite of simulations at the 2023 Frontera User Meeting in Austin, Texas. Credit: TACC.
+
+“We made a new analysis with simulations that were a lot larger and better designed than anything before.  The earlier discrepancies with the Planck CMB data disappeared, and were replaced with another tension, similar to what is seen in other low redshift large-scale structure measurements,” Bird said. “The main result of the study is to confirm the σ8 tension between CMB measurements and weak lensing exists out to redshift 2, ten billion years ago.”
+
+One well-constrained parameter from the PRIYA study is on σ8, which is the amount of neutral hydrogen gas structures on a scale of 8 megaparsecs, or 2.6 million light years. This indicates the number of clumps of dark matter that are floating around there,” Bird said.
+
+Another parameter constrained was ns, the scalar spectral index. It is connected to how the clumsiness of dark matter varies with the size of the region analyzed. It indicates how fast the universe was expanding just moments after the Big Bang.
+
+> Frontera was very important to the research because the supercomputer needed to be big enough that we could run one of these simulations fairly easily, and we needed to run a lot of them. Without something like Frontera, we wouldn't be able to solve them. It's not that it would take a long time — they just they wouldn't be able to run at all.
+> Simeon Bird, University of California, Riverside.
+
+“The scalar spectral index sets up how the universe behaves right at the beginning. The whole idea of PRIYA is to work out the initial conditions of the universe, and how the high energy physics of the universe behaves,” Bird said.
+
+Supercomputers were needed for the PRIYA simulations, Bird explained, simply because they were so big.
+
+“The memory requirements for PRIYA simulations are so big you cannot put them on anything other than a supercomputer,” Bird said.
+
+TACC awarded Bird a Leadership Resource Allocation on the [Frontera](https://www.tacc.utexas.edu/systems/frontera/) supercomputer. Additionally, analysis computations were performed using the resources of the UC Riverside High Performance Computer Cluster.
+
+The PRIYA simulations on Frontera are some of the largest cosmological simulations yet made, needing over 100,000 core-hours to simulate a system of 3072^3 (about 29 billion) particles in a ‘box’ 120 megaparsecs on edge, or about 3.91 million light years across. PRIYA simulations consumed over 600,000 node hours on Frontera.
+
+TACC’s Frontera, the fastest academic supercomputer in the US, is a strategic national capability computing system funded by the National Science Foundation. Credit: TACC.
+
+“Frontera was very important to the research because the supercomputer needed to be big enough that we could run one of these simulations fairly easily, and we needed to run a lot of them. Without something like Frontera, we wouldn't be able to solve them. It's not that it would take a long time -- they just they wouldn't be able to run at all,” Bird said.
+
+In addition, TACC’s Ranch system provided long-term storage for PRIYA simulation data.
+
+“Ranch is important, because now we can reuse PRIYA for other projects. This could double or triple our science impact,” Bird said. "
+
+“Our appetite for more compute power is insatiable," Bird concluded. "It's crazy that we're sitting here on this little planet observing most of the universe.”

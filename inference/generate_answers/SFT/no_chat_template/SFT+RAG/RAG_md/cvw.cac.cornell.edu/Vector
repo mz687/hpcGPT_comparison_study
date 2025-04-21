@@ -1,0 +1,22 @@
+Vectorization is a process by which mathematical operations found in tight loops in scientific code are executed in parallel on special vector hardware found in CPUs and coprocessors. This roadmap describes the vectorization process as it relates to computing hardware, compilers, and coding practices. Knowing where in code vectorization ought to occur, how vectorization will increase performance, and whether the compiler is vectorizing loops within a code as it should are critical to getting the full potential from the CPUs of modern HPC systems such as [Frontera](https://www.tacc.utexas.edu/systems/frontera) and [Stampede3](https://www.tacc.utexas.edu/systems/stampede3).
+
+##### Objectives
+
+After you complete this roadmap, you should be able to:
+
+* Describe the operation of, and motivation behind, the vector hardware found within the CPUs in Intel Xeon and similar architectures
+* Write code that is "vectorization-friendly", so that compilers can generate efficient vector instructions from it.
+* Assess whether compilers are vectorizing code in the places that they should, and provide hints to compilers where they fail to automatically vectorize loops that should be vectorized
+* Demonstrate rearranging code to improve its performance, based on an understanding of how vectorization relates to parallel performance and to the memory characteristics of processors
+
+##### Prerequisites
+
+* Knowledge of [C](/cintro) and/or [Fortran](/fortran-intro), as well as a basic knowledge of what assembly language is
+* Familiarity with [batch job submission on large compute clusters](/frontera/running-jobs/batch-jobs)
+
+##### Requirements
+
+System requirements include:
+
+* Access to a C or Fortran compiler
+* Access to [Frontera](https://www.tacc.utexas.edu/systems/frontera), [Stampede3](https://www.tacc.utexas.edu/systems/stampede3), or any compute cluster equipped with a vectorizing compiler and the [Slurm Workload Manager](https://slurm.schedmd.com/)

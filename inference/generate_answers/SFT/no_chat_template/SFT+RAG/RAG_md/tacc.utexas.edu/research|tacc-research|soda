@@ -1,0 +1,52 @@
+1. [Home](/)
+2. [Research](/research/)
+3. [TACC Research](/research/tacc-research/)
+4. Scalable Object and Analysis (SODA)
+
+# Scalable Object Detection and Analysis system with Traffic Camera video for urban mobility research (SODA)
+
+### Purpose
+
+This project aims to develop new methods to processes video data collected from traffic monitoring cameras to support traffic analyses including traffic counts and vehicle-pedestrian interactions. Objects are recognized using an artificial intelligence library and tracked across frames. Processing outputs consist of structured data that may be queried efficiently using HiveQL for a variety of applications.
+
+### Overview
+
+Cities often have extensive networks of pan-tilt-zoom (ptz) cameras which are not used for systematic data collection and analysis. The value of video data has greatly increased thanks to recent advancements in the areas of Intelligent Transportation Systems (ITS) and data analytics. While most existing video analysis tools are designed to accomplish a specific task (e.g. measure traffic volume), this project focuses in converting video content into searchable data that can be accessed and analyzed for multiple applications. Our approach uses a deep learning method to recognize the content of video streams as a collection of digital objects which can be analyzed separately using scalable data warehouse tool. The processed data can be accessed and analyzed using query language or customized programs. This approach also facilitates fusing video data with data from other fixed and mobile sensors to support complex analyses.
+
+The methodology proposed in this work can support the use of such cameras to complement other data sources. This project has the potential to improve the usage of existing infrastructure and provide a low-cost alternative for data collection at locations where traffic sensors are not available. Typical data collection at such locations often involves the deployment of sensors for limited time periods or manual analyses. The resources required by such approaches often limit the number of considered locations and the duration of the studies. By enabling automated analyses through the data recognition and conversion process, this project allows for much more efficient workflows, enabling agencies and researchers to consider more locations and longer time periods. The queryable data interface allows users to review the information in the video without investing time in watching the entire video segments. Unlike some existing video analysis methodologies which are centered on providing a specific output, such as vehicle counts, the outcomes of the proposed approach generates searchable data which may be analyzed for multiple applications. The project offers an alternative approach to extract and store information from video data that is more flexible, versatile and affordable than existing solutions.
+
+### Impact
+
+Using video snippets collected by the City of Austin traffic monitoring cameras, we demonstrated the use of efficient structured query language (HiveQL) to answer real-world questions based on collected data. Preliminary applications include the identification of traffic patterns including vehicle flows, direction of travel, and pedestrian movements. By enabling the collection of complex data at multiple locations and for extended time periods, this project can support the development of efficient traffic management strategies to reduce delay and enhance mobility. An ongoing extension of this work is looking at vehicle-pedestrian interactions to improve pedestrian safety at critical locations. This project has been selected for Smart50 Awards organized by Smart Cities Connect conference in 2018.
+
+### Contributors
+
+**Amit Gupta**  
+
+Research Associate
+
+**Ruizhu Huang**  
+
+Research Associate
+
+**Lei Huang**  
+
+Research Associate
+
+**Si Liu**  
+
+Research Associate
+
+### Related Links
+
+* [Soda Github Repository](https://github.com/weijiax/soda)
+* [Artificial Intelligence and Supercomputers To Help Alleviate Urban Traffic Problems](https://www.tacc.utexas.edu/-/artificial-intelligence-and-supercomputers-to-help-alleviate-urban-traffic-problems)
+* [Smart 50 Awards](https://spring.smartcitiesconnect.org/Smart50Awards/#)
+
+### Publications
+
+Huang, Lei, Weijia Xu, Si Liu, Venktesh Pandey, and Natalia Ruiz Juri. "Enabling versatile analysis of large scale traffic video data with deep learning and HiveQL." In Big Data (Big Data), 2017 IEEE International Conference on, pp. 1153-1162. IEEE, 2017
+
+### Funding Source
+
+City of Austin

@@ -1,0 +1,16 @@
+1. [Home](/)
+2. [Systems](/systems/)
+3. Maverick2
+
+# Maverick2
+
+**Maverick2 has been decommissioned and is no longer available.**
+
+## Machine and Deep Learning
+
+Maverick2 supports GPU-accelerated machine learning and deep learning research workloads. The power of this system is in its multiple GPUs per node. It is mostly intended to support workloads that are best served by a dense cluster of GPUs. The system is designed to support model training via GPU-powered frameworks that can take advantage of the 4 GPUs in a node. In addition to the 96 1080-TI Nvidia GPU cards, a limited number of Pascal 100 and Volta 100 cards are available to support any workloads that cannot be done in the smaller memory footprints of the primary GPU cards. The system software supports Tensorflow and can also be augmented to run other frameworks.
+
+### System Specifications
+
+| 23 nodes each with 4 NVidia GTX 1080 Ti GPUs running in a Broadwell based compute node.  4 nodes each with two of NVidia V100s GPUs running in a Skylake based Dell R740 based node.  3 nodes each with two NVidia P100s GPUs running in a Skylake based Dell R740 node.  Mellanox FDR Infiniband MT27500 Family ConnectX-3 Adapter  Up to 10/40/56Gbps bandwidth and a sub-microsecond low latency |
+| --- |

@@ -1,0 +1,128 @@
+1. [Home](/)
+2. [Education](/education/)
+3. [Undergraduates & Graduates](/education/undergraduates-graduates/)
+4. [Research Experience for Undergraduates](/education/undergraduates-graduates/reu/)
+5. Research Projects
+
+# Research Projects
+
+## Research Experience for Undergraduates (REU) Research Projects
+
+The proposed research projects are subject to change, contingent on new mentors and/or the research interests of the students.
+
+**Learn about past research projects in the [Research Projects Archive](/education/undergraduates-graduates/reu/research-projects/archive/).**
+
+### [Center for Autonomy](https://autonomy.oden.utexas.edu/)
+
+Resource management is critical for sustainable development and requires an efficient allocation of limited resources to satisfy diverse needs. For example, water resource management, disaster response, and healthcare all face challenges of allocating limited resources. A key challenge in these domains is the complexity of resource allocation decision-making, where changes in allocation can produce unpredictable ripple effects. Moreover, these allocation decisions must often balance efficiency and fairness—servicing a critical need in one area while simultaneously attempting to avoid disadvantaging another. To navigate these complexities, we can use well-established convex optimization techniques such as Pareto efficiency and Lorenz curves to evaluate tradeoffs and efficiently optimize resources. By integrating scenario analysis, we can systematically assess the quality of different allocation strategies under varying conditions. Here, we focus on water resource management due to the availability of data.
+
+**Prerequisites:**  
+
+Some coding experience in either Python or Matlab is helpful.
+
+**Learning outcomes:**
+
+1. Convex optimization.
+2. Predictive models of time-series data.
+3. •Using learning techniques to address practical engineering challenges.
+
+Students will produce a presentation detailing their findings and their analysis.
+
+**Mentor:**  
+
+Ufuk Topcu, Professor, Temple Foundation Endowed Professorship No. 1  
+
+Adam Thorpe, Postdoctoral Researcher
+
+### [Center for Autonomy](https://autonomy.oden.utexas.edu/)
+
+Preference-based planning in AI involves generating plans or making decisions by considering the preferences or objectives specified by the user, optimizing actions to align with these preferences within a given context or environment. It integrates user-defined criteria and priorities into the planning process, enabling AI systems to select actions that best satisfy the user's preferences. It finds applications in several problems in robotics and AI, such as coordinating multi-agent systems in disaster response, optimizing supply chain management processes, and enabling autonomous vehicles to ensure safe traffic flow. The project aims to investigate an application scenario wherein two collaborating agents work together to accomplish a task while adhering to specified preferences. We will explore a logic-based AI approach to automatically synthesize a preference satisfying joint plan for the agents.
+
+**Prerequisites:**
+
+* Proficient in Python
+* Strong mathematical background
+
+**Learning outcomes:**
+
+1. Familiarization with state-of-the-art logic-based AI techniques, tools, their importance, and applicability
+2. Design and analysis of experiments to validate logic-based AI tools
+
+**Mentor:**  
+
+Ufuk Topcu, Professor, Temple Foundation Endowed Professorship No. 1  
+
+Abhishek Kulkarni, Postdoctoral Researcher
+
+### [Optimization Lab](https://sites.google.com/view/raghub/home)
+
+Enforcing Fairness in Machine Learning via Optimization. The use of machine learning has become ubiquitous in various areas, including hiring, lending, and risk predictions, where unbiased decision-making is of utmost importance. Many approaches have been proposed to tackle bias in machine learning models to ensure fairness in these applications. This project's primary objective is to explore the application of constrained optimization models and algorithms to enforce fairness and reduce bias in machine learning models. These models incorporate explicit constraints in the training optimization problem to ensure fairness based on specific criteria, such as demographic parity or equal opportunity. We will explore various constrained optimization algorithms to train these machine learning models and evaluate their performance using publicly available datasets.
+
+**Prerequisites:**
+
+* Basic Probability, Linear Algebra and Calculus
+* Coding skills: Python or Matlab
+* Prior optimization knowledge is helpful
+
+**Learning outcomes:**
+
+* Development of constrained optimization models for machine learning
+* Design and implementation of nonlinear optimization algorithms
+
+**Mentor:**  
+
+Raghu Bollapragada, Assistant Professor, Operations Research and Industrial Engineering; also affiliated with ODEN Institute for Computational Engineering & Sciences, Machine Learning Laboratory, and Center for Dynamics and Controls of Material: an NSF MRSEC  
+Cem Karamanli, Graduate Student
+
+### [Digital Porous Media](https://sites.google.com/utexas.edu/masha/home)
+
+The climate crisis and its human impact have created an urgent need to curate and analyze a wide range of geosciences data. Characterizing geomaterials in terms of their microstructural and transport properties is crucial for Earth system understanding and for sustainable resource management. The structure and composition of soil play a foundational role in plant, microbial, and agricultural ecosystems. Deeper below the soil, rock microstructure and mineral heterogeneity are critical to understanding fluid/solid reactions to improve groundwater resources management, carbon sequestration, rare-earth mineral recovery, and contaminant transport. Modern 3D imaging provides a window to the microstructure of soil and rocks; recent advances in machine learning and simulation can improve our understanding of how these materials influence the world around us.
+
+This project will create cloud-based open science tools for visualization, analysis and simulation of geomaterial image data through a repository, Digital Rocks Portal (DRP): <https://www.digitalrocksportal.org/>.
+
+**Prerequisites:**  
+
+Programming experience in Python would be a plus.
+
+**Learning outcomes:**
+
+1. We expect the student to work on a task using dataset(s) from Digital Rocks Portal, and create a Python tool for analyzing some relevant part of the data.
+
+Students will produce a presentation detailing their findings and their analysis.
+
+**Mentor:**  
+
+Maša Prodanović, Frank W. Jessen Professor in Petroleum Engineering and Associate Department Chair  
+
+Bernard (Bernie) Chang, Graduate Student
+
+### [Dynamical Systems Lab](https://www.wgilpin.com/gilpinlab/)
+
+Our group studies the prediction and control of chaos. What makes some physical systems easy to predict, while others are harder? The motion of the planets was deciphered by physicists centuries ago, yet the motion of a sloshing cup of coffee remains difficult to predict, even on advanced supercomputers. Our REU student will work on simulating and controlling turbulent fluid flows, with a particular emphasis on creating large-scale turbulent simulations. We plan to use large-scale machine learning models to predict and control the evolution of these turbulent flows.
+
+**Prerequisites:**  
+
+Python (numpy, jupyter)
+
+**Learning outcomes:**  
+
+The student will learn about turbulent flows and the science of chaos, and will learn how to create stable large-scale simulations of complex natural phenomena.
+
+**Mentor:**  
+
+William Gilpin, Assistant Professor, Physics  
+
+Anthony Bao, Graduate Student
+
+### REU participants will also be supported by:
+
+**TACC Mentors:**
+
+* Anne Bowen, Research Associate, Data Visualization
+* TACC Justin Drake, Research Associate, TACC and Assistant Professor, Women’s Health, UT Dell Medical School
+* Kelly Gaither, Deputy Director and Director of Visualization, TACC; Associate Professor, Women’s Health, UT Dell Medical School
+
+**Peer Mentors:** 
+
+* Taylor Ishika, Gradaute Student
+* Justin Warren, Undergraduate Student

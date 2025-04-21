@@ -1,0 +1,89 @@
+1. [Home](/)
+2. [News](/news/)
+3. Latest News
+
+*List*
+
+*Grid*
+
+# Deep Learning for New Alloys
+
+## Stampede2 supercomputer helps find new properties of high-entropy alloys
+
+* by[Jorge Salazar](/news/latest-news/author/jorge/)
+
+* July 20, 2022
+
+* [Feature Story](/news/latest-news/category/feature-story/)
+* [Podcast](/news/latest-news/category/podcast/)
+
+share this:
+
+Shown is a data-driven workflow to map the elastic properties of the high-entropy alloy space. Credit: Chen et al.
+
+When is something more than just the sum of its parts? [Alloys](https://en.wikipedia.org/wiki/Alloy) show such synergy. Steel, for instance, [revolutionized](https://en.wikipedia.org/wiki/Bessemer_process) industry by taking iron, adding a little carbon and making an alloy much stronger than either of its components.
+
+Supercomputer simulations are helping scientists discover new types of alloys, called high-entropy alloys. Researchers have used the [Stampede2](//tacc.utexas.edu/systems/stampede2/) supercomputer of the Texas Advanced Computing Center (TACC) allocated by the Extreme Science and Engineering Discovery Environment ([XSEDE](https://www.xsede.org/)).
+
+Their research was [published](https://doi.org/10.1038/s41524-022-00779-7) in April 2022 in Npj Computational Materials. The approach could be applied to finding new materials for batteries, catalysts and more without the need for expensive metals such as platinum or cobalt.
+
+Graph representations of association rules between elements and elastic properties of high entropy alloys. Results for (a) bulk modulus, (b) Young's modulus, (c) shear modulus, (d) Pugh's ratio, (e) Poisson' ratio and (f) Zener ratio respectively. Node colors and sizes represent different elements (as shown in the legend) and fractions. Credit: Chen et al.
+
+"[High-entropy alloys](https://en.wikipedia.org/wiki/High-entropy_alloys) represent a totally different design concept. In this case we try to mix multiple principal elements together," said study senior author [Wei Chen](https://www.iit.edu/directory/people/wei-chen), associate professor of materials science and engineering at the Illinois Institute of Technology.
+
+The term "high [entropy](https://en.wikipedia.org/wiki/Entropy)" in a nutshell refers to the decrease in energy gained from random mixing of multiple elements at similar atomic fractions, which can stabilize new and novel materials resulting from the ‘cocktail.'
+
+For the study, Chen and colleagues surveyed a large space of 14 elements and the combinations that yielded high-entropy alloys. They performed high-throughput quantum mechanical calculations, which found the alloy's stability and elastic properties, the ability to regain their size and shape from stress, of more than 7,000 high-entropy alloys.
+
+"This is to our knowledge the largest database of the elastic properties of high-entropy alloys," Chen added.
+
+They then took this large dataset and applied a Deep Sets architecture, which is an advanced [deep learning](https://en.wikipedia.org/wiki/Deep_learning) architecture that generates predictive models for the properties of new high-entropy alloys.
+
+"We developed a new machine-learning model and predicted the properties for more than 370,000 high-entropy alloy compositions," Chen said.
+
+The last part of their study utilized what's called association rule mining, a rule-based machine-learning method used to discover new and interesting relationships between variables, in this case how individual or combinations of elements will affect the properties of high-entropy alloys.
+
+Wei Chen, Associate Professor of Material Science and Engineering, Illinois Institute of Technology.
+
+"We derived some design rules for high-entropy alloy development. And we proposed several compositions that experimentalists can try to synthesize and make," Chen added.
+
+High-entropy alloys are a new frontier for materials scientists. As such, there are very few experimental results. This lack of data has thus limited scientists' capacity to design new ones.
+
+"That's why we perform the high-throughput calculations, in order to survey a very large number of high-entropy alloy spaces and understand their stability and elastic properties," Chen said.
+
+He referred to more than 160,000 first-principle calculations in this latest work.
+
+"The sheer number of calculations are basically not possible to perform on individual computer clusters or personal computers," Chen said. "That's why we need access to high-performance computing facilities, like those at TACC allocated by XSEDE."
+
+Chen was awarded time on the Stampede2 supercomputer at TACC through XSEDE, a virtual collaboration funded by the National Science Foundation (NSF) that facilitates free, customized access to advanced digital resources, consulting, training and mentorship.
+
+Unfortunately, the [EMTO-CPA](https://emto.gitlab.io/) code Chen used for the quantum mechanical density function theory calculations did not lend itself well to the parallel nature of [high-performance computing](https://en.wikipedia.org/wiki/High-performance_computing), which typically takes large calculations and divides them into smaller ones that run simultaneously.
+
+> Hopefully, more researchers will utilize computational tools to help them narrow down the materials that they want to synthesize.
+> Wei Chen, Illinois Institute of Technology
+
+"Stampede2 and TACC through XSEDE provided us a very useful code called Launcher, which helped us pack individual small jobs into one or two large jobs, so that we can take full advantage of Stampede2's high performance computing nodes," Chen said.
+
+The [Launcher](https://portal.tacc.utexas.edu/software/launcher) script developed at TACC allowed Chen to pack about 60 small jobs into one and then run them simultaneously on a high-performance node. That increased their computational efficiency and speed.
+
+"Obviously this is a unique use application for supercomputers, but it's also quite common for many material modeling problems," Chen said.
+
+For this work, Chen and colleagues applied a computer network architecture called Deep Sets to model properties of high-entropy alloys.
+
+The Deep Sets architecture can use the elemental properties of individual high-entropy alloys and build predictive models to predict the properties of a new alloy system.
+
+"Because this framework is so efficient, most of the training was done on our student's personal computer," Chen said. "However, we did use TACC Stampede2 to make predictions using the model."
+
+TACC's Stampede2 supercomputer. Photo credit: Jorge Salazar, TACC.
+
+Chen gave the example of the widely studied [Cantor alloy](https://youtu.be/hB2qrIGJjSc) – a roughly equal mixture of iron, manganese, cobalt, chromium and nickel. What's interesting about it is that it resists being brittle at very low temperatures.
+
+One reason for this is what Chen called the ‘cocktail effect,' which produces surprising behaviors compared to the constituent elements when they're mixed together at roughly equal fractions as a high-entropy alloy.
+
+The other reason is that when multiple elements are mixed, an almost unlimited design space is opened for finding new compositional structures and even a completely new material for applications that weren't possible before.
+
+"Hopefully more researchers will utilize computational tools to help them narrow down the materials that they want to synthesize, Chen said. "High-entropy alloys can be made from easily sourced elements and, hopefully, we can replace the precious metals or elements such as platinum or cobalt that have supply chain issues. These are actually strategic and sustainable materials for the future."
+
+---
+
+The study, "[Composition design of high-entropy alloys with deep sets learning](https://www.nature.com/articles/s41524-022-00779-7)," was published April 2022 in *Npj Computational Materials*. The study authors are Jie Zhang, George Kim and Wei Chen of the Illinois Institute of Technology; Chen Cai and Yusu Wang of the University of California San Diego.

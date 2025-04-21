@@ -1,0 +1,137 @@
+1. [Home](/)
+2. [News](/news/)
+3. Latest News
+
+*List*
+
+*Grid*
+
+# 2023-2024 FRONTERA FELLOWS COHORT — SO LONG AND GOOD LUCK!
+
+## Read about the 2023-2024 Fellows’ experiences
+
+* by[Damian Hopkins](/news/latest-news/author/dhopkins/)
+
+* July 19, 2024
+
+* [Q&A](/news/latest-news/category/qa/)
+
+share this:
+
+TACC is saying ‘goodbye for now’ to the 2023-2024 Frontera Computational Science Fellows. The program provides a year-long opportunity for talented graduate students to compute on the Frontera supercomputer and collaborate with experts at TACC.
+
+Read about their experiences, lessons learned, and why this cohort recommends that other students apply to the Fellowship.
+
+---
+
+### Hannah Scott
+
+**Academic Institution:** West Virginia University
+
+**Field of Research:** Ph.D. candidate, Chemistry
+
+**What project(s) did you work on during your time as a Fellow?**
+
+The projects focused on using molecular dynamics to investigate the thermodynamics behind the partitioning of peptides into membranes. Knowing this information provides insight into the future design of drugs. I used computational resources provided by this fellowship to work on a collaboration to identify candidate drugs that could provide a treatment for the symptoms of Huntington’s disease.
+
+**What did you learn from a scientific/computational point of view, or from a professional perspective?**
+
+I learned so much from hearing others at TACC speak about their own research projects and the way they utilize high performance computing in ways that were unfamiliar to me. I also learned about careers available within my field.
+
+**What did you enjoy most during your time as a Fellow?**
+
+I enjoyed having group informational interviews with staff members at TACC. We learned about the individual journeys that led them to where they are today, insights into their daily work activities, and positive stories about TACC.
+
+**How will the Frontera Fellowship help you move forward in your field of research?**
+
+The Fellowship allowed me to gain experience working in an HPC environment. This experience sets the groundwork for my future in research, as HPC is an essential skill to have as a computational chemist. I plan to continue utilizing HPC resources for future projects. With the connections made at TACC through the Fellowship, I will always have someone to reach out to if I ever need advice or assistance throughout my journey in computing.
+
+**What would be your advice for incoming Fellows, and why should others apply to the program?**
+
+Don’t be afraid to reach out to the mentors at TACC and be open about what you would like to gain from this experience. The mentors are willing to connect you to people in your field and even offer workshops that provide you with great information. If you’re thinking about applying, do it! This Fellowship allowed me to advance in my field in a way that otherwise wouldn’t be possible.
+
+---
+
+### Zuzanna Jedlinska
+
+**Academic Institution:** University of Pennsylvania
+
+**Field of Research:** Ph.D. candidate, Computational Physics
+
+**What project(s) did you work on during your time as a Fellow?**
+
+I focused on optimizing the source-code of Mesoscale, Accelerated, Theoretically Informed, Langevin, Dissipative particle dynamics, and Field Theory ([MATILDA.FT](https://pubmed.ncbi.nlm.nih.gov/37403848/)). I used dedicated profiling tools to discover the bottlenecks and improve these parts of the code. MATILDA.FT was designed from the ground-up to run on CUDA-enabled GPUs with Thrust library acceleration, enabling it to harness the possibility of massive parallelism to efficiently simulate systems on a mesoscopic scale.
+
+**What did you learn from a scientific/computational point of view, or from a professional perspective?**
+
+I gained a much deeper understanding of the hardware side of software design and how to design code to take advantage of the hardware features.
+
+**What did you enjoy most during your time as a Fellow?**
+
+I loved being able to consult with high performance computing experts. I am self-taught, so having someone knowledgeable, available, and willing to help me understand the complex aspects of the software/hardware interface has been invaluable.
+
+**How will the Frontera Fellowship help you move forward in your field of research?**
+
+I improved my software design skills throughout the Fellowship. Since my main area of research is developing software, these skills will help me code faster, better, and more efficiently. The Fellowship also gave me the resources necessary for performing simulations, which resulted in one published paper in Macromolecules and one in progress.
+
+**What would be your advice for incoming Fellows, and why should others apply to the program?**
+
+This Fellowship is fantastic and the people are amazing. Don’t worry about whether your research is “impressive” enough. Just apply — you won’t regret it!
+
+---
+
+### Stephanie Corio
+
+**Academic Institution:** Binghamton University
+
+**Field of Research:** Ph.D. candidate, Organic Chemistry
+
+**What project(s) did you work on during your time as a Fellow?**
+
+I employed computational techniques like density functional theory and quasiclassical dynamics to probe the mechanisms of several notable organometallic and photoredox catalyzed reactions. Using Frontera, I performed extensive in-silico modeling of key transition state structures in the catalytic cycles of valuable organic reactions, enabling me to elucidate the free energy landscape of these reactions and identify parameters affecting catalytic ability and stereoselectivity. Insights gained from these detailed mechanistic analyses can be used to design more efficient ligands to improve reaction conditions and discover related transformations.
+
+**What did you learn from a scientific/computational point of view, or from a professional perspective?**
+
+Through interactions with the TACC community and presentations during our biweekly meetings, I learned about the myriads of career paths available to someone with experience in high performance computing.
+
+**What did you enjoy most during your time as a Fellow?**
+
+I enjoyed engaging with the other Fellows in my cohort and various members of the TACC community. Learning how high performance computing is being applied across a wide range of disciplines has been fascinating. The onsite visits to TACC were particularly rewarding.
+
+**How will the Frontera Fellowship help you move forward in your field of research?**
+
+This Fellowship exposed me to the many ways high performance computing can be utilized within computational organic chemistry. I have since implemented new techniques into my research and will continue to employ those throughout my future postdoctoral studies.
+
+**What would be your advice for incoming Fellows, and why should others apply to the program?**
+
+Take full advantage of the plethora of resources offered at TACC. Don’t be afraid to ask questions, give feedback, and even ask for certain specialties or tools to be showcased during your biweekly meetings. The mentors are more than willing to accommodate requests and assist in connecting you with researchers doing similar work within the TACC community and UT Austin.
+
+---
+
+### Sabina Sagynbayeva
+
+**Academic Institution:** Stony Brook University
+
+**Field of Research:** Ph.D. candidate, Astrophysics
+
+**What project(s) did you work on during your time as a Fellow?**
+
+I focused on understanding the formation of circumplanetary disks — disks that form around giant planets during their early stages of formation. This project aimed to shed light on the complex processes involved in the early stages of planet and moon formation.
+
+**What did you learn from a scientific/computational point of view, or from a professional perspective?**
+
+I gained deeper insights into the dynamics of circumplanetary disk formation and factors that influence their structure and evolution. Computationally, I enhanced my skills in high performance computing by learning to optimize simulations for large-scale systems. Professionally, I developed stronger collaboration skills, working with experts across different disciplines and institutions via our biweekly meetings.
+
+**What did you enjoy most during your time as a Fellow?**
+
+I enjoyed the opportunity to work with cutting-edge supercomputing resources. Having access to Frontera’s immense computational power allowed me to run simulations at unprecedented scales, leading to exciting new discoveries in my field. I also appreciated the collaborative environment, which fostered intellectual exchanges with fellow researchers and expanded my professional network.
+
+**How will the Frontera Fellowship help you move forward in your field of research?**
+
+The experiences and skills I’ve gained in high performance computing will be invaluable for future projects. The research outcomes from my work on circumplanetary disks will contribute to the understanding of planet formation, potentially opening new avenues for exploration. I’m writing a paper on the results of this project, but I’m already excited about upcoming projects.
+
+**What would be your advice for incoming Fellows, and why should others apply to the program?**
+
+Fully immerse yourself in the Fellowship. Take advantage of the vast computational resources available and engage with the community of researchers around you. Don’t hesitate to ask questions and seek collaborations because the expertise within the Frontera network is invaluable.
+
+[Learn more](https://frontera-portal.tacc.utexas.edu/fellowship/?_gl=1*1x44pz3*_ga*NDI5NjM4NjA1LjE2ODQ4NTY5MjE.*_ga_TRRRQZ0EHX*MTY4OTE3Mjk5MS44LjEuMTY4OTE3NzQyMy4wLjAuMA..) about TACC’s Frontera Fellowship program.

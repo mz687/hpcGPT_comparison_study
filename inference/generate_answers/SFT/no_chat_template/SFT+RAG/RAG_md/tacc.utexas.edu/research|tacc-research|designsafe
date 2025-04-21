@@ -1,0 +1,56 @@
+1. [Home](/)
+2. [Research](/research/)
+3. [TACC Research](/research/tacc-research/)
+4. DesignSafe
+
+# DesignSafe
+
+### Purpose
+
+This cyberinfrastructure grant is part of the NSF's new Natural Hazards Engineering Research Infrastructure (NHERI) program. NHERI was created to enable research and educational advancements aimed at preventing natural hazard events from becoming societal disasters. It will help engineers build safer structures that can better withstand natural hazards such as earthquakes and windstorms.
+
+* **Data Sharing and Publication:** Upload and organize your data in the DesignSafe [Data Depot](https://www.designsafe-ci.org/data/browser) - quickly share it with collaborators, make it available to the general public, or formally publish it with a Digital Object Identifier (DOI).
+* **Integrated Data Analysis:** Data stored in the Data Depot can be analyzed and visualized in the DesignSafe cloud (no download required) through the [Discovery Workspace](https://www.designsafe-ci.org/rw/workspace).  Matlab and Jupyter are available for data analysis, and can be run interactively or in batch mode.  Visualization tools for a wide variety of applications are also available.
+* **Access to High Performance Computing (**[**HPC**](https://www.designsafe-ci.org/rw/user-guides/allocations-policy/)**):** Take advantage of the supercomputers at TACC to perform large-scale simulations using programs such as OpenSees, OpenFoam, and ADCIRC.  You can then analyze the simulation output in DesignSafe using the data analysis tools and publish the resulting data in the Data Depot.
+* **Support for Reconnaissance Data:** Through the DesignSafe [Recon Portal](https://www.designsafe-ci.org/recon-portal/) find datasets/resources from reconnaissance efforts associated with natural hazard events.  Use the Hazmapper tool to integrate geotagged photos, GPS tracks, and field observations into a single map that resides in the cloud, is published in the Data Depot and Recon Portal.
+* **Collaboration Tools:** Use the channels within the [DesignSafe Slack team](https://www.designsafe-ci.org/community/slack-online-collaboration/) to discuss your data and coordinate resources with your virtual community of collaborators.
+
+### Contributors
+
+**Dan Stanzione**  
+
+Executive Director, Texas Advanced Computing Center  
+
+Co-Principal Investigator
+
+**Ellen Rathje**  
+
+Cockrell School of Engineering, UT Austin  
+
+Principal Investigator
+
+**Clinton Dawson**  
+
+Cockrell School of Engineering, UT Austin  
+
+Co-Principal Investigator
+
+**Jamie Padgett**  
+
+Rice University  
+
+Co-Principal Investigator
+
+**Jean-Paul Pinelli**  
+
+Florida Institute of Technology  
+
+Co-Principal Investigator
+
+### Related Links
+
+* [DesignSafe-CI](https://www.designsafe-ci.org/)
+
+### Funding Source
+
+National Science Foundation Awards [#1520817](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1520817) and [2022469](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2022469)

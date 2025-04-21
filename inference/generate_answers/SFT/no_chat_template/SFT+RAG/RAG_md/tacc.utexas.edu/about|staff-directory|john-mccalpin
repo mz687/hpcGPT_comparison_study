@@ -1,0 +1,57 @@
+1. [Home](/)
+2. [About](/about/)
+3. [Staff Directory](/about/staff-directory/)
+4. John McCalpin
+
+# John McCalpin
+
+## Research Scientist HPC Performance & Architectures
+
+Phone: **512-232-3754** |
+Email: **[mccalpin@tacc.utexas.edu](mailto:mccalpin@tacc.utexas.edu)**
+
+John joined TACC in 2009 as a Research Scientist in the High Performance Computing Group after a twelve year career in performance analysis and system architecture in the computer industry. His industrial experience includes 3 years at SGI (performance analysis and optimization on the Origin2000 and performance lead on the architecture team for the Altix3000), 6 years at IBM (performance analysis for HPC, processor and system design for Power4/4+ and Power5/5+), and 3 years at AMD (accelerated computing technologies and performance analysis). Prior to his industrial career, John was an oceanographer (Ph.D., Florida State), spending six years as an assistant professor at the University of Delaware engaged in research and teaching on numerical simulation of the large-scale circulation of the oceans.
+
+### Selected Publications
+
+Ardavan Pedram, John D. McCalpin, and Andreas Gerstlauer, 2014: "A Highly Efficient Multicore Floating-Point FFT Architecture Based on Hybrid Linear Algebra/FFT Cores", Journal of Signal Processing Systems, 77(1-2):169-190.
+
+Ardavan Pedram, John McCalpin, and Andreas Gerstlauer, 2013: "Transforming a Linear Algebra Core to an FFT Accelerator". Proceedings of the 2013 IEEE 24th International Conference on Application-Specific Systems, Architectures, and Processors (ASAP), June 2013.
+
+Jeff Diamond, Martin Burtscher, John D. McCalpin, Byoung-Do Kim, Stephen W. Keckler, James C. Browne, 2011: "Evaluation and Optimization of Multicore Performance Bottlenecks in Supercomputing Applications". Proceedings of the 2011 IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS). April 10-12, 2011, Austin, TX.
+
+Martin Burtscher, Byoung-Do Kim, Jeff Diamond, John McCalpin, Lars Koesterke, James Browne, 2010: "PerfExpert: An Easy-to-Use Performance Diagnosis Tool for HPC Applications". Proceedings of the ACM/IEEE Supercomputing Conference 2010. November 2010, New Orleans, LA.
+
+McCalpin, J., Moore, C., Hester, P., 2007: ["The Role of Multicore Processors in the Evolution of General-Purpose Computing,"](https://tacc-tup01.tacc.utexas.edu:8443/documents/1084364/1638160/MulticoreCTWatch_2007.pdf/43195855-bce5-44aa-bfea-e174b9504b05) CTWatch Quarterly, Volume 3, Number 1, February 2007.
+
+H. M. Mathis, H. M., A. Mericas, J. D. McCalpin, R. J. Eickemeyer, and S. R. Kunkel, 2005: "Characterization of simultaneous multithreading (SMT) efficiency in POWER5", IBM Journal of Research and Development, 49(4/5):555-564.
+
+### Current Projects
+
+* STREAM: Sustainable Memory Bandwidth in High Performance Computers
+* [ACElab:](https://www.tacc.utexas.edu/research-development/acelab/) Advanced Computing Evaluation Laboratory: performance characterization and benchmarking of new computing technologies (co-director)
+
+### Areas of Research
+
+* Performance Analysis in High Performance Computing
+* Computer System Architecture
+* Applied Mathematics of Partial Differential Equations
+
+### Memberships
+
+* IEEE Computer Society
+* American Geophysical Union
+
+### Education
+
+**B.S., Physics**  
+
+Texas A&M University
+
+**M.S., Oceanography**  
+
+Texas A&M University
+
+**Ph.D. Oceanography**  
+
+Florida State University

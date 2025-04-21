@@ -1,0 +1,82 @@
+1. [Home](/)
+2. [Education](/education/)
+3. [Educators](/education/educators/)
+4. Research
+
+# Research
+
+## Current Projects & Resources
+
+### Current Projects
+
+### CAPE Framework
+
+#### Lead: Carol Fletcher & Jayce Warner
+
+CAPE is a framework designed to help education leaders, policy makers, and researchers assess equity in CS education at multiple levels of the educational system. The framework addresses four key components of CS education: Capacity for, Access to, Participation in, and Experience of CS education (CAPE). The pyramid depicted here illustrates how the four components of the framework work progressively, building and relying on the previous component. If students are to have good experiences learning CS, they must first elect to participate in CS courses and programs. If students are to choose to participate in CS, they must first have access to CS courses and programs. If schools are to provide students access to CS, they must first have the capacity to offer CS courses and programs. The core idea of the framework is that there are issues of equity to address at every level.
+
+[Learn more about the CAPE Framework](https://ecepalliance.org/resources/models/cape/)
+
+### ECEP (Expanding Computing Education Pathways)
+
+#### Lead: Carol Fletcher, Sarah Dunton & Joshua Childs
+
+[ECEPopens in a new window](https://ecepalliance.org/) is a collective impact alliance of 22 states and the territory of Puerto Rico. The National Science Foundation (NSF) supports ECEP through its Broadening Participation in Computing Alliance (BPC-A) program. The ECEP Alliance seeks to increase the number and diversity of students in the pipeline to computing and computing-intensive degrees by supporting state-level computing education reforms. Through interventions, pathways, partnerships and models that drive state-level computing education change, ECEP supports states as they work to align their state efforts with the national vision for computer science for all. The University of Texas at Austin serves as the backbone organizer for ECEP.
+
+[Learn more about ECEP](https://ecepalliance.org/)
+
+### AWSM in CS
+
+#### Lead: Carol Fletcher & Joshua Childs
+
+Accelerating Women's Success and Mastery in Computer Science (AWSM in CS) is an NSF funded Research Practitioner Partnership. AWSM in CS supports a Networked Improvement Community of 20+ secondary computing teachers all focused on increasing access and participation of young women in computing courses. This project seeks to apply the tools of improvement science to support teacher-led plan, do, study, act (PDSA) cycles that address this challenge and measure impact on females and particularly females of color.
+
+[Learn more about AWSM in CS](/education/educators/weteachcs/awsm/)
+
+### CEDI (Computing Educator Diversity Initiative)
+
+#### Lead: Allen Antoine, Stephanie Baker, Carol Fletcher & Joshua Childs
+
+CEDI consists of in-service educators who are historically underrepresented in CS that will work within a community of practice as together they deepen their CS content knowledge, pedagogical skills, and equitable strategies — and receive support to obtain their CS teacher certification. Funded by the National Science Foundation (NSF #1837602) and Microsoft, the CEDI program recruits educators who identify with historically underrepresented student populations to become certified high school CS teachers. The NSF has identified the following groups as historically underrepresented in CS: women, persons with disabilities, Blacks and African Americans, Hispanics, American Indians, Alaska Natives, Native Hawaiians, and Pacific Islanders.
+
+[Learn more about CEDI](/education/educators/research/cedi/)
+
+### CS Equity Deep Dive
+
+#### Lead: Jayce Warner & Stephanie Baker
+
+CS Equity Deep Dive is a research project funded by a Google Computer Science Education Research (CS-ER) award that examines the factors that are associated with access to and participation in computing in middle and high school, as well as the relationship between secondary enrollment in CS and postsecondary outcomes. The study merges K-12 and college-level data from the Texas Education Research Center, the Stanford Education Data Archive, and the National Student Clearinghouse for over 3 million students to take an in-depth look at the correlates and consequences of disparities in students' access to and participation in computing education.
+
+### Quantifying Disparities in CS Education
+
+#### Lead: Jayce Warner & Carol Fletcher
+
+The purpose of this project is to identify effective methods for measuring inequities in CS education. One metric developed out of this project is the [disparity indexopens in a new window](https://vimeo.com/545193033), which can be used to quantify disparities between student subgroups in a way that makes for more accurate comparisons of inequities across populations of different sizes.
+
+### Motivation to Teach Computer Science (MTCS) Scale
+
+#### Lead: Nicole Martin
+
+The MTCS scale was developed to understand why teachers chose to teach computer science (CS). Grounded in self-determination theory, the scale characterizes teachers' motivation to teach CS on a continuum from external to increasingly internal motivation. The MTCS scale consists of 18 items with Likert-type response options, and results from factor analyses show that the scale has internal reliability and construct validity. This measure can be used by researchers and practitioners to investigate the motivations of CS teachers and use that understanding to strengthen CSEd by addressing challenges related to recruiting, preparing, and retaining teachers.
+
+### ScIP (Scaling Inclusive Pedagogy)
+
+#### Lead: Nicole Martin, Allen Antoine, & Carol Fletcher
+
+The goal of the ScIP project is to support more equitable and inclusive classroom environments so that all students, especially those from marginalized communities, build a sense of belonging and identity in computer science (CS). ScIP aims to provide K-12 teachers with equity-focused professional learning experiences so they are equipped to embrace diversity and focus on equitable access to, participation in, and experiences of CS in their schools and classrooms. The hybrid professional learning course, Strategies for Effectiveand Inclusive CS Teaching, is designed for cohorts of teachers to complete together, and ScIP also hosts facilitator trainings to offer the course at scale to teaches across the country.
+
+[Learn more about ScIPopens in a new window](https://utakeit.tacc.utexas.edu/effective-strategies-V2/)
+
+### Resources
+
+### Texas Computer Science Data Dashboard
+
+The Texas Computer Science Data Dashboard provides an in-depth look at the state of K-12 computer science education data in Texas through an interactive data platform. Users can explore maps, graphs, and other visualizations to examine trends in computer science education over time at the state, region, district, or school level.
+
+[Explore Dashboardopens in a new window](https://public.tableau.com/app/profile/epic.dashboard/viz/TexasComputerScienceEducationData/CSProfile)
+
+### AWSM Strategies for Inclusive Computer Science Classrooms
+
+Created to connect teachers with instructional materials designed to broaden participation in computer science, this document outlines five research-backed strategies for inclusive computer science classrooms and provides recommended resources for each strategy.
+
+[Explore Strategiesopens in a new window](https://docs.google.com/document/d/1au6RsGbS1rN6-rBobHl2G_7ag5QHRSGvyOSGM9Dr47o/edit)

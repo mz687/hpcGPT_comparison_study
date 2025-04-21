@@ -1,0 +1,23 @@
+This module provides an introduction to concepts of visualization with a focus on parallel computing techniques to handle large datasets.
+It should clarify some of the choices you have when configuring visualization tools such as ParaView for use on Stampede2 or Frontera.
+
+##### Objectives
+
+After you complete this workshop, you should be able to:
+
+* Describe the technical concepts of visualization
+* Explain how visualization can be parallelized in order to process and debug large datasets
+  on distributed machines such as Stampede2 and Frontera using [ParaView](/ParaView/).
+
+##### Prerequisites
+
+* A basic understanding of computer graphics (at the coordinates/polygon level)
+* Some elements of this topic refer to [ParaView](http://www.paraview.org/);
+  this topic and the [ParaView topic](https://cvw.cac.cornell.edu/Paraview/) could be read in parallel
+
+##### Requirements
+
+* Have a [TACC Portal](https://portal.tacc.utexas.edu/) username.
+  Readers without a username should Create a [TACC User Portal account](https://portal.tacc.utexas.edu/account-request).
+* Have an allocation on one or more TACC resources.
+  Visit [TACC's Allocation Guide](https://portal.tacc.utexas.edu/allocations-overview) to learn about obtaining a resource allocation.

@@ -1,0 +1,30 @@
+Tux, the Linux penguin. Source: Wikipedia
+
+Linux is a powerful operating system that includes a multitude of tools for programmers and system administrators. It is a robust, stable, and flexible operating system that can be tailored to run on a variety of hardware — from phones to supercomputers. Linux is widely used in academic and scientific communities because it is so versatile and includes over 40 years of scientific tools development.
+
+This tutorial is intended for the beginning Linux user and should help you get acquainted with some basic principles of the Linux operating system. There is also a wealth of free information about Linux available online — and in several books — so this will not be a comprehensive tutorial, but rather a starting point to help you begin using Linux comfortably.
+This roadmap focuses on features that are relevant to the scientific communities utilizing Linux-based [ACCESS resources](https://operations.access-ci.org/).
+However, it may also be useful to other beginning Linux or Unix users in the academic or scientific communities and beyond.
+
+##### Objectives
+
+After you complete this workshop, you should be able to:
+
+* Describe the Linux operating system
+* Explain why Linux is useful in scientific computing
+* List ways to get command line help in Linux
+* Demonstrate issuing commands in a shell
+* Demonstrate editing files
+* Explain how to connect to remote servers and transfer files
+* Explain how to create and manage accounts with permissions
+
+##### Prerequisites
+
+There are no prerequisites for this course.
+
+##### Requirements
+
+System requirements include:
+
+* Access to Linux is necessary to work through the exercises. It is available as a free download from the developer site or other sites dedicated to distributing Linux.
+* These exercises will work on most other Linux systems. In this workshop, the exercises were run on [Stampede2](https://www.tacc.utexas.edu/systems/stampede2); you will need an [allocation on Stampede2](/environment/basic-access/allocation) to run the exercises there.

@@ -1,0 +1,92 @@
+1. [Home](/)
+2. [About](/about/)
+3. [Staff Directory](/about/staff-directory/)
+4. James Carson
+
+# James Carson
+
+## Life Sciences Computing Directorate
+
+Phone: **512-475-9411** | Email: **[jcarson@tacc.utexas.edu](mailto:jcarson@tacc.utexas.edu)**
+
+James investigates the spatial organization of biological signals. Research includes: inventing computational approaches for mapping the spatial distribution of genes in organs; modeling the relationship between shape and function of the lung across species; and developing tools for real-time imaging and data analysis using high performance computing. James has multidisciplinary training at Rice University and Baylor College of Medicine that spans engineering, computer science, biology, and medicine. He joined TACC in 2013 after spending time at the Department of Energy's Pacific Northwest National Laboratory. At TACC, James continues work to strengthen the interactions between high performance computing and life science research.
+
+### Selected Publications
+
+"Imaging Nicotine in Rat Brain Tissue Using Nanospray Desorption Electrospray Ionization Mass Spectrometry," Lanekoff I, Thomas M, Carson JP, Smith JN, Timchalk C, Laskin J, Analytical Chemistry, Vol. 85, No. 2, pp. 882-9 (2013).
+
+"Detecting Radiation-Induced Injury Using Rapid 3D Variogram Analysis of CT Images of Rat Lungs," Jacob RE, Murphy MK, Creim JA, Carson JP, Academic Radiology, Vol. 20, No. 10, pp. 1264-71 (2013).
+
+"Dynamic Multiscale Boundary Conditions for 4D CT of Healthy and Emphysematous Rats," Jacob RE, Carson JP, Thomas M, Einstein DR, PLoS ONE, Vol. 8, No. 6, e65874 (2013).
+
+"In Situ Casting and Imaging of the Rat Airway Tree for Accurate 3D Reconstruction," Jacob R, Colby S, Kabilan S, Einstein D, Carson JP, Experimental Lung Research, Vol. 39, No. 6, pp. 249-57 (2013).
+
+"A Bidirectional Coupling Procedure Applied to Multiscale Respiratory Modeling," Kuprat AP, Kabilan S, Carson JP, Corley RA, Einstein DR, Journal of Computational Physics, Vol. 244, pp. 148-67 (2013).
+
+"Automated Foot-bone Registration using Subdivision-embedded Atlases for Spatial Mapping of Bone Mineral Density," Liu L, Commean PK, Hildebolt C, Prior F, Carson JP, Kakadiaris I, Ju T, Journal of Digital Imaging, Vol. 26, No. 3, pp. 554-62 (2013).
+
+"An Efficient Algorithm for Mapping Imaging Data to 3D Unstructured Grids in Computational Biomechanics," Einstein DR, Kuprat AP, Jiao X, Carson JP, Einstein DM, Jacob RE, Corley RA, International Journal for Numerical Methods in Biomedical Engineering, Vol. 29, No. 1, pp. 1-16 (2013).
+
+"Velo and REXAN - Integrated Data Management and High Speed Analysis for Experimental Facilities," Kleese van Dam K, Carson JP, Corrigan AL, Einstein DR, Guillen ZC, Heath BS, Kuprat AP, Lanekoff IT, Lansing CS, Laskin J, Li D, Liu Y, Marshall MJ, Miller EA, Orr G, Pinheiro da Silva P, Ryu S, Szymanski CJ, and Thomas M. In 8th IEEE International Conference on EScience. Chicago, Illinois (2012).
+
+"Detecting Distance between Injected Microspheres and Target Tumor via 3D Reconstruction of Tissue Sections," Carson JP, Kuprat AP, Colby SM, Davis CA, Basciano CA, Greene K, Feo JT, Kennedy A, in IEEE International Conference of the Engineering in Medicine and Biology Society (EMBS), San Diego, California, pp. 1149-52 (2012).
+
+"Phase-Contrast MRI and CFD Modeling of Apparent 3He Gas Flow in Rat Pulmonary Airways," Minard KR, Kuprat AP, Kabilan S, Jacob RE, Einstein DR, Carson JP, Corley RA, Journal of Magnetic Resonance, Vol. 221, pp. 129-38 (2012).
+
+"Comparative Computational Modeling of Airflows and Vapor Dosimetry in the Respiratory Tracts of Rat, Monkey and Human," Corley RA, Kabilan S, Kuprat AP, Carson JP, Minard KR, Jacob RE, Timchalk C, Glenny RW, Pipavath S, Cox TC, Wallis C, Larson R, Fanucchi M, Postlewai E, Einstein DR, Toxicological Sciences, Vol. 128, No. 2, pp. 500-16 (2012).
+
+"High resolution lung airway cast segmentation with proper topology suitable for computational fluid dynamic simulations," Carson JP, Einstein DR, Minard KR, Fanucchi MV, Wallis CD, Corley RA, Computerized Medical Imaging and Graphics, Vol. 34, No. 7, pp. 372-8 (2010).
+
+"Adaptive Generation of Multimaterial Grids from imaging data for Biomedical Lagrangian Fluid-Structure Simulations," Carson JP, Kuprat AP, Jiao X, Dyedov V, del Pin F, Guccione JM, Ratcliffe MB, Einstein DR, Biomechanics and Modeling in Mechanobiology. Vol. 9, No. 2, pp. 187-201 (2010).
+
+"Subdivision meshes for organizing spatial bio-medical data," Ju T, Carson J, Warren J, Bello M, Kakadiaris I, Methods, Vol. 50, No. 2, pp. 70-6 (2010).
+
+"Comparison of histological methods to discern mild emphysema in smoke-exposed mice," Jacob RE, Carson JP, Gideon K, Lee M, Shapiro S, Kobayashi D, Amidan B, Smith C, PLoS ONE, Vol. 4, No. 8, Art. e6670 (2009).
+
+"Regulatory Pathway Analysis by High-Throughput in situ Hybridization," Visel A, Carson J, Oldekamp J, Warnecke M, Jakubcakova V, Zhou X, Shaw C, Alvarez-Bolado G, Eichele G, PLoS Genetics, Vol. 3, No. 10, Art. e178 (2007).
+
+"Learning-based Segmentation Framework for Tissue Image Containing Gene Expression Data," Bello M, Ju T, Carson J, Warren J, Chiu W, Kakadiaris I, IEEE Transactions in Medical Imaging, Vol. 26, No. 5, pp. 728-44 (2007).
+
+"A Digital Atlas Strategy to Characterize the Mouse Brain Transcriptome," Carson JP, Ju T, Lu H-C, Thaller C, Xu M, Pallas SL, Crair MC, Warren J, Chiu W, Eichele G, PLoS Computational Biology, Vol. 1, No. 4, Art. e41 (2005).
+
+"Building 3D Surface Networks from 2D Curve Networks with Application to Anatomical Modeling," Ju T, Warren J, Carson J, Eichele G, Thaller C, Chiu W, Bello M, Kakadiaris I, The Visual Computer, Vol. 21, pp. 764-773 (2005).
+
+"A Method for Automated Detection of Gene Expression Required for the Establishment of a Digital Transcriptome-wide Gene Expression Atlas," Carson JP, Eichele G, Chiu W, Journal of Microscopy, Vol. 217, pp. 275-81 (2005).
+
+"A Transcriptome Atlas of the Mouse Brain at Cellular Resolution," Carson JP, Thaller C, Eichele G, Current Opinions in Neurobiology, Vol. 12, No. 5, pp. 562-5 (2002).
+
+### Current Projects
+
+University of Texas Research Cyberinfrastructure (UTRC)
+
+CyVerse
+
+Development of sytems informatics tools to accelerate livestock genomics
+
+Dynamic changes in the chick developing heart in response to altered hemodynamics
+
+### Education
+
+**Ph.D. Structural and Computational Biology & Molecular Biophysics**  
+
+Baylor College of Medicine, Houston, TX
+
+**B.S. & M.E.E., Electrical Engineering**  
+
+Rice University, Houston, TX
+
+### Areas of Research
+
+Computation Biology
+
+Image Informatics
+
+### Memberships
+
+American Association for the Advancement in Science
+
+Institute of Electrical and Electronics Engineers
+
+Engineers in Medicine and Biology Society
+
+Biomedical Engineers Society

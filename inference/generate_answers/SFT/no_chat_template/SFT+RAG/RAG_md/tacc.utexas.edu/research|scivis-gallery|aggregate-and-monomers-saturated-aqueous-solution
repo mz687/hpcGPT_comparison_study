@@ -1,0 +1,32 @@
+1. [Home](/)
+2. [Research](/research/)
+3. [SciVis Gallery](/research/scivis-gallery/)
+4. Aggregate and Monomers in Saturated Aqueous Solution
+
+# Aggregate and Monomers in Saturated Aqueous Solution
+
+### Science Behind the Image
+
+Numerous membrane-less organelles (i.e. dense, liquid-like droplets) exist in eukaryotic cells and they afford spatial and temporal modes of cellular regulation through the functional organization or assembly of DNA, RNA, and protein constituents. Pathological changes in the properties of these liquid-like droplets towards more static, fibrous aggregates are thought to underlie the progression of neurodegenerative diseases. A fundamental understanding of the biophysical mechanisms that drive ‘normal', or non-pathological, phase separation is a critical first step towards understanding how they are altered in disease states. We have been particularly interested in the physicochemical properties of the protein backbone (i.e. the chemical scaffold common to all proteins) and the role these properties play in protein-mediated phase separation. Molecular dynamics simulations of a model protein backbone system in a super-saturated solution allows us to probe or investigate these properties at atomic resolution. The accompanying figure is a snapshot from such a simulation performed on Stampede2 and captures the approach of free polypeptides as they phase separate from solution to form liquid-like droplets.
+
+### Visualization Behind the Image
+
+The image scene was staged using VMD and rendered using the Tachyon Ray Tracer with ambient light occlusion. A semi-transparent surface representation encapsulates the liquid-like droplet and the individual protein backbone model components can be seen within as van Der Waals spheres colored by atom types.
+
+### Authors
+
+#### TACC
+
+Justin Drake  
+
+Anne Bowen
+
+---
+
+#### UT Medical Branch Galveston
+
+Monte Pettitt
+
+### The Journal of Physical Chemistry
+
+[Physical Chemistry of the Protein Backbone: Enabling the Mechanisms of Intrinsic Protein Disorder](https://pubs.acs.org/toc/jpcbfk/124/22)

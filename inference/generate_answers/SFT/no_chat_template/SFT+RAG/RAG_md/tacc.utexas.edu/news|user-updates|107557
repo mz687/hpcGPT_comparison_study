@@ -1,0 +1,19 @@
+1. [Home](/)
+2. [News](/news/)
+3. [User Updates](/news/user-updates/)
+4. December Texascale Days
+
+# December Texascale Days
+
+* by 
+  Matthew Edeker
+* Published 
+  November 25, 2024
+
+Frontera will be reserved for Texascale Days, very large scale runs of at least half system size (3500 - 4096 nodes) or full system size (7000 - 8192 nodes), during the second week of December after the Frontera Maintenance on December 10th.   
+This event allows our researchers the opportunity to work on problems that may not be possible at the smaller scale. To be eligible to participate on Frontera, your application must have already successfully run on at least 2,048 nodes in the "large" queue on Frontera. For access to the Frontera "large" queue, please submit a ticket with scaling data.  
+On the first day of Texascale Days, Wednesday, December 11th, 2 hour blocks will be available for large-scale benchmarking efforts rather than production runs. The other days will be set aside for production runs. On these days, each project will have dedicated access to the number of nodes requested for a 24 hour period starting at 10:00 AM CST.   
+To request for participation, please fill out and submit the form (Texascale Days Submission Form URL) before COB December 4th.   
+Texascale Form: <https://forms.gle/Zrd27HrNK68PXJzJ9>  
+Please submit any question you may have through the TACC Consulting System or feedback form.   
+<https://tacc.utexas.edu/portal/tickets>

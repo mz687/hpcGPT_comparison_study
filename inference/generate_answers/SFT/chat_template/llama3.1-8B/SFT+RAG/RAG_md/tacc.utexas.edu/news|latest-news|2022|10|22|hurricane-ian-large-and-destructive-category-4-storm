@@ -1,0 +1,59 @@
+1. [Home](/)
+2. [News](/news/)
+3. Latest News
+
+*List*
+
+*Grid*
+
+# Hurricane Ian: A Large and Destructive Category 4 Storm
+
+## Q&A with Carola Kaiser, Coastal Emergency Risks Assessment (CERA) Storm Surge and Flood Web Mapping Visualization, Louisiana State University
+
+* by[Faith Singer](/news/latest-news/author/faith/)
+
+* Oct. 21, 2022
+
+* [Q&A](/news/latest-news/category/qa/)
+
+share this:
+
+Hurricane Ian made landfall three times — when the eye moves over land — which made for an unusual and severe storm.
+
+Ian became the 37th major hurricane — a designation reserved for storms of Category 3 intensity or greater — to ever strike the state of Florida, and just the 15th rated at Category 4 or higher.
+
+At 150 mph, Ian's landfall wind speed in Florida ties for the fifth strongest on record in the United States. It ties for the fourth-highest landfall speed on record in Florida. Storm surge as high 10 feet was reported, and up to 15 feet is expected once all the water levels are recorded.
+
+The Texas Advanced Computing Center (TACC) talked with Carola Kaiser of Louisiana State University's Center for Computation and Technology about Hurricane Ian. She's the team lead of the [Coastal Emergency Risks Assessment (CERA) Storm Surge and Flood Web Mapping Visualization Tool](https://cera.coastalrisk.live/) at Louisiana State University (LSU).
+
+### Q: Tell us about your background.
+
+I've been working in the field of scientific visualization of hurricanes since 2005. My expertise is software development, management, and maintenance of the Coastal Emergency Risks Assessment (CERA) website for emergency managers.
+
+### Q: How would you characterize Hurricane Ian? What made this storm unique?
+
+The hurricane season 2022 started slow, and Hurricane Ian developed pretty late calendar-wise (the peak of the Atlantic hurricane season is September 10). Ian originated from a tropical wave that moved off the coast of Africa and travelled across the Atlantic Ocean towards the Windward Islands. Once the tropical system moved into the Caribbean Sea and later into the Gulf of Mexico, it steadily continued to strengthen, becoming a severe and strong storm. The storm made landfall three times — first in Cuba, then coming to the Florida region, and it was strong enough to cross over and gain strength again and land in the Carolinas.
+
+### Q: At what point do you and the overall team start getting into action?
+
+We start monitoring the [National Hurricane Center (NHC)](https://www.nhc.noaa.gov/)website and several forecast sites with the beginning of hurricane season on June 1, so we're always aware of what's going on. Many severe storms start off the coast of Africa as a tropical wave — it can take up to two weeks until they reach the United States. The NHC monitors those weather systems constantly and issues tropical outlooks four times a day during the hurricane season. When the NHC comes up with an "area of investigation," we get on higher alert. Our team, which consists of experts from several universities and companies, then comes together and we decide what approach to take depending on where the storm is located and what path is projected.
+
+### Q: What was your role with Hurricane Ian?
+
+As the lead of CERA, I operated the automated visualization workflow of the mapping system during Hurricane Ian. This website delivered hundreds of maps to emergency managers, first responders, and flood managers on a nationwide level. We work in close collaboration with the ADCIRC Surge Guidance System (ASGS) [team](https://coastalrisk.live/how-it-works/), which develops a software package to automate the ADCIRC software on HPC systems. During Hurricane IAN, the ASGS provided hundreds of simulations on supercomputers. The results of the simulations are fed to CERA, where they are converted into a map and annotated with useful information.
+
+### Q: What supercomputing resources did you use? How did they help solve the problems at hand?
+
+We used supercomputing resources from TACC, the [Louisiana State University High Performance Computing Center (LSU HPC)](http://www.hpc.lsu.edu/), and the [Louisiana Optical Network Initiative (LONI)](https://hpc.loni.org/).
+
+Once the ASGS system completed the simulations, the automated process fed the data into the CERA visualization tool. The tool displays storm surge, flood, wind, and wave information from coastal ocean and inland flooding models. For Hurricane Ian, we had more than 90,000 unique users viewing the data on the CERA website, including emergency managers, first responders, and experts from FEMA, Department of Transportation, and many other agencies.
+
+We relied heavily on [TACC's Lonestar6 supercomputer](//tacc.utexas.edu/systems/lonestar6/) for this storm — we ran the models for 10 days around the clock. Without TACC, we would have not been able to perform in such an excellent way, and we are very thankful for the access to the systems and the great support.
+
+### Q: What type of work occurs after the hurricane weakens?
+
+Our main work takes place during the storm by delivering real-time model results. However, very often the peak of the flooding occurs only after the storm had made landfall, and it takes several days for the water to recede. So, 1-2 days after the storm dies, we provide a "hindcast." This is a model run that collects the entire history of the storm and provides the maximum values of the storm surge, wave activity, and wind speed. Emergency managers and flood managers use this model run right after the storm, but also by insurance companies, local officials, and the research community at a later time. Users can download the data in several data formats and browse through the storm history on the CERA website during and after the storm – this is the real value.
+
+### Q: Where can people find the results?
+
+We're providing storm surge modeling results for Hurricane Ian (and many other storms) via the [CERA website](https://cera.coastalrisk.live/).

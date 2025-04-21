@@ -1,0 +1,47 @@
+1. [Home](/)
+2. [Research](/research/)
+3. [TACC Research](/research/tacc-research/)
+4. Scalable and Efficient I/O for Distributed Deep Learning
+
+# Scalable and Efficient I/O for Distributed Deep Learning
+
+### Purpose
+
+This project enables scalable and efficient I/O for distributed deep learning training in computer clusters with existing hardware/software stack.
+
+### Overview
+
+Emerging Deep Learning (DL) applications introduce heavy I/O workloads on computer clusters. The inherent long lasting, repeated, high volume, and highly concurrent random file access pattern can easily saturate the metadata and data service and negatively impact other users. In this project, we try to design a transient runtime file system that optimizes DL I/O on existing hardware/software stacks.
+With a comprehensive I/O profile study on real world DL applications, we implemented FanStore. FanStore distributes datasets to the local storage of compute nodes, and maintains a global namespace. With the techniques of function interception, distributed metadata management, and generic data compression, FanStore provides a POSIX-compliant interface with native hardware throughput in an efficient and scalable manner. Users do not have to make intrusive code changes to use FanStore and take advantage of the optimized I/O. Our experiments with benchmarks and real applications show that FanStore can scale DL training to 512 compute nodes with over 90% scaling efficiency.
+
+### Impact
+
+* FanStore dramatically enhances existing clusters' capability of distributed deep learning without hardware or system software change.
+* Besides the well-known ImageNet-based Convolutional Neural Network training, we enable another two real world scientific applications using FanStore, which were prohibitive in computer clusters due to the I/O traffic. The first application is enhancing neural image resolution using super resolution generative adversarial network (SRGAN). It comes with ~600 GB image data and is implemented with TensorLayer, TensorFlow, and Horovod software stack. The second application is predicting disruptions of plasma disruptions using fusion recurrent neural network (FRNN). It trains with 1.7 TB text data and is implemented with TensorFlow and MPI.
+* The impact of FanStore is way beyond the applications used in the study, it is beneficial for almost all deep learning applications that have the datasets in POSIX files.
+
+### Contributors
+
+**Zhao Zhang**  
+
+Research Associate
+
+**Lei Huang**  
+
+Research Associate
+
+**John Cazes**  
+
+Deputy Director Of High Performance Computing
+
+**Niall Gaffney**  
+
+Director of Data Intensive Computing
+
+### Publications
+
+Zhang, Zhao, Lei Huang, Uri Manor, Linjing Fang, Gabriele Merlo, Craig Michoski, John Cazes, and Niall Gaffney. "FanStore: Enabling Efficient and Scalable I/O for Distributed Deep Learning." arXiv preprint arXiv:1809.10799 (2018).
+
+### Funding Source
+
+Base funding

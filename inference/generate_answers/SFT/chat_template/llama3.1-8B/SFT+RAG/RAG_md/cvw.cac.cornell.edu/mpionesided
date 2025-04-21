@@ -1,0 +1,32 @@
+One-sided communication methods were added to MPI as a part of the MPI-2 improvements and were greatly expanded in MPI-3 by including support for shared memory windows, windows with dynamically attached memory, request-based communication calls, and more window locking mechanisms. On Stampede2 and Frontera, the one-sided communication methods implemented in the Intel MPI and MVAPICH2 libraries use the Remote Direct Memory Access (RMA or RDMA) functionality provided by low-latency interconnect fabrics such as Omni-Path and InfiniBand. In this roadmap, we will introduce the various components of MPI RMA and how to use them.
+
+All exercises and examples are verified to work on [Stampede2](https://www.tacc.utexas.edu/systems/stampede2) and [Frontera](https://www.tacc.utexas.edu/systems/frontera).
+
+This is the ***fifth of five*** related roadmaps in the Cornell Virtual Workshop that cover MPI. To see the other roadmaps available, please visit the complete [roadmaps list](/roadmaps).
+
+##### Objectives
+
+After you complete this roadmap, you should be able to:
+
+* Identify basic concepts of one-sided communication in MPI programming
+* Define the term one-sided communication
+* Explain how RMA improves data transfer events
+* Identify the three RMA communication calls supported by MPI
+* Define the target\_rank and target\_datatype identifiers
+* Demonstrate synchronizing MPI processes
+* List important considerations when using RMA calls
+* Demonstrate use of dynamically allocated memory
+* Explain the need for creating windows with shared memory
+
+##### Prerequisites
+
+* A basic knowledge of parallel programming and MPI. Information on these prerequisites can be found in other topics ([Parallel Programming Concepts and High-Performance Computing](/parallel/intro/index), [MPI Basics](/mpi/intro/index)).
+* Ability to program in a high-level language such as [Fortran](/fintro/intro/index) or [C](/cintro/intro/index).
+* [MPI Collective Communications](/mpicc/intro/index) logically precedes this roadmap but is not a prerequisite.
+
+##### Requirements
+
+System requirements include:
+
+* A TACC to login to Stampede2 or Frontera
+* A computation [allocation](/environment/allocation/index) for Stampede2 or [Frontera](https://www.tacc.utexas.edu/systems/frontera)

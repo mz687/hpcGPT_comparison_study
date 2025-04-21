@@ -1,0 +1,23 @@
+This roadmap presents basic concepts and techniques that will allow your application to take advantage of parallel I/O to increase throughput and improve scalability. The parallel I/O software stack is introduced from the hardware level on up. Emphasis is placed on the Lustre parallel file system, and on MPI-IO as a fundamental API for enabling parallel I/O. These are the building blocks of typical HPC software stacks, including those available on the HPC systems at [TACC](https://www.tacc.utexas.edu/).
+
+##### Objectives
+
+After you complete this roadmap, you should be able to:
+
+* Demonstrate using MPI-IO (or a library built on top of it) as the interface to a parallel file system such as Lustre
+* Explain how MPI-IO interoperates with the file system to enhance I/O performance for distributed-memory applications, especially those with heavy file-I/O demands
+
+##### Prerequisites
+
+This roadmap assumes that the reader has basic knowledge of Linux shell commands, parallel programming, and MPI. Coverage of these prerequisites can be found in the [Shells](/linux/shells/index) topic plus the roadmaps on [Parallel Programming Concepts and High-Performance Computing](/parallel) and [MPI Basics](/mpi).
+
+Programming experience in C or Fortran is also recommended. Introductory roadmaps on [C](/cintro) and [Fortran](/fortran-intro) are available, though the reader will need to look elsewhere for a full tutorial on these languages.
+
+In sequence, this roadmap logically follows the [MPI Advanced Topics](/mpiadvtopics) roadmap, but the latter is not a prerequisite.
+
+##### Requirements
+
+The examples and exercises in this roadmap are designed to run on [Stampede3](https://docs.tacc.utexas.edu/hpc/stampede3/) or [Frontera](https://www.tacc.utexas.edu/systems/frontera). To use these systems, you need:
+
+* A TACC account to login to Stampede2 or Frontera
+* A compute time allocation for Stampede2 or Frontera

@@ -1,0 +1,53 @@
+1. [Home](/)
+2. [News](/news/)
+3. Latest News
+
+*List*
+
+*Grid*
+
+# Frontera-supported Protein Design Nets Chemistry Nobel Prize
+
+## Supercomputer simulations help laureate David Baker dream up new medicines
+
+* by[Jorge Salazar](/news/latest-news/author/jorge/)
+
+* Oct. 10, 2024
+
+* [Feature Story](/news/latest-news/category/feature-story/)
+
+* [Frontera](/news/latest-news/tag/frontera/)
+
+share this:
+
+The Nobel Prize in Chemistry 2024. TACC has long supported David Baker's pioneering work in developing methods for using computers to predict how proteins fold. Credit: The Royal Swedish Academy of Sciences.
+
+The Royal Swedish Academy of Sciences has awarded the 2024 Nobel Prize in Chemistry to three scientists, with one half of the prize to David Baker (University of Washington) “for computational protein design” and the other half jointly to Demis Hassabis and John M. Jumper (both at Google DeepMind) “for protein structure prediction.”
+
+Illustration: Proteins developed using Baker’s program Rosetta. Credit: ©Terezia Kovalova/The Royal Swedish Academy of Sciences.
+
+The Baker lab developed the Rosetta software for ab initio ('from scratch') structure prediction of small proteins in the early 2000s, using the National Science Foundation (NSF) -supported Protein Data Bank library as a knowledge base for its first protein structure design algorithms and later protein design tools — for which Baker's portion of the Nobel Prize is being awarded.
+
+David Baker (University of Washington), recipient of the Nobel Prize in Chemistry 2024.
+
+The Texas Advanced Computing Center (TACC) of UT Austin has long supported Baker's pioneering work in developing methods for using computers to predict how proteins fold, whereby their shape reveals important reactive properties such as electrostatic potential and hydrophobicity.
+
+In 2020, the Baker Lab was awarded allocations on TACC's [Stampede2](//tacc.utexas.edu/systems/stampede2/) to calculate the shape of millions of proteins using Rosetta for further testing in the lab, as well as computationally test how well the designed proteins can dock to targets such as the COVID-19 spike protein.
+
+Referring to the urgent computing process of quickly designing and testing new therapies for rapidly evolving diseases such as SARS-CoV-2, Baker said that "...centers like TACC will play a critical role in this effort as they do in scientific research generally."
+
+More recently, Baker and colleagues at the Institute for Protein Design he heads [published](https://doi.org/10.1038/s41467-023-38328-5) work in Nature Communications May 2023 that acknowledged support by TACC's [Frontera](//tacc.utexas.edu/systems/frontera/), the most powerful academic supercomputer in the U.S.
+
+In it Baker's team used Frontera for deep learning -- a method in artificial intelligence that mimics how the human brain works -- to augment existing energy-based physical models in ‘do novo’ or from-scratch computational protein design, resulting in a 10-fold increase in success rates verified in the lab for binding a designed protein with its target protein.
+
+Deep learning methods developed on Frontera have been used to augment existing energy-based physical models in ‘do novo’ or from-scratch computational protein design, resulting in a 10-fold increase in success rates verified in the lab for binding a designed protein with its target protein. The results will help scientists design better drugs against diseases like cancer and COVID-19. Credit: DOI: 10.1038/s41467-023-38328-5.
+
+Baker was awarded a Pathways [allocation](https://frontera-portal.tacc.utexas.edu/allocations/) on NSF-funded Frontera, utilizing 382,000 node hours for his protein design research.
+
+"Protein design holds transformative potential to address societal challenges by enabling the discovery of once unimaginable structures," said NSF Director Sethuraman Panchanathan. "Decades of federal investments in fundamental research and infrastructure, combined with industry innovation, have yielded tools that significantly impact everyday life. Baker’s work continues to break new ground — as he recently received 5,000 hours of computing time on NSF’s Frontera supercomputer through the NSF-led National AI Research Resource pilot — to create even more advanced biological models."
+
+The Frontera (top), Stampede2 (left), and Lonestar6 (right) supercomputers of the Texas Advanced Computing Center. Credit: TACC.
+
+What's more, Baker has collaborated with TACC and the Defense Advanced Research Projects Agency (DARPA) in developing data-driven ways to accelerate design and discovery in research areas where predictive models don't yet exist as part of the Synergistic Discovery and Design ([SD2E](https://www.sd2e.org/)) project.
+
+Said Baker: "TACC is making an important contribution toward the creation of a whole new world of designed proteins to address current day challenges."

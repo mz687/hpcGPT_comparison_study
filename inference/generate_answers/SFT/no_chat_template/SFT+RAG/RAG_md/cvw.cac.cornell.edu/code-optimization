@@ -1,0 +1,22 @@
+There are a few simple things one can do in one's code to make the most of typical computing resources, up to and including high performance computing (HPC) resources. This roadmap covers basic aspects of code optimization that can have a big impact, as well as common performance pitfalls to avoid. The roadmap also explains the main features of microprocessor architecture and how they relate to the performance of compiled code.
+
+##### Objectives
+
+After you complete this roadmap, you should be able to:
+
+* Explain aspects of computer hardware that affect the performance of numerical codes, such as caches, registers, vector processors, and the memory hierarchy
+* Demonstrate applying practical knowledge such as HPC libraries and compiler optimization flags
+* Provide examples of effective use of the memory hierarchy
+* List the limitations of compilers and how to address them
+
+##### Prerequisites
+
+This roadmap assumes only that the reader has some basic familiarity with programming in any language. The HPC languages C and Fortran are used in examples. Necessary concepts are introduced as one progresses through the roadmap.
+
+In parallel programming, the key consideration for optimizing large-scale parallel performance is the scalability of a code's algorithm(s). Therefore, readers who are developing parallel applications may want to peruse the roadmap for [Scalability](/scalability) first.
+
+More advanced references on performance optimization include the Virtual Workshop roadmaps on [Profiling and Debugging](/profiling) and [Vectorization](/vector). For those interested in programming for advanced HPC architectures, such as TACC's clusters built with Intel processors, the roadmap [Case Study: Profiling and Optimization on Advanced Cluster Architectures](/knlcase) is relevant. The present roadmap should make a good starting point for diving into any of those.
+
+##### Requirements
+
+* There are no specific requirements for this roadmap.

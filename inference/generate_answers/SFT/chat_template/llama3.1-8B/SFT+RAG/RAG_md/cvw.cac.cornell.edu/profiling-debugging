@@ -1,0 +1,41 @@
+This roadmap will introduce profiling and debugging,
+two techniques for performing analysis of the runtime behavior of an application. Effective use of profiling and debugging techniques
+requires a basic understanding of system-level details related to compiling, linking, storing, and running executables, which this roadmap will discuss.
+
+Profiling and debugging have different goals. Profiling focuses on characterizing the performance of an application, while debugging focuses on diagnosing faults. In particular, [Debugging](/profiling-debugging/debugging/index):
+
+* Helps one find defects, analyze failures, and analyze expected program flow.
+* Inspects and modifies the state of a running program, or performs post-mortem analysis of failures via inspecting memory dumps.
+* Is harder in parallel applications.
+
+...while [Profiling](/profiling-debugging/profiling/index):
+
+* Measures performance characteristics, helping to identify areas for performance improvement.
+* Collects performance measurements of a running program, analyzes results afterward.
+* Is harder in parallel applications.
+
+Profiling and debugging tools and techniques
+for parallel applications will be discussed along with a survey of profiling and debugging tools available on
+[Frontera](https://www.tacc.utexas.edu/systems/frontera/) at [TACC](https://www.tacc.utexas.edu/).
+
+##### Objectives
+
+After you complete this roadmap, you should be able to:
+
+* Apply ad-hoc ("printf") and symbolic debugging techniques at runtime
+* Perform basic debugging steps with `gdb`
+* Describe the advantages of using a debugging tool such as DDT (for parallel codes)
+* Enhance code performance through detailed performance profiling
+* Distinguish between instrumentation and statistical sampling
+* Demonstrate function-level profiling with `gprof`
+* Identify the kinds of events tracked by PAPI
+* Demonstrate profiling an MPI application with TAU
+* Explain the difference between profiling and tracing
+
+##### Prerequisites
+
+This roadmap presumes a basic knowledge of Linux/Unix. Although specific programming knowledge is not required, it will provide significantly enhanced context and understanding. Most of the tools presented apply equally well to C, C++, and Fortran. The roadmap is not constructed with any of these languages specifically in mind.
+
+##### Requirements
+
+Most of the content in this roadmap is applicable to any Linux- or Unix-based system where GNU software is installed. Specific instructions are given for TACC systems, especially Frontera; however, these instructions can easily be tailored to different systems as well.

@@ -1,0 +1,32 @@
+1. [Home](/)
+2. [Research](/research/)
+3. [SciVis Gallery](/research/scivis-gallery/)
+4. Desalination Membranes to Maximize Flow, Clean More Water
+
+# Desalination Membranes to Maximize Flow, Clean More Water
+
+### Science Behind the Image
+
+This 3D model of a polymer desalination membrane shows water—the silver channels moving from top to bottom—avoiding dense spots in the membrane and slowing flow.
+
+Researchers from Iowa State, Penn State, and UT Austin found that creating a uniform membrane density down to the nanoscale of billionths of a meter is crucial for maximizing the performance of reverse-osmosis, water-filtration membranes. Their discovery was published online by the journal Science and was the cover paper of the Jan. 1, 2021, print edition.
+
+Working with Penn State's transmission electron microscope measurements of four different polymer membranes used for water desalination, the Iowa State engineers used TACC supercomputers to predict water flow through 3D models of the membranes, allowing detailed comparative analysis of why some membranes performed better than others.
+
+The researchers concluded that the key to better desalination membranes is figuring out how to measure and control at very small scales the densities of manufactured membranes. Manufacturing engineers and materials scientists need to make the density uniform throughout the membrane, promoting water flow without sacrificing salt removal.
+
+### Visualization Behind the Image
+
+The Science cover image was created by Greg Foss, a visualization expert and artist at TACC, in collaboration with the Iowa State researchers. Foss also contributed to the manuscript illustrations. This visualization was generated using ParaView (Kitware, Inc.) and OSPRay (Intel, Inc.) without additional post-processing. This visualization realizes the promise of high-fidelity visualization: putting "cover quality" rendering in the tools used for immediate analysis, providing a single environment for exploratory analysis through final production render (i.e. no need to post-process in Maya, Blender, etc). The image was created running on TACC's Frontera and Stampede2 HPC systems.
+
+### Authors
+
+#### TACC
+
+Greg Foss
+
+---
+
+#### Iowa State University
+
+Baskar Ganapathysubramanian Research Group

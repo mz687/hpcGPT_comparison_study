@@ -1,0 +1,46 @@
+1. [Home](/)
+2. [Systems](/systems/)
+3. Stampede2
+
+# Stampede2
+
+**Stampede2 queues are now closed. The Stampede2 login nodes remain accessible so that you may continue to transfer data to [Stampede3](/systems/stampede3/). See the new [Stampede3 User Guide](https://docs.tacc.utexas.edu/hpc/stampede3/) — [Migrating Data](https://docs.tacc.utexas.edu/hpc/stampede3/#migrating) and [Allocations](https://docs.tacc.utexas.edu/hpc/stampede3/#intro-allocations) sections — for further information. (01/31/2024)**
+
+## A Single Virtual System That Scientists Can Use To Interactively Share Computing Resources, Data, And Expertise
+
+TACC's Stampede2 is the flagship supercomputer of the [Advanced Cyberinfrastructure Coordination Ecosystem: Services & Support (ACCESS)](https://access-ci.org/). Stampede2 was deployed by TACC in conjunction with vendor partners Dell Inc., Intel Corporation, and Cray Inc., and is operated by a team of cyberinfrastructure experts at TACC, UT Austin, Clemson University, Cornell University, the University of Colorado at Boulder, Indiana University, and Ohio State University.
+
+Stampede2 provides HPC capabilities to thousands of researchers across the U.S. The system entered full production in Fall 2017 as an 18 petaflop system that builds on the successes of the original Stampede cluster it replaced.
+
+Stampede2 is funded by the National Science Foundation (NSF) through award [ACI-1540931](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1540931).
+
+### Stampede2 to Stampede3 Transition
+
+TACC announced the [Stampede3 supercomputer in July 2023](https://tacc.utexas.edu/news/latest-news/2023/07/24/taccs-new-stampede3-advances-nsf-supercomputing-ecosystem/). Below is a timeline of what to expect:
+
+#### Timeline
+
+| November 2023 | Reduction in number of SKX/ICX nodes, reduction in queue maximums |
+| --- | --- |
+| November 2023 | Stampede3 file system available |
+| December 2023 | Stampede2 file system decommissioned |
+| January 2024 | Early user period for Stampede3 |
+| April 2024 | Stampede3 in full production |
+
+### System Specifications
+
+The system features 4,200 Knights Landing (KNL) nodes — the second generation of processors based on Intel's Many Integrated Core (MIC) architecture — and 1,736 Intel Xeon Skylake nodes.
+
+| Processors | Intel Knights Landing Intel Xeon Skylake |
+| --- | --- |
+| Cores/Node | 68 (Knights Landing) 48 (Skylake) |
+| Memory | 96GB DDR-3, 16GB MCRAM (Knights Landing) 192GB DDR-3 (Skylake) |
+| Peak Performance | 18PF |
+| File System | 2x Lustre file systems, storage capacity 31PB |
+| Network | 100 Gb/sec Intel Omni-Path, fat tree topology, six core switches |
+
+### User Guide
+
+Access full documentation on system architecture, software, new & advanced user information, best practices, and troubleshooting.
+
+[Stampede2 User Guide](https://docs.tacc.utexas.edu/hpc/stampede2)

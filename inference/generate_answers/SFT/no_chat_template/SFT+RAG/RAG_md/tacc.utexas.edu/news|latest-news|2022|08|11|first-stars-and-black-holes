@@ -1,0 +1,95 @@
+1. [Home](/)
+2. [News](/news/)
+3. Latest News
+
+*List*
+
+*Grid*
+
+# First Stars and Black Holes
+
+## Stampede2 supercomputer simulates star seeding, heating effects of primordial black holes
+
+* by[Jorge Salazar](/news/latest-news/author/jorge/)
+
+* Aug. 11, 2022
+
+* [Feature Story](/news/latest-news/category/feature-story/)
+* [Podcast](/news/latest-news/category/podcast/)
+
+share this:
+
+Supercomputer simulations have probed primordial black holes and their effects on the formation of the first stars in the universe. Black holes can help stars form by seeding structures to form around them through their immense gravity. They also hinder star formation by heating the gas that falls into them. Stampede2 simulations show these effects basically cancel each other out. Shown here is an artist's concept that illustrates a hierarchical scheme for merging black holes. Credit: LIGO/Caltech/MIT/R. Hurt (IPAC).
+
+Just [milliseconds](https://web.njit.edu/~gary/202/Lecture26.html) after the universe's Big Bang, chaos reigned. Atomic nuclei fused and broke apart in hot, frenzied motion. Incredibly strong pressure waves built up and squeezed matter so tightly together that black holes formed, which astrophysicists call primordial black holes.
+
+Did [primordial black holes](https://en.wikipedia.org/wiki/Primordial_black_hole) help or hinder formation of the universe's first stars, eventually born about 100 million years later?
+
+Supercomputer simulations helped investigate this cosmic question, thanks to simulations on the [Stampede2](//tacc.utexas.edu/systems/stampede2/) supercomputer of the Texas Advanced Computing Center (TACC), part of The University of Texas at Austin.
+
+Matter fields at the moment of cloud collapse (i.e. onset of star formation) as projected distributions of dark matter (top) and gas (bottom) in four simulations targeted at the same region but with different abundances of primordial black holes, measured by the parameter f\_PBH. Primordial black holes are plotted with black dots and the circles show the size of the structure that hosts the collapsing cloud. The data slice has a physical extent of 2000 light years and a thickness of 1000 light years. The age of the universe at the moment of collapse first decreases with f\_PBH for f\_PBH<0.001 when the "seeding" effect dominates. Then it increases from f\_PBH=0.001 to f\_PBH=0.01 and above as the "heating" effect becomes more important. Credit: Liu et al.
+
+"We found that the standard picture of first-star formation is not really changed by primordial black holes," said [Boyuan Liu](https://cns.utexas.edu/directory/item/11-astronomy/3378-liu-boyuan?Itemid=349), a post-doctoral researcher at the University of Cambridge. Liu is the lead author of computational astrophysics research [published](https://doi.org/10.1093/mnras/stac1472) August 2022 in the Monthly Notices of the Royal Astronomical Society.
+
+In the early universe, the standard model of astrophysics holds that black holes seeded the formation of halo-like structures by virtue of their gravitational pull, analogous to how clouds form by being seeded by dust particles. This is a plus for star formation, where these structures served as scaffolding that helped matter coalesce into the first stars and galaxies.
+
+However, a black hole also causes heating by gas or debris falling into it. This forms a hot accretion disk around the black hole, which emits energetic photons that ionize and heat the surrounding gas.
+
+And that's a minus for star formation, as gas needs to cool down to be able to condense to high enough density that a nuclear reaction is triggered, setting the star ablaze.
+
+"We found that these two effects – black hole heating and seeding – almost cancel each other out and the final impact is small for star formation," Liu said.
+
+Depending on which effect wins over the other, star formation can be accelerated, delayed or prevented by primordial black holes. "This is why primordial black holes can be important," he added.
+
+Liu emphasized that it is only with state-of-the-art cosmological simulations that one can understand the interplay between the two effects.
+
+Regarding the importance of primordial black holes, the research also implied that they interact with the first stars and produce gravitational waves. "They may also be able to trigger the formation of [supermassive black holes](https://en.wikipedia.org/wiki/Supermassive_black_hole). These aspects will be investigated in follow-up studies," Liu added.
+
+For the study, Liu and colleagues used cosmological hydrodynamic zoom-in simulations as their tool for state-of-the-art numerical schemes of the gravity [hydrodynamics](https://www.britannica.com/science/hydrodynamics-physics), chemistry and cooling in structure formation and early star formation.
+
+Volker Bromm, Department of Astronomy, UT Austin (left); Boyuan Liu, University of Cambridge (right).
+
+"A key effect of primordial black holes is that they are seeds of structures," Liu said. His team built the model that implemented this process, as well as incorporating the heating from primordial black holes.
+
+They then added a sub-grid model for black hole [accretion](https://en.wikipedia.org/wiki/Accretion_(astrophysics)) and feedback. The model calculates at each timestep how a black hole accretes gas and also how it heats its surroundings.
+
+"This is based on the environment around the black hole known in the simulations on the fly," Liu said.
+
+"Supercomputing resources in computational astrophysics are absolutely vital," said study co-author [Volker Bromm](http://www.as.utexas.edu/~vbromm/), professor and chair, Department of Astronomy, UT Austin.
+
+Bromm explained that in theoretical astrophysics, the ruling paradigm for understanding the formation and evolution of cosmic structure is to use [ab initio](https://en.wikipedia.org/wiki/Ab_initio) simulations, which follow the ‘playbook' of the universe itself – the governing equations of physics.
+
+The simulations use data from the universe's initial conditions to high precision based on observations of the cosmic microwave background. Simulation boxes are then set up that follow the cosmic evolution timestep by timestep.
+
+But the challenges in computational simulation of structure formation lie in the way large scales of the universe – millions to billions of light years and billions of years – mesh with the atomic scales where stellar chemistry happens.
+
+"The microcosm and the macrocosm interact," Bromm said.
+
+> Supercomputers are enabling unprecedented new insights into how the universe works.
+> Volker Bromm, UT Austin
+
+"TACC and XSEDE resources have been absolutely vital for us to push the frontier of computation astrophysics. Everyone who is at UT Austin – faculty members, postdocs, students – benefits from the fact that we have such a premier supercomputing center. I'm extremely grateful," Bromm added.
+
+"If we look into one typical structure that can form the first stars, we need around one million elements to fully resolve this halo or structure," Liu said. "This is why we need to use supercomputers at TACC."
+
+Liu said that using Stampede2, a simulation running on 100 cores can complete in just a few hours versus years on a laptop, not to mention the bottlenecks with memory and reading or writing data.
+
+"The overall game plan with our work is that we want to understand how the universe was transformed from the simple initial conditions of the Big Bang," explained Bromm.
+
+The structures that emerged from the Big Bang were driven by the dynamical importance of dark matter.
+
+The nature of dark matter remains one of the biggest mysteries in science.
+
+TACC's Stampede2 supercomputer.
+
+The clues of this hypothetical yet unobservable substance are undeniable, seen in the impossible rotational speeds of galaxies. The mass of all the stars and planets in galaxies like our Milky Way do not have enough gravity to keep them from flying apart. The ‘x-factor' is called dark matter, yet laboratories have not yet directly detected it.
+
+However, gravitational waves have been detected, first by LIGO in 2015.
+
+"It is possible that primordial black holes can explain these gravitational wave events that we have been detecting over the past seven years," Liu said. "This just motivates us."
+
+Said Bromm: "Supercomputers are enabling unprecedented new insights into how the universe works. The universe provides us with extreme environments that are extremely challenging to understand. This also gives motivation to build ever-more-powerful computation architectures and devise better algorithmic structures. There's great beauty and power to the benefit of everyone."
+
+---
+
+The study, "Effects of stellar-mass primordial black holes on first star formation," was published August 2022 in the Monthly Notices of the Royal Astronomical Society. The study authors are Boyuan Liu, Saiyang Zhang, and Volker Bromm of the University of Texas at Austin. Liu is now at the University of Cambridge.

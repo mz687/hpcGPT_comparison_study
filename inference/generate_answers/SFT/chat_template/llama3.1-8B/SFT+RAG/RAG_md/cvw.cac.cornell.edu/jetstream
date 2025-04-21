@@ -1,0 +1,34 @@
+[Jetstream2](https://jetstream-cloud.org/)
+is a user-friendly cloud computing
+environment for researchers that is based on [OpenStack](https://www.openstack.org/software/)
+and [Exosphere](https://gitlab.com/exosphere/exosphere).
+It is designed to provide configurable cyberinfrastructure
+that gives you access to interactive computing and data analysis resources on demand,
+whenever and wherever you want to analyze your data.
+This roadmap covers the basic knowledge that you need to make productive use of Jetstream2,
+including how to access Jetstream2, create and manage instances and volumes, log in to instances, and transfer files.
+
+##### Objectives
+
+After you complete this workshop, you should be able to:
+
+* Understand which types of projects are well-suited to Jetstream2
+* Understand the basic architecture of Jetstream2
+* Be able to access Jetstream2, create instances and volumes, log on to an instance, and manage instances
+* Be able to transfer files to and from Jetstream2 instances
+
+##### Prerequisites
+
+This roadmap assumes no prior knowledge of cloud computing or Jetstream2.
+
+##### Requirements
+
+To perform the steps outlined in this roadmap you will need:
+
+* An [ACCESS](https://access-ci.org/) User ID, which may be obtained from the
+  [ACCESS User Registration page](https://identity.access-ci.org/new-user).
+* An ACCESS allocation.
+  ACCESS provides [complete information](https://allocations.access-ci.org/) about its allocations,
+  while Jetstream2 provides [an overview](https://docs.jetstream-cloud.org/alloc/overview/)
+  of the types of allocations that are available,
+  with links to detailed information about allocations in the context of Jetstream2.

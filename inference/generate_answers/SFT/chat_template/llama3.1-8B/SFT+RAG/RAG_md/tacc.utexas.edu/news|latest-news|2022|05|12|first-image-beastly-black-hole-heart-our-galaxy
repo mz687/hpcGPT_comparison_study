@@ -1,0 +1,68 @@
+1. [Home](/)
+2. [News](/news/)
+3. Latest News
+
+*List*
+
+*Grid*
+
+# First Image of the Beastly Black Hole at the Heart of Our Galaxy
+
+## Frontera supercomputer supports milestone in astrophysics, computational science
+
+* by[Aaron Dubrow](/news/latest-news/author/adubrow/)
+
+* May 12, 2022
+
+* [Feature Story](/news/latest-news/category/feature-story/)
+
+* [Frontera](/news/latest-news/tag/frontera/)
+
+share this:
+
+The first direct image of Sagittarius A\*, the black hole at the center of the Milky Way. Credit: Event Horizon Collaboration/National Science Foundation
+
+As astronomers look out at the distant cosmos, it's only natural that they would also look inward, to the center of our own galaxy, the Milky Way.
+
+Today, the [Event Horizon Telescope](https://eventhorizontelescope.org/) announced the first image of Sagittarius A\*, the supermassive black hole at the center of the Milky Way. The view past the clouds of gas and dust revealed a black hole that is hot, dense, and quickly changing, with a ring of superheated gas around its dark center.
+
+"We were stunned by how well the size of the ring agreed with predictions from Einstein's Theory of General Relativity," said EHT Project Scientist Geoffrey Bower from the Institute of Astronomy and Astrophysics, Academia Sinica, Taipei. "These unprecedented observations have greatly improved our understanding of what happens at the very center of our galaxy and offer new insights on how these giant black holes interact with their surroundings."
+
+The EHT team's results were published today in a special issue of [*The Astrophysical Journal Letters*](https://iopscience.iop.org/journal/2041-8205/page/Focus_on_First_Sgr_A_Results).
+
+The image was made possible through an innovative, data-driven approach to astronomy that combines observations from eight radio telescopes around the world to form an Earth-scale interferometer, the Event Horizon Telescope, or EHT, specifically to probe black holes.
+
+The work was supported by the [Frontera](https://frontera-portal.tacc.utexas.edu/) supercomputer at the Texas Advanced Computing Center (TACC), the National Science Foundation's flagship system. Since 2021, a Large-Scale Community Partnership allocation let EHT-affiliated scientists compute on the most powerful supercomputer in academia. The analysis in paper five utilized nearly 80 million CPU hours on the NSF Frontera supercomputer.
+
+In 2019, the research team, made up of more than 300 researchers from 80 institutes around the world, made history when they revealed the image of the black hole at the center of [Messier 87 (M87)](https://www.nsf.gov/discoveries/disc_summ.jsp?cntn_id=302354), one of the brightest and most massive galaxies in the local universe. The effort was awarded the [2020 Breakthrough Prize in Physics](https://breakthroughprize.org/News/54).
+
+Sagittarius A\* is more than 1,000 times smaller than M87, but it is 2,000 times closer, making it roughly the same scale if seen from the Earth. The observations of Sagittarius A\* were taken at the same time as M87 but required far longer to analyze. Because it is much smaller — only 10 light minutes across — the brightness and pattern of the gas around Sagittarius A\* was changing rapidly as the EHT Collaboration was observing it, making it much harder to produce a clear picture.
+
+> "This image is a testament to what we can accomplish, when as a global research community, we bring our brightest minds together to make the seemingly impossible, possible."
+> Sethuraman Panchanathan, NSF Director
+
+Working in tandem with the observation and data analysis teams were groups of researchers developing computer models of what they anticipated the EHT would see. The models represent the known physics of black holes and include the role of general relativity (GR) in their dynamics. They also incorporate magnetohydrodynamics (MHD), the magnetic behavior of plasmas, which is known to play a large role in the event horizon, accretion disk, and jets — all important and notable features of black holes.
+
+The team used supercomputers to create the largest-ever simulation library of black holes. By comparing these realistic models with observations, researchers were able to probe the physics of these extreme objects more completely than with either method alone.
+
+The community modeling effort was led by [Chi-kwan "CK" Chan](https://news.arizona.edu/story/making-sense-nonsensical-black-holes-and-simulation-library) (University of Arizona), [Charles Gammie](https://physics.illinois.edu/people/directory/profile/gammie) (University of Illinois at Urbana-Champaign), and [Christian Fromm](https://www.uni-wuerzburg.de/en/news-and-events/news/detail/news/neues-computermodell-fuer-schwarze-loecher-1/) (Würzburg University).
+
+"The accreting flow around the galactic center black hole is complex," said Chan. "Advanced computing systems like Frontera allow us to use cutting-edge computational science methods to model these complex systems, study the boundaries between order and chaos, and understand what we are seeing with the Event Horizon Telescope."
+
+Charles Gammie, Professor of Physics at the University of Illinois at Urbana-Champaign, and his team are one of the main developers of the GRMHD code and key contributors to the project.
+
+"We produced a multitude of simulations and compared them to the data. The upshot is that we have a set of models that explain almost all of the data," Gammie said. "It's remarkable because it explains not only the Event Horizon data, but data taken by other instruments. It's a triumph of computational physics."
+
+For the first time, researchers were able to run the GRMHD models up to 30,000 gravitational timescales (with some models even running up to 100,000) in order to produce enough data to compare to the faster-moving source. The researchers believe this number of rotations is necessary to represent a black hole that has been evolving for billions of years as our galaxy's has.
+
+After the GRMHD simulations, the researchers used Frontera, the [Open Science Grid](https://opensciencegrid.org/), and [CyVerse](https://cyverse.org/) to render physically accurate images and predict how our galaxy's black hole might appear from the vantage point of Earth. Many of these images closely matched the observations from EHT, giving added confidence to the team's results.
+
+This animation shows theoretical models of the black hole at the center of our galaxy. The Event Horizon Telescope (EHT) Theory Working Group built hundreds of models and then compared them one-by-one to measurements made by the EHT and other telescopes. The animation shows a build up as more and more models are added to the library, and then a cut-down as they are eliminated by comparison to the data. The final image shows a high resolution image of our best-bet model, which features a spinning black hole surrounded by a strongly magnetized plasma, seen nearly face-on. Visualization credit: Ben Prather, University of Illinois at Urbana-Champaign. Image library credit: EHT Theory Working Group.
+
+Beyond confirming observations, these high-performance computing-powered models provide a deep understanding on how Sagittarius A\* is shaped by its plasma environment, says Chan.
+
+"By comparing these high-performance computing models and images with the observations, researchers pinned down the plasma properties around Sagittarius A\* and performed a new test of Einstein's General Theory of Relativity in the strong gravity regime," he said.
+
+The success of the project is spawning further studies to explore several unanswered mysteries, such as how Sagittarius A\* changes over time and what is its spin? Future research will create movies of M87 and Sagittarius A\* in motion, the team said. It will also probe the small discrepancies between computer models and observations, notably the variability of Sagittarius A\*, which will need more complete computational models to fully understand, Gammie said.
+
+"This image is a testament to what we can accomplish, when as a global research community, we bring our brightest minds together to make the seemingly impossible, possible," [said NSF Director Sethuraman Panchanathan](https://www.nsf.gov/news/news_summ.jsp?cntn_id=305148). "NSF is proud to be an international partner that invests in this innovative research and the infrastructure that makes such fantastic discoveries possible."

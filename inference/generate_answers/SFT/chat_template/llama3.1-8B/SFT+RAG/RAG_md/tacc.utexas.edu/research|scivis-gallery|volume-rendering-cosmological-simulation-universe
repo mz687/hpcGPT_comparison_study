@@ -1,0 +1,26 @@
+1. [Home](/)
+2. [Research](/research/)
+3. [SciVis Gallery](/research/scivis-gallery/)
+4. Volume Rendering of a Cosmological Simulation of the Universe
+
+# Volume Rendering of a Cosmological Simulation of the Universe
+
+### Science Behind the Image
+
+This is an image from a cosmological simulation of the Universe performed by the Enzo multi-physics hydrodynamics code. Enzo is used to study the physical processes present in the evolution of the cosmos. To learn more, read [Ray Tracing the Cosmos](https://texascale.org/2019/visualizing-science/ray-tracing-cosmos/) by Texascale.
+
+### Visualization Behind the Image
+
+The visualization was performed using a modified version of the yt open source data analysis and visualization package. The yt-project grew out of the Enzo community to satisfy a need to visualize and analyze the large data resulting from the Enzo simulations. Collaborators at TACC and the National Center for Supercomputing Applications (NCSA) modified the yt framework to utilize a ray tracing back end called GraviT to perform volume rendering of the adaptive mesh refinement data. This image shows a volume rendering of density in which the color and opacity are mapped to the density distribution.
+
+### Authors
+
+#### TACC
+
+Dave Semeraro
+
+---
+
+#### National Center for Supercomputing Applications (NCSA)
+
+Matthew Turk

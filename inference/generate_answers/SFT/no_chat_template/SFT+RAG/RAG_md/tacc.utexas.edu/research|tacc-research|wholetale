@@ -1,0 +1,41 @@
+1. [Home](/)
+2. [Research](/research/)
+3. [TACC Research](/research/tacc-research/)
+4. WholeTale
+
+# WholeTale
+
+### Purpose
+
+The WholeTale is creating a cyberinfrastructure to capture the "whole tale" of data driven computational research in an easy to use web-based environment. By capturing the input data, processing and analysis steps, and the final data products, the three can be published along with any research publication to allow others to reproduce results or expand upon other's findings directly.
+
+### Impact
+
+Modern data driven computational research has led to many major discoveries, from gravitational waves to better understanding genetic properties of plants and animals. It has even lead to the publication of not only results, but the publication of the data behind these discoveries. It has also lead to a reproducibility gap, where even with the publication and data, a significant number of results cannot be reproduced.
+
+WholeTale aims to solve this problem not only for those in fields with established computational research practices but also for the "long tale" of researchers just starting to leverage these powerful tools. In this environment, users can bring together data from multiple data repositories and from their own environment and analyze it using a suite of hosted tools.
+
+These tools range from Jupyter Notebooks to user contributed applications. All tools are built in containers, to enable the preservation and publication of the entire compute environment. All data, containers, scripts, and results are preserved within WholeTale and can be shared with individuals or with all users. Published tales are discoverable by all users, allowing others to learn and build upon the work held within WholeTale.
+
+Finally, Tales can be published into archivable packages to be delivered to a repository, where a Digital Object Identifier (DOI) can be created for this permanent research artifact that can then in turn be associated with published papers, to solve the reproducibility issues faced by nearly all fields of research.
+
+### Contributors
+
+**Niall Gaffney**  
+
+Director of Data Intensive Computing  
+
+Co-Principal Investigator
+
+### Related Links
+
+* [WholeTale](http://wholetale.org)
+* [WholeTale Github Repository](https://github.com/whole-tale/)
+
+### Publications
+
+Computing environments for reproducibility: Capturing the “Whole Tale” – DOI: [10.1016/j.future.2017.12.029](https://doi.org/10.1016/j.future.2017.12.029)
+
+### Funding Source
+
+[NSF, 1541450, "CC\*DNI DIBBS: Merging Science and Cyberinfrastructure Pathways: The Whole Tale"](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1541450)

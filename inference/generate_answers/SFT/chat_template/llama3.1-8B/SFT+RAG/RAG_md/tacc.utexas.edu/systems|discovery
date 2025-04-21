@@ -1,0 +1,26 @@
+1. [Home](/)
+2. [Systems](/systems/)
+3. Discovery
+
+# Discovery
+
+**Discovery has been decommissioned and is no longer available.**
+
+## Testbed Cluster
+
+Discovery is a testbed for benchmarking and evaluating new hardware. Discovery has primarily been supported by Dell and Intel in conjunction with the Dell Benchmarking center at TACC. Discovery's hardware changes frequently (often monthly) as new platforms, processors, and other technologies become available.
+
+As of late 2015, one of the most exciting components of the Discovery is a partition of the system where TACC is bringing up and evaluating its first installation of the Intel "Omni-Path" interconnect.
+
+**Technology Partners:** Dell and Intel funded project
+
+### System Specifications
+
+| * Multiple Dell servers with variety of processors, including Intel Sandy Bridge, Ivy Bridge, Haswell * Testing Intel Omni-Path hardware |
+| --- |
+
+### Currently Running on Discovery
+
+Learn more about Intel's new Omni-Path network architecture.
+
+[Intel® HPC Technologies](https://www.intel.com/content/www/us/en/high-performance-computing/overview.html)

@@ -1,0 +1,43 @@
+1. [Home](/)
+2. [Research](/research/)
+3. [SciVis Gallery](/research/scivis-gallery/)
+4. Spinning Star
+
+# Spinning Star
+
+### Science Behind the Image
+
+Solar and stellar observations reveal diverse and vibrant manifestations of magnetic activity, including the dramatic eruptions known as flares and coronal mass ejections. Yet, elucidating the origins of solar and stellar magnetism is a formidable task, requiring an understanding of the subtle nonlinear interplay between turbulent convection and rotation on a vast range of spatial and temporal scales.
+
+### Visualization Behind the Image
+
+Facing this complexity requires sophisticated modeling and visualization on high-performance computing platforms. These images were made from a simulation of a rapidly spinning star with mass similar to our sun. The images show a cross section through the turbulent convection zone where rapid rotation distorts the convection patterns, forming elongated flow structures that play an essential role in the generation of the magnetic field. Such structures exhibit intense vorticity, swirling columns of plasma that wrap up and amplify magnetic fields. These 3D views allow scientists to identify and characterize the type of structures that may exist in turbulent stellar interiors, which are important to investigating energy transport. TACC staff built the animation with VisIt on Longhorn and the Ranger supercomputer as a computation resource. Several variables were modeled and combined in different ways over the course of the project to end up with: 1) velocity, 2) radial component of velocity modeled as a scalar colored with enstrophy; and 3) the radial component velocity colored by negative and positive values showing upwelling and downwelling. Users Ben Brown (University of Wisconsin at Madison) and Mark Miesch (University Corporation for Atmospheric Research) are investigating energy transfer.
+
+### Authors
+
+#### TACC
+
+Greg Foss  
+
+Greg Abram  
+
+Jo Wozniak
+
+---
+
+#### University of Wisconsin at Madison
+
+Ben Brown
+
+---
+
+#### University Corporation for Atmospheric Research
+
+Mark Miesch
+
+---
+
+#### University of Colorado
+
+Juri Toomre  
+Anelastic Spherical Harmonic

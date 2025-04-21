@@ -1,0 +1,20 @@
+This roadmap describes how to combine parallel programming techniques from MPI and OpenMP when writing applications for multi-node HPC systems, such as Frontera and Stampede3, and explains the motivation for doing so.
+
+##### Objectives
+
+After you complete this workshop, you should be able to:
+
+* List the principles that motivate a blend of shared- and distributed-memory parallel programming styles for multi-node HPC architectures
+* Demonstrate compiling and running advanced programs that combine MPI and OpenMP parallelization techniques on multi-node HPC systems
+
+##### Prerequisites
+
+* You should have some basic working knowledge of [MPI](/MPI/) and [OpenMP](/OpenMP/), at the level of the Cornell Virtual Workshop topics on Message Passing Interface (MPI) and OpenMP.
+* You should also be familiar with common Linux shell commands, in bash, csh, or similar; otherwise, try working through the [Linux](/Linux/) topic first.
+
+##### Requirements
+
+System requirements include:
+
+* A TACC or ACCESS account to log on to a TACC HPC system
+* A computation [allocation](/frontera/intro/allocations) for a TACC HPC system

@@ -1,0 +1,16 @@
+1. [Home](/)
+2. [News](/news/)
+3. [User Updates](/news/user-updates/)
+4. Change to Service Unit Charging
+
+# Change to Service Unit Charging
+
+* by 
+  Mark Brueschke
+* Published 
+  September 19, 2024
+
+Dear TACC Community,   
+Starting Tuesday, October 1st, we will be implementing a new policy regarding how short-duration jobs are charged on our systems. All jobs which start will be charged a minimum of 0.25 SUs per node regardless of actual runtime. This is equivalent to 15 minutes of runtime. This change be will applied to all TACC resources.   
+We understand that large jobs will be the most affected and encourage users to do thorough testing at smaller node counts before increasing the size of their jobs in order to reduce the impact of this change.   
+Thank you for your cooperation and understanding.  If you have any questions about this change, please submit a ticket: <https://tacc.utexas.edu/portal/tickets>

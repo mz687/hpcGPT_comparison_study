@@ -1,0 +1,35 @@
+MATLAB is a programming and numeric computing platform used to analyze data, develop algorithms and create models.
+This roadmap includes topics that provide a basic introduction to MATLAB,
+discuss how to write MATLAB code that can be compiled for speed,
+and offer tips on getting the best performance out of MATLAB.
+
+The example code in these topics was run and verified using MATLAB 2017a through 2021a.
+Most of it (outside of Mex and other FFI examples) should also work with slight modifications in GNU Octave.
+
+##### Objectives
+
+After you complete this workshop, you should be able to:
+
+* Write compiled "mex" functions in MATLAB.
+* Describe the steps to use MATLAB on a computing resource at
+  the [Texas Advanced Computing Center (TACC)](https://www.tacc.utexas.edu/).
+* Improve the performance and usefulness of your MATLAB code by applying numerous tips.
+
+##### Prerequisites
+
+* This tutorial assumes the reader has some prior experience using MATLAB
+  and familiarity with general programming concepts.
+  Introductory MATLAB materials can be found many places online, including those from
+  [Kelly Black](https://www.cyclismo.org/tutorial/matlab/),
+  [Kermit Sigmon](https://mathweb.ucsd.edu/~bdriver/21d-s99/matlab-primer.html),
+  and [MathWorks](https://www.mathworks.com/help/matlab/index.html?s_tid=hc_panel).
+* Many of the examples will also benefit from having some knowledge of
+  the [C programming language](../Cintro/).
+
+##### Requirements
+
+In order to try the examples presented in these topics, you must have access to a computer with MATLAB installed.
+A MATLAB license is required for the software to run,
+but [trial licenses](https://www.mathworks.com/campaigns/products/trials.html) are available.
+MATLAB is also often installed and licensed on high performance computing (HPC) systems,
+such as those at the [Texas Advanced Computing Center (TACC)](https://www.tacc.utexas.edu/).

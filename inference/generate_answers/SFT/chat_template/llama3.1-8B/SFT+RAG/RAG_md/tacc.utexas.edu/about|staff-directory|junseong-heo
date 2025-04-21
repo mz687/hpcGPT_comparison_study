@@ -1,0 +1,36 @@
+1. [Home](/)
+2. [About](/about/)
+3. [Staff Directory](/about/staff-directory/)
+4. Junseong Heo
+
+# Junseong Heo, Ph.D.
+
+## Storage Manager Advanced Computing Systems
+
+Email: **[jheo@tacc.utexas.edu](mailto:jheo@tacc.utexas.edu)**
+
+Junseong Heo has maintained his interest in HPC systems and have worked at TACC, Quantlab, NCAR and NICS. Issues on IO aspects of the HPC systems have provided him opportunities to explore parallel file systems like Lustre, Spectrum Scale and VAST. His primary focus has been operation and troubleshooting and he has not been active in research oriented publications.
+
+### Current Projects
+
+VAST integration for muti-protocol clients
+
+Performance measurement and replication of data sets across remote sites
+
+Design of exa-scale archival storage for upcoming HPC systems
+
+### Areas of Research
+
+Hierachical Storage Systems spanning multiple orders of bandwidth and latency
+
+Adaptive Monitoring tools tracing essential work flows while minimizing its own secondary data
+
+### Education
+
+**Ph.D., Physics**  
+
+Yale University
+
+**M.S., Physics**  
+
+Seoul National University

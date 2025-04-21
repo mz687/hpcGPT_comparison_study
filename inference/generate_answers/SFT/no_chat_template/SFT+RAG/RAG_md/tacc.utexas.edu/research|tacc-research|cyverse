@@ -1,0 +1,64 @@
+1. [Home](/)
+2. [Research](/research/)
+3. [TACC Research](/research/tacc-research/)
+4. CyVerse/iPlant
+
+# CyVerse
+
+### Purpose
+
+CyVerse is a 10-year, 100 million dollar NSF project to develop and operate computational resources in support of grand challenges in the life sciences. In partnership with the University of Arizona and Cold Spring Harbor Laboratory, TACC unifies seamless identity management, petascale storage, cloud and distributed computing, web service APIs with expertise in application and workflow optimization to provide national-scale foundational cyberinfrastructure and tools to life sciences researchers across the United States and internationally.
+
+### Overview
+
+How do we feed a growing world? The human population is increasing, while farmland decreases and food cultivation competes with fuel production. In addition, climate change and energy sustainability impact agriculture, ecology, and biodiversity. Developing solutions to these problems means understanding how the organisms that contribute to our food, fuels, and ecosystem are shaped by the interactions between their genetics and the environment. By enabling biologists to do data-driven science by providing them with powerful computational infrastructure for handling huge datasets and complex analyses, CyVerse fills a niche created by the computing epoch and a rapidly evolving world.
+
+* Established by the U.S. National Science Foundation (NSF) in 2008 to develop cyberinfrastructure for life sciences research and democratize access to U.S. supercomputing capabilities.
+* A virtual organization lead by The University of Arizona, Texas Advanced Computing Center, Cold Spring Harbor Laboratory, and University of North Carolina at Wilmington.
+* Developing the national cyberinfrastructure for data-intensive biology driven by high-throughput sequencing, phenotypic and environmental datasets.
+* Providing powerful extensible platforms for data storage, bioinformatics, image analyses, cloud services, APIs, and more.
+* Making broadly applicable cyberinfrastructure resources available across the life science disciplines (e.g., plants, animals, and microbes).
+
+To deliver the most useful tools and cyberinfrastructure for life science research today, CyVerse depends upon community input. CyVerse is of, by, and for the community; community-driven needs and requirements shape and focus CyVerse's mission. CyVerse relies on your feedback to provide the cyberinfrastructure you need most to advance your science.
+
+### Contributors
+
+**John Fonner, PhD**  
+
+Research Associate
+
+**Anne Bowen, PhD**  
+
+Research Engineering / Scientist Associate
+
+**James Carson, PhD**  
+
+Research Associate
+
+**Maria Esteva, PhD**  
+
+Research Associate
+
+**Chris Jordan**  
+
+Manager, Data Management & Collections
+
+**Dan Stanzione**  
+
+Executive Director
+
+**Joe Stubbs, PhD**  
+
+Research Engineering / Scientist Associate
+
+**Steve Terry**  
+
+Java Middleware and Web Developer
+
+**Weijia Xu, PhD**  
+
+Manager, Scalable Computational Intelligence
+
+### Related Links
+
+* [Tapis](https://tapis-project.org/)

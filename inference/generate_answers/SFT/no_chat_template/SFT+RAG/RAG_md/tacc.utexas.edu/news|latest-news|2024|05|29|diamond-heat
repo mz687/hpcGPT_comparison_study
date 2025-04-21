@@ -1,0 +1,78 @@
+1. [Home](/)
+2. [News](/news/)
+3. Latest News
+
+*List*
+
+*Grid*
+
+# Diamond Heat
+
+## Drastic changes in thermal conductivity of diamonds seen through simulations and machine learning using TACC’s Frontera supercomputer
+
+* by[Jorge Salazar](/news/latest-news/author/jorge/)
+
+* May 29, 2024
+
+* [Feature Story](/news/latest-news/category/feature-story/)
+
+* [Frontera](/news/latest-news/tag/frontera/)
+
+share this:
+
+An international team of scientists discovered using supercomputer simulations that by flexing diamond, its thermal conductivity can be drastically tuned up or down. The stability boundaries for the ε23–ε13–ε12 shear strain subspace shown colored by h. The regions in light green, blue, red/crimson correspond to 𝑘c of the “Δ”, “L”, “Γ” types, respectively. Credit: DOI: 10.1073/pnas.2313840121
+
+Diamond is the hardest material found in nature — diamond also has the highest thermal conductivity, allowing the most heat to flow through it rapidly.
+
+An international team of scientists discovered using supercomputer simulations that by flexing diamond, its thermal conductivity can be drastically tuned up or down. Scientists worldwide are interested in studying elastic strain engineering to discover the properties that materials exhibit when they are under large tensile or shear stresses.
+
+Findings like this could open the door for developing new microelectronic and optoelectronic devices such as computer chips, quantum sensors, communication devices, and more.
+
+Frank Shi (left) and Ju Li (right), Massachusetts Institute of Technology. Credit: MIT.
+
+“Our study demonstrates the framework for mapping the entire phonon stability boundary in six dimensional strain space, which can guide the engineering of materials through elastic strain engineering,” said Frank Shi, a former researcher in the Department of Nuclear Science and Engineering and the Department of Materials Science and Engineering at the Massachusetts Institute of Technology.
+
+Shi co-authored the study revealing diamond’s tunable thermal conductivity published in the Proceedings of the National Academy of Sciences in February 2024.
+
+Shi and colleagues developed a computational model calibrated against experimental data using neutron and X-ray scattering of undeformed diamond to determine physical properties of strained diamond such as phonon stability, phonon band structures, and phonon lifetimes.
+
+"By applying this framework, we found that the room-temperature lattice thermal conductivity of diamond can be increased or decreased by more than 90% through mechanical strains without inducing instabilities inside the material,” Shi added.
+
+Shi completed prior work in 2021 that carried out quantum mechanical calculations of diamond’s electronic band structure, which describes the energy of electrons and was important in constructing the lattice vibrational model.
+
+The scientific team was awarded an allocation on the National Science Foundation-funded Frontera supercomputer at the Texas Advanced Computing Center (TACC). They started with a Pathways allocation, later expanding to a Leadership Resource Allocation of up to five million node hours.
+
+“We used Frontera to generate the data from the large, six dimensional strain space, in addition to the three dimensional phonon band structure,” said study co-author Ju Li, professor of Materials Science and Engineering and the Battelle Energy Alliance Professor in Nuclear Engineering at MIT.
+
+Machine language (ML) workflow for phonon-related properties with strain information used as input. When adopting (A) feed-forward
+neural network models, the phonon stability can either be learned by directly fitting the onset of imaginary frequencies or analyzed from ML-predicted phonon band structure or density of state. The band structure, w(e;k;v), is treated as six separate bands. When (B) convolutional neural network (CNN) models are used, the direct ML target can be band structure or DOS. The band structure, w(e;k), is learned as a whole. The green, blue, and orange arrows indicate the procedural steps for learning band structure, DOS, and phonon stability, respectively. Credit: DOI: 10.1073/PNAS.2313840121.
+
+Li used Frontera to complete thousands of density functional theory calculations to determine the phonon band structure and phonon scattering properties as a function of strain tensor. Then they trained a DPU (data processing unit) network using machine learning to generate a nine dimensional response function for the model.
+
+“And with that, we are able to provide the vibrational properties and electronic properties of diamond for arbitrary strain in a fast-acting way,” Li added. “It's a much less expensive calculation now with the machine learning model. For the first time, we're able to fully delineate the six dimensional ‘ideal strain’ surface.
+
+According to Li, this work advances the concept of ideal strain, first proposed by Yakov Frenkel in 1926, which gives a ballpark number for simple shear, not accounting for the individual properties of the material.
+
+“With the Frontera supercomputer, we were able to make a navigation map of the elastic strain space which governs diamond’s phonon stability and thermal conductivity for the first time,” Li added.
+
+In laptops and cell phones, standard strain silicon technology is used to stretch the crystal lattice of the transistor by about one percent, which makes the electrons move faster in the silicon channel.
+
+“We are going up to 10 percent,” Li said. “And because it's a six dimensional space, if I increase the strain magnitude by a factor of 10, its parametric volume is bigger by a factor of a million in the elastic strain space. This is why we need a high powered computation to map the features.”
+
+Frontera, the fastest academic supercomputer in the U.S., is a strategic national capability computing system funded by the National Science Foundation.
+
+"The quantum mechanical calculations done on Frontera gave us the ground truth of these data so we could train a machine learning model," Shi added.
+
+Without machine learning, billions of calculations would be needed to model the substantial number of strain states
+
+“It saves us valuable computational time without sacrificing accuracy,” Shi said.
+
+This research fits into a larger scientific effort called the Materials Genome Initiative (MGI), a conceptual analog to the Human Genome Project that mapped out and sequenced genes in the human genome. The MGI integrates advanced modeling, computational and experimental tools, and quantitative data to speed up discoveries of advanced materials used in batteries, computer chips, and more.
+
+“The additional six strain degrees of freedom we studied gives us tremendous new freedoms,” Li said. The phonon vibrational properties are key for superconductivity, thermoelectric properties, and thermal conductivity.
+
+Li added that Frontera is a “tremendous” resource not only for research, but also for education and workforce development. “For my group, the system has helped me mentor interns from West Point from the ROTC students. They find it extremely easy to access and use,” Li said.
+
+It has been said many times that supercomputers help accelerate the materials science discovery process.
+
+“They enable us to use simulations to quickly iterate refined models based on new data and then explore different approaches to material design and finding,” Shi concluded. "This rapid cycle of hypothesis-testing quickens the transition from theoretical insights to practical applications. It's a significant and much needed paradigm for material scientists to conduct modern research.”

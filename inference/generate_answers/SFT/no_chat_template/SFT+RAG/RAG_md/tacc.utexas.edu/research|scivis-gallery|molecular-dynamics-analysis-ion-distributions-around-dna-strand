@@ -1,0 +1,28 @@
+1. [Home](/)
+2. [Research](/research/)
+3. [SciVis Gallery](/research/scivis-gallery/)
+4. Molecular Dynamics Analysis of Ion Distributions Around a DNA strand
+
+# Molecular Dynamics Analysis of Ion Distributions Around a DNA strand
+
+### Science Behind the Image
+
+The charged ions that surround DNA molecules can dramatically effect its conformation, folding, and dynamics. This visualization is from a Molecular Dynamics simulation of a DNA system where the electron density of the surrounding ions was critical to understanding how they might modulate the structure and interactions of the DNA double helix.
+
+### Visualization Behind the Image
+
+This visualization was produced as part of an ECSS (https://www.xsede.org/for-users/ecss) collaboration where TACC HPC researcher Antonio Gomez assisted Daniel Roe to significantly optimize the parallelization and parallel IO of the trajectory analysis CCPTRAJ subroutine of the Molecular Dynamics package AMBER. AMBER is one of the most widely used Molecular Dynamics packages at TACC, and this optimization effort reduced the time for analyses that required the CCPTRAJ subroutine from days to minutes. The image is a single snapshot from a 20000 time-step trajectory output from AMBER on stampede, and was rendered using the VMD Tachyon renderer.
+
+### Authors
+
+#### TACC
+
+Antonio Gomez  
+
+Anne Bowen
+
+---
+
+#### University of Utah
+
+Dan Roe

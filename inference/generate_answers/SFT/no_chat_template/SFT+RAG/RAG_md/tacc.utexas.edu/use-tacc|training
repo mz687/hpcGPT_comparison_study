@@ -1,0 +1,158 @@
+1. [Home](/)
+2. [Use TACC](/use-tacc/)
+3. Training
+
+# Training
+
+# 
+
+## TACC offers a variety of opportunities to learn about systems and software from domain experts.
+
+Join us at TACC to learn new skills and meet fellow researchers. TACC provides training for all skill levels, introductory to advanced. Learning opportunities include multi-day institutes, as well as in-person and online courses to meet the needs of researchers from around the world. We also make key sessions available on TACC's YouTube channel.
+
+**Byte Size Basics** – A collection of easily digestible discussions on a variety of training topics.
+
+### Upcoming Training
+
+DECEMBER 16–17, 2024
+
+#### [NHERI@UC San Diego User Training Workshop](https://www.designsafe-ci.org/learning-center/training/workshops/san-diego-ef/2024-user-training-workshop/)
+
+Annual in-person workshop including presentations, discussion sessions, and a tour of the NHERI@UC San Diego LHPOST6 facility.
+
+[Register](https://www.designsafe-ci.org/learning-center/training/workshops/san-diego-ef/2024-user-training-workshop/)
+
+FEBRUARY 5–7, 2025
+
+#### [NHERI Computational Symposium](https://simcenter.designsafe-ci.org/nheri-computational-symposium/2025/)
+
+Taking Next Steps Together: Simulating Natural Hazard Impacts from Local to Regional Scales
+
+[Register](https://simcenter.designsafe-ci.org/nheri-computational-symposium/2025/)
+
+JUNE 9–10, 2025
+
+#### [WeTeach\_CS Summit 2025](https://weteachcs.org/catalogue/weteach_cs-summit/2025/)
+
+Get ready to embark on an unforgettable journey for computer science education!
+
+[Register](https://weteachcs.org/catalogue/weteach_cs-summit/2025/)
+
+### TACC Training Highlights
+
+#### [Introduction to PETSc with Victor Eijkhout](https://youtu.be/4Y8g-DcTreY)
+
+PETSc provides a framework for the development of computational science codes. Its focus is on solving linear and nonlinear systems, but it is more than a collection of algorithms: it is a complete toolkit supporting parallel data structures, linear algebra, PDEs, meshes.
+
+[Watch Now](https://youtu.be/4Y8g-DcTreY)
+
+#### [Intro to the PyLauncher with Victor Eijkhout](https://youtu.be/-zIO8GY7ev8)
+
+The PyLauncher is a python-based parametric job launcher, that is, a utility for executing many small jobs in parallel.
+
+[Watch Now](https://youtu.be/-zIO8GY7ev8)
+
+#### [How to Submit and Cancel Jobs with Jack Gaither](https://youtu.be/sQhxNT4eg8I)
+
+Watch a demonstration of the proper use of the Slurm Workload Manager on TACC systems in this quick tutorial.
+
+[Watch Now](https://youtu.be/sQhxNT4eg8I)
+
+#### [How to SSH with Remy Scott](https://youtu.be/t24eHzULQ08)
+
+TACCster Remy Scott demonstrates how to SSH.
+
+[Watch Now](https://youtu.be/t24eHzULQ08)
+
+[*>* See All Past Training Videos](https://youtube.com/playlist?list=PLTP5tdFMXQ356cklXOHkVAXOLRlzQBqb6)
+
+### Previous Training
+
+JUNE 26–30, 2023
+#### [Machine Learning Institute](https://cvent.utexas.edu/bw42mA)
+
+At TACC ML Institute, we will walk you through the basics, state-the-of-art methods, modern tools, and hands-on exercises of machine learning and deep learning at supercomputer scale.
+
+[Register](https://cvent.utexas.edu/bw42mA)
+
+JUNE 12–16, 2023
+#### [BootUp/ReBoot @ TACC Institute](https://cvent.utexas.edu/event/5552f1b0-8d11-41bf-8ee9-3bc56dab2a09/summary)
+
+A dual boot camp focused on immersing you into the research life cycle, where you'll solve a computational scientific model, iteratively. Generate data, verify and validate the data, update the model, revisit the data... repeat until the model accurately predicts a real-life phenomenon. This is the research life cycle. Part training, part code-a-thon, part hackathon.
+
+[Register](https://cvent.utexas.edu/event/5552f1b0-8d11-41bf-8ee9-3bc56dab2a09/summary)
+
+May 25–26, 2023
+#### Machine Learning @ TACC
+
+The tutorial will help new users to get started with data-driven analysis on supercomputers.
+
+[Register](https://docs.google.com/forms/d/e/1FAIpQLSfhi-ZWGuaC-Yy3hX-wwYfTro9SbeMdU5DqzoB51ZEG2l6e4w/viewform)
+
+[*>* See All Past Training Videos](https://youtube.com/playlist?list=PLTP5tdFMXQ356cklXOHkVAXOLRlzQBqb6)
+
+## TACC Institute Series
+
+The TACC Institute series is designed to help researchers further their science through applied computational techniques. Our goal is to broaden the number of people who use advanced computing; whether it’s for research, industry, or as a facilitator, there is an institute designed with you in mind.
+
+Institutes are held on site at the Texas Advanced Computing Center and are in-person only. Meals provided. Detailed agendas will be posted when registration opens.
+
+### Machine Learning
+
+**October 29 - 30, 2024**
+
+*👤* In-Person
+
+From the basics to modern tools, TACC staff will explain the latest in machine learning, and guide participants through hands-on exercises of machine learning and deep learning at a supercomputing scale.
+
+* Fundamentals and theory of AI, machine learning (ML), and deep learning (DL) techniques with Python libraries including pytorch.
+* Running AI, ML, and DL workflows at scale on HPC systems.
+* A survey of advanced topics, including Large Language Models, Reinforcement Learning, and advanced visualization for AI.
+
+[Register](https://cvent.me/8eAVG0?rt=FpSHe3kNEkOfZ7PyGJ8WuA)
+
+### High Performance Computing and Scientific Visualization
+
+**July 8–12, 2024**
+
+*👤* In-Person
+
+* MPI, CUDA, OpenMP, and a variety of other HPC topics with hands-on labs using TACC resources.
+* Introductory and advanced courses.
+* Connect with HPC experts to discuss algorithms, implementations, programming models, and more.
+* Hands-on exploration of basic techniques using the parallel visualization package Paraview.
+
+[Register](https://cvent.utexas.edu/29NlZ5)
+
+### TACC HPC Leadership Institute
+
+**September 16–18, 2024**
+
+*👤* In-Person
+
+The High Performance Computing (HPC) Leadership Institute is specifically tailored to managers and decision makers who are using, or considering using, HPC within their organizations. It is also applicable to those with a real opportunity to make this career step in the near future. Topics covered will include:
+
+* Procurement considerations.
+* Pricing and capital expenditures.
+* Operating expenditures.
+* Cost/benefit analysis of adding HPC to a company's or institution's R&D portfolio.
+
+[Register](https://web.cvent.com/event/9126219b-610e-4562-9560-159221308b65)
+
+### What to Expect
+
+Instruction on the latest tools, topics, and trends in advanced computing.
+
+Hands-on experiences and guided exercises.
+
+Presentations on the application of advanced computing technologies from TACC researchers, users, and partners.
+
+Opportunities to network with TACC research staff and other attendees.
+
+### Certificate of Attendance
+
+Attendees to TACC Institutes will receive a certificate of attendance with their name, the title of the institute and the dates of the program.
+
+### Cost
+
+The cost of Institutes includes the use of TACC resources, in-person access to experts, and lunch/snacks. Pricing varies for Academic, STAR, and Industry partners.

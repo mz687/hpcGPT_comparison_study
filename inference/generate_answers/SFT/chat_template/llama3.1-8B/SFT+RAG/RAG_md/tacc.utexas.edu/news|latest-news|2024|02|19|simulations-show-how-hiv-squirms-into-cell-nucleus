@@ -1,0 +1,80 @@
+1. [Home](/)
+2. [News](/news/)
+3. Latest News
+
+*List*
+
+*Grid*
+
+# Simulations Show How HIV Squirms into Cell Nucleus
+
+## University of Chicago scientists assemble massive model using TACC’s Frontera supercomputer
+
+* by[Jorge Salazar](/news/latest-news/author/jorge/)
+
+* Feb. 19, 2024
+
+* [Feature Story](/news/latest-news/category/feature-story/)
+
+* [Frontera](/news/latest-news/tag/frontera/)
+
+share this:
+
+A simulation of the pore of the nucleus of the cell. From left, an overhead view; center, a cutaway view; and at right, with an HIV capsid (shown in blue-green) embedded. Image credit: Hudait and Voth.
+
+A new [study](https://www.pnas.org/doi/10.1073/pnas.2313737121) from two University of Chicago (UChicago) scientists has revealed how HIV squirms its way into the nucleus as it invades a cell.
+
+According to their models, the HIV capsid, which is cone-shaped, points its smaller end into the pores of the nucleus and then ratchets itself in. Once the pore is open enough, the capsid is elastic enough to squeeze through. Importantly, the scientists said, both the structural flexibility of the capsid and the pore itself play a role in the infiltration process.
+
+The finding, created by a simulation of thousands of proteins interacting, will point the way to a better understanding of HIV as well as suggest new targets for therapeutic drugs.
+
+“For example, you could try to make the HIV capsid less elastic, which our data suggests would hamper its ability to get inside the nucleus,” said [Arpa Hudait](https://vothgroup.uchicago.edu/group/voth-group-members/arpa-hudait), a research scientist at UChicago and first author of the paper.
+
+The study also provides the most extensive simulation yet of the nuclear pore itself, which is important in many biological processes.
+
+"There were numerous computational challenges," explained study co-author [Gregory Voth](https://chemistry.uchicago.edu/faculty/gregory-a-voth), the Haig P. Papazian Distinguished Service Professor of Chemistry.
+
+To help meet these challenges, he was awarded supercomputer allocations on the National Science Foundation-funded Frontera supercomputer of the Texas Advanced Computing Center.
+
+"We used Frontera extensively,” Voth said. “We developed a powerful coarse-grained model first, that is much faster than an all-atom molecular dynamics simulation, and then ran the coarse-grained model on Frontera to achieve unprecedented scale in the simulation. This HIV capsid/nuclear pore complex simulations is equivalent to thousands of proteins containing billions of atoms.”
+
+Arpa Hudait (L) and Gregory Voth (R) of the University of Chicago. Credit: UChicago.
+
+"We’ve had very good experiences with Frontera," he added. "The system has consistently allowed us to carry out ground-breaking simulations of a very large magnitude, including for HIV-1 and SARS-CoV-2 viruses. This unique resource has allowed us to discover key behavior of these systems not before known."
+
+### Capsid vs. Cell
+
+Voth and Hudait focused on what’s known as the HIV capsid—the capsule containing HIV’s genetic material, which enters a host cell’s nucleus and forces the cell to make copies of the key HIV components.
+
+The capsid is a complex piece of machinery, made of more than a thousand proteins assembled into a cone-like shape, with a smaller and larger end. To get into the host cell’s nucleus, it must sneak in. But scientists didn’t know exactly how this happens. “This part has been a mystery for years,” said Voth. “For a long time, no one was sure whether the capsid broke apart before entering the pore or afterwards, for example.”
+
+Recent imaging studies had suggested the capsid stays intact wriggling through the nuclear pore complex. This is the mail slot where the nucleus sends and receives deliveries.
+
+“The pore complex is an incredible piece of machinery; it can’t just let anything into the nucleus of your cell, or you’d be in real trouble, but it’s got to let quite a bit of stuff in. And somehow, the HIV capsid has figured out how to sneak in,” Voth said. “The problem is, we can’t watch it live. You must go to heroic experimental efforts to even get a single, moment-in-time snapshot.”
+
+### Seeing the Unseeable
+
+To fill in the gaps, Hudait built a painstaking computer simulation of both the HIV capsid and the nuclear pore complex—accounting for thousands of proteins working together. Hudait is a member of the Voth Group laboratory, which specializes in simulations to unravel the complex biological processes that occur as viruses attack a cell.
+
+TACC’s Frontera, the fastest academic supercomputer in the U.S., is funded by the National Science Foundation. Credit: TACC.
+
+Running the simulations, the scientists saw that it was much easier for the capsid to get into the pore by wedging its smallest end in first, and then gradually ratcheting itself in. “It doesn’t need active work to do it, it’s just physics—what we call an electrostatic ratchet,” said Voth. “It’s kind of like if you’ve ever had a seatbelt tighten up on you, where it just keeps getting tighter and tighter.”
+
+They also found both the pore and the capsid deform as it goes. Interestingly, the lattice of molecules that make up the capsid structure develops little regions of less order to accommodate the stress of the pressure. “It’s not like a solid compressing or expanding, as one might have expected,” said Hudait.
+
+> This unique resource (Frontera) has allowed us to discover key behavior of these systems not before known.
+> Gregory Voth, University of Chicago
+
+The finding may help explain why capsids are cone-shaped, rather than a shape like a cylinder, which might seem at first easier to slip through a pore.
+
+### Opportunities Ahead
+
+The scientists said that each detail in HIV’s journey through the body is an opportunity to find vulnerabilities where drugs could be developed. It’s also a look in the broader sense at a fundamental aspect of biology.
+
+"I think this modeling also gives us a new way to understand how many things get into the nucleus, not just HIV,” Voth said.  “Supercomputers, paired with novel advances in computational methodology, can open up a whole new frontier in probing the behavior of dangerous viruses at an unprecedented scale."
+
+---
+
+*Adapted from a [news release](https://news.uchicago.edu/story/simulations-show-how-hiv-sneaks-nucleus-cell) by Louise Lerner, University of Chicago.*
+
+*Funding provided by National Institutes of Health and the National Science Foundation. The simulations were performed at the Texas Advanced Computing Center at The University of Texas at Austin and the Research Computing Center at UChicago.*

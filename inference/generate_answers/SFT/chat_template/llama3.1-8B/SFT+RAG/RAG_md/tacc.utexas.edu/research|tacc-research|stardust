@@ -1,0 +1,50 @@
+1. [Home](/)
+2. [Research](/research/)
+3. [TACC Research](/research/tacc-research/)
+4. Stardust
+
+# Sample-based, Perceptually- and Cognitively-driven Visual Analysis of Massive Scientific Data Using an Asynchronous Tasking Engine (Stardust)
+
+### Purpose
+
+To reduce the overall cost of the visual analysis of large-scale simulation and observational data by replacing brute-force techniques with data sampling based on the actual requirements and capabilities of the user.
+
+### Overview
+
+Finding inspiration in nature, combining disparate objects in new ways, undScientific and observational dataset sizes are increasing in size by orders of magnitude each year, while the capability of humans to process input is capped by fundamental limitations in our capabilities to perceive and understand information. This necessitates a reduction in dataset size of many orders of magnitude in between representations sufficient to get the science right and representations that are accessible to the user. Historically, this transformation has been performed using a post-processing step in which simulation data, written to secondary storage during the simulation phase, is read back into subsequent processes to produce analysis products for various user communities.
+
+In today's systems, however, raw datasets are simply too large to output from the simulation system at all, much less read back for post-processing on any system smaller than the supercomputer itself. Instead, data reduction must be performed in situ – in place, as the data is calculated, and then stored. The goal, then, is to maximize the accessible information and knowledge in the reduced data while minimizing its overall size and to do so in a manner that is suitable for current- and next-generation highly multi-tasked systems.
+
+In this project, we investigate optimizing this data reduction by considering the cognitive and perceptual constraints of the analysis and to produce tailored results. We do so by developing an asynchronous, multi-user, multi-type interface for datasets on distributed-memory supercomputers. By casting analysis, visualization, and rendering algorithms as sampling algorithms, that input and output samples, we can chain together and reuse sampling approaches at each stage of an analysis pipeline, in contrast to the current state of affairs in the analysis, visualization, and rendering communities, where data reduction approaches are uniquely written for each community (analysis, visualization, and rendering) and for each data type (structured, unstructured grid, adaptive meshes) used by the community.
+
+### Impact
+
+Our cross-disciplinary team of system, algorithm, perceptual and cognitive experts will work together to produce a tasking engine, sampling and ray-tracing engine prototypes and algorithms. We will evaluate our work's performance and perceptual and cognitive value and get feedback on our approach from our simulation and experimental science partners. The result of this proposal will be:
+
+* An architectural solution that fully utilizes the node architecture of today and future supercomputing platforms using tens to hundreds of computational cores and limited memory per core
+* A generalized data reduction solution that supports intelligent sampling/data reduction at multiple stages of the analysis process.
+* A quality perceptual and cognitive solution through the evaluation and comparison of approaches
+* Demonstrations of our proposed approach enabling scientific discovery for a variety scientific domains.
+
+### Contributors
+
+**Name**  
+
+Title
+
+**Greg Abram**  
+
+Research Associate
+
+**Paul Navratil**  
+
+Director of Visualization
+
+### Related Links
+
+* <https://datascience.dsscale.org>
+* [Stardust Github Repository](https://github.com/stardustscience)
+
+### Funding Source
+
+Department of Energy Office of Advanced Scientific Computing Research

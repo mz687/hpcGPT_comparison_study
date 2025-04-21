@@ -1,0 +1,71 @@
+1. [Home](/)
+2. [News](/news/)
+3. Latest News
+
+*List*
+
+*Grid*
+
+# First Atom-Level Structure of Packaged Viral Genome Reveals New Properties, Dynamics
+
+## Physicists use TACC’s Frontera supercomputer to model HK97 bacteriophage
+
+* by[Jorge Salazar](/news/latest-news/author/jorge/)
+
+* March 12, 2024
+
+* [Feature Story](/news/latest-news/category/feature-story/)
+
+* [Frontera](/news/latest-news/tag/frontera/)
+
+share this:
+
+The Aksimentiev Lab at the University of Illinois Urbana-Champaign used TACC's NSF-funded Frontera supercomputer to complete all-atom structural models of a fully packaged bacteriophage particle, which is a virus that attacks bacteria. Aleksei Aksimentiev (L) and research scientist Christopher Maffeo (R) of the University of Illinois Urbana-Champaign. Credit: UIUC
+
+A computational model of the more than 26 million atoms in a DNA-packed viral capsid expands our understanding of virus structure and DNA dynamics, insights that could provide new research avenues and drug targets, University of Illinois Urbana-Champaign researchers report in the journal Nature.
+
+“To fight a virus, we want to know everything there is to know about it. We know what’s inside in terms of components, but we don’t know how they’re arranged,” said study leader Aleksei Aksimentiev, professor of Physics, University of Illinois Urbana-Champaign (UIUC). “Knowledge of the internal structures gives us more targets for drugs, which currently tend to focus on receptors on the surface or replication proteins.”
+
+Viruses keep their genetic material – either DNA or RNA – packaged in a hollow particle called a capsid. While the structures of many hollow capsids have been described, the structure of a full capsid and the genetic material inside it has remained elusive.
+
+For this first look at a complete packaged viral genome, the researchers focused on HK97, a virus that infects bacteria. It has been well-studied experimentally, so the Illinois group would be able to compare its simulations to what has been found previously, said Aksimentiev, who also is affiliated with the Beckman Institute of Advanced Science and Technology at UIUC.
+
+“We know from experiments that the capsid has a portal, and there is a motor protein there that pushes the DNA in. We also know the structure of the capsid from experiments. We know the genetic sequence, but what was not known was the structure of the packaged genetic material inside.”
+
+Figuring out the structural dynamics of genome packaging has challenged researchers for several reasons. It cannot yet be seen experimentally, so simulation on a supercomputer is required. However, a simulation can either show great detail for a very short time, or less detail for longer time.
+
+The main computational challenge was the time scale of the packaging process.
+
+"We overcame this challenge by using a multi-resolution simulation approach, where we could progressively increase the resolution of our simulation model all the way to the atomic scale," Aksimentiev said. What's more, the size the unpackaged genome includes billions of atoms, which is an overwhelming amount using a molecular dynamics approach alone.
+
+> Plain and simple, we would not have been able to do this work without Frontera.
+> Aleksei Aksimentiev, UIUC.
+
+Having previously used and validated their multi-resolution simulation approach in experiments involving DNA origami, they now applied the multiresolution approach to HK97.
+
+The Texas Advanced Computing Center (TACC) awarded allocations on the National Science Foundation-funded [Frontera](//tacc.utexas.edu/systems/frontera/) supercomputer to Aksimentiev to overcome their computational challenges. Frontera is the fastest academic supercomputer in the U.S., designed to handle large-scale simulations for science.
+
+"Plain and simple, we would not have been able to do this work without Frontera,” Aksimentiev said. “With Frontera, one microsecond all-atom MD simulation of the packaged virion took approximately one month of continuous running. Each multi-resolution packaging simulations took three months of continuous running on Frontera GPUs. Over the course of the project, we had to make many iterations to the model. We would not have been able to do that with any other publicly available supercomputer system.”
+
+TACC’s Frontera, the fastest academic supercomputer in the U.S., is funded by the National Science Foundation. Credit: TACC.
+
+The result was the first atom-level look at the viral DNA packaging process and the structural properties and fluctuations when the DNA is fully contained in the capsid.
+
+They found that the DNA formed switchback loops as it was pushed into the capsid, an important finding as it is similar to how DNA is organized in eukaryotic cells. They also found that the DNA organized itself into domains conforming to the topology of the capsid. The process resulted in slightly different configurations of loops and topologies of DNA in each particle simulated.
+
+“These differences show that the concept of individuality is not exclusive to animals and plants but extends down to viruses, the most primitive form of gene-replicating structures,” Aksimentiev said. “This opens another dimension to looking at infectivity, and whether these differences among viruses account for variability in their ability to infect.”
+
+The simulations did reveal common structural features and defects, particularly at the edges and corners of the capsid, where its shape has the greatest influence on the DNA inside. These features could be potential targets for drug development, Aksimentiev said.
+
+> Supercomputers can offer the ultimate-resolution physical models of viruses and their infection cycles. The availability of such models will offer new drug targets and may one day prevent new pandemics.
+> Aleksei Aksimentiev, UIUC.
+
+“We believe this is just the beginning for our methodology, the first study to look at the structure of a viral genome,” Aksimentiev said. “With bigger, faster computers, and more knowledge from experiments, we will eventually be able to computationally resolve the structures of genomes from other viral species, including RNA viruses, which are more complicated as they self-assemble.”
+
+“The more we know about these viruses, the more we can combat them, or harness them for applications such as combating bacteria that have grown resistant to antibiotic use. Supercomputers can offer the ultimate-resolution physical models of viruses and their infection cycles. The availability of such models will offer new drug targets and may one day prevent new pandemics.” Aksimentiev added.
+
+The National Institute of General Medical Sciences of the National Institutes of Health, the National Science Foundation, and the Human Frontier Science Project supported this work.
+
+---
+
+*Adapted from a* [press release](https://news.illinois.edu/view/6367/1225147035) *by Liz Ahlberg Touchstone, UIUC*

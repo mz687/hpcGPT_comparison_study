@@ -1,0 +1,31 @@
+Slurm Workload Manager Logo
+
+The [Slurm Workload Manager](https://slurm.schedmd.com/) (originally the Simple Linux Utility for Resource Management) is a collection of utilities for managing workloads on compute clusters. Slurm is commonly used to manage all the jobs that execute on large-scale HPC resources such as [Stampede2](https://www.tacc.utexas.edu/systems/stampede2) and [Frontera](https://frontera-portal.tacc.utexas.edu/) at [TACC](https://www.tacc.utexas.edu/), among others.
+The basic knowledge required to use Slurm to submit, monitor, and control jobs on the compute nodes of Stampede3 is provided in the [Stampede3 User Guide](https://docs.tacc.utexas.edu/hpc/stampede3/#running). Similar guidance for Frontera is found in [Getting Started on Frontera](/frontera/running-jobs/index) and the [Frontera User Guide](https://frontera-portal.tacc.utexas.edu/user-guide/running/).
+
+This roadmap is for users who are already familiar with the process of submitting jobs via Slurm, but who have needs that go beyond submitting simple batch files or interactive jobs. We will discuss some of the lesser-known but powerful features of Slurm that offer potential strategies for setting up advanced workflows such as parameter sweeps. The goal is to impart practical techniques and a broader understanding of Slurm from the user perspective, without taking the time to cover every possible aspect of Slurm.
+
+##### Objectives
+
+After you complete this roadmap, you should be able to:
+
+* Use Slurm to submit jobs and launch tasks on the compute nodes of Stampede2 and Frontera
+* Explain how job allocation and execution occur with different commands
+* Describe Slurm's job cleanup process and network security policies
+* List dependency conditions that can be specified when jobs are submitted
+* Describe the scripted job submission process
+* Script chains of dependent jobs
+* Launch MPI jobs from within a batch script submitted via `sbatch`
+* Initiate diverse non-MPI tasks interactively using `srun`
+* Launch diverse non-MPI tasks within a Slurm batch allocation
+
+##### Prerequisites
+
+* [Basic understanding](/frontera/running-jobs/) of what Slurm is, how it generally works, and how it is used to submit jobs on an HPC cluster
+* Knowledge of the roles of [MPI](/mpi/intro/index) and [OpenMP](/openmp/intro/index) in applications that run on HPC systems
+* Familiarity with [Linux](/linux/intro/index) and scripting languages (e.g., scripting in bash or Python)
+
+##### Requirements
+
+* A workstation that runs Windows 10 or above, macOS, or Linux, as these operating systems include the OpenSSH software necessary to connect to Stampede2 or Frontera.
+* An allocation on Stampede2 or Frontera at the [University of Texas Advanced Computing Center](https://www.tacc.utexas.edu/) (TACC). Stampede2 allocations may be granted through NSF's [ACCESS](https://access-ci.org/) program. Access to Frontera can be requested by submitting an [allocation request](https://fronteraweb.tacc.utexas.edu/allocations/) to TACC.

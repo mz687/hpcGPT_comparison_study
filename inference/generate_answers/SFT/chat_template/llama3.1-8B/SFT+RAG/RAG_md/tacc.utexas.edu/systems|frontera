@@ -1,0 +1,64 @@
+1. [Home](/)
+2. [Systems](/systems/)
+3. Frontera
+
+# Frontera
+
+## The Fastest Academic Supercomputer in the U.S.
+
+In 2018, the National Science Foundation (NSF) awarded a $60 million grant to the Texas Advanced Computing Center (TACC) to deploy a new petascale computing system, Frontera. Frontera opens up new possibilities in science and engineering by providing computational capability that makes it possible for investigators to tackle much larger and more complex research challenges across a wide spectrum of domains.
+
+Deployed in June 2019, Frontera is the fastest supercomputer on a university campus in the U.S. Early user access began in June 2019, and the system entered full production in September 2019.
+
+Up to 80% of the available hours on Frontera, more than 55 million node hours each year, will be made available through the NSF Petascale Computing Resource Allocation program.
+
+### System Specifications
+
+The primary computing system was provided by Dell EMC and powered by Intel processors, interconnected by a Mellanox Infiniband HDR and HDR-100 interconnect. The system has 8,368 available compute nodes.
+
+| Processors | Intel 8280 “Cascade Lake” |
+| --- | --- |
+| Cores/Node | 56 (28 per socket) |
+| Clock Rate | 2.7Ghz (Base Frequency) |
+| Peak Node Performance | 4.8TF, Double Precision |
+| Memory/Node | 192GB DDR-4 |
+| Local Disk | 480GB SSD drive |
+| Network | Mellanox Infiniband, HDR-100 |
+
+### Liquid Submerged System
+
+| Processors | Intel Xeon CPU E5-2620 v4 |
+| --- | --- |
+| Cores/Node | 32 (16 per socket) |
+| Clock Rate | 2.1Ghz |
+| GPU | 360 - NVIDIA Quadro RTX 5000 (4/Node) |
+| Clock Rate | 2.1Ghz |
+| Peak Performance | 4PF, Single Precision |
+| Memory/Node | 128GB DDR-4 Synchronous 2400 MHz |
+| Local Disk | 240GB SSD drive |
+| 240GB SSD drive | Mellanox Infiniband, FDR |
+
+### System Interconnect
+
+Frontera compute nodes are interconnected with HDR-100 links to each node, and HDR (200Gb) links between leaf and core switches. The interconnect is configured in a fat tree topology with a small oversubscription factor of 11:9.
+
+### User Guide
+
+Access full documentation on system architecture, software, new & advanced user information, best practices, and troubleshooting.
+
+[Frontera User Guide](https://docs.tacc.utexas.edu/hpc/frontera/)
+
+---
+
+### Frontera Portal
+
+See the latest Frontera news, manage allocations and see upcoming training.
+
+[Go To Frontera Portal](https://frontera-portal.tacc.utexas.edu/)
+### Cite Frontera
+
+Dan Stanzione, John West, R. Todd Evans, Tommy Minyard, Omar Ghattas, and Dhabaleswar K. Panda. 2020. Frontera: The Evolution of Leadership Computing at the National Science Foundation. In Practice and Experience in Advanced Research Computing (PEARC ’20), July 26–30, 2020, Portland, OR, USA. ACM, New York, NY, USA, 11 pages. <https://doi.org/10.1145/3311790.3396656>
+
+### System Hardware and Software Overview
+
+Frontera has two computing subsystems, a primary computing system focused on double precision performance, and a second subsystem focused on single precision streaming-memory computing. Frontera also has multiple storage systems, as well as interfaces to cloud and archive systems, and a set of application nodes for hosting virtual servers.

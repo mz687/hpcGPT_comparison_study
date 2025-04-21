@@ -1,0 +1,81 @@
+1. [Home](/)
+2. [About](/about/)
+3. [Security and Compliance](/about/security-and-compliance/)
+4. Protected Data Service
+
+# Protected Data Service
+
+## We support the most common security control requirements needed by researchers and reduce the workload to satisfy these requirements. Follow the steps below to get started.
+
+TACC has developed an extensive compliance program, enabling some of the largest open science systems in the world to be used by researchers faced with the prospect of conducting research using sensitive information. TACC's Protected Data Service (PDS) supports standard security control needs that require safeguarding sensitive data used by researchers reducing the workload for individuals and research teams to satisfy these security needs.
+
+### Fill Out Request Form
+
+Name\*
+
+Email\*
+
+Data Classification\*
+
+HIPAA
+FERPA
+ITAR
+EAR
+CUI
+PII
+Proprietary Data
+IRB
+Other
+
+Project Name\*
+
+Project Description\*
+
+Are you a robot?\*
+
+Submit
+
+Thank you for your submission.
+
+### Consultation
+
+Once submitted, you will hear back from TACC's compliance team to set up an initial consultation to discuss your project and your data. Based on your project and that data being used, we will request the necessary documentation (data use agreements, BAA, MOU, etc).
+
+---
+
+### Project Approval Pending
+
+Approval for the project is done after all required documentation is received by TACC.
+
+---
+
+### Request Allocation
+
+When approved, you will receive an email directing you to request an allocation on TACC's systems. This will include both corral-secure for storage and a computational system for compute resources.
+
+---
+
+### Get Working!
+
+Once the allocation is approved, the corral-secure data allocation is created, you will be sent instructions on how to access this data storage area and also how to run using the protected data allocations as it is separate queues, etc.
+
+### Supported Data
+
+* CUI - Controlled Unclassified Data
+* ITAR - International Traffic in Arms Regulations
+* EAR - Export Administration Regulations
+* FERPA - Family Educational Rights and Privacy Act
+* HIPAA - Health Insurance Portability and Accountability Act
+* IRB - Institutional Review Board
+* PII - Personally Identifiable Information
+* Proprietary Data
+
+**\*TACC does not support data classified at secret or above** and researchers should not, under any circumstance, transfer such data to TACC systems.
+
+### Adherence
+
+The TACC cybersecurity program is aligned with the National Institute of Standards and Technology (NIST) Special Publication (SP) 800-53, Revision 5, Security and Privacy Controls for Information Systems and Organization, requirements for security and privacy requirements. Additionally, TACC's cybersecurity program aligns with NIST SP 800-171, Protecting Controlled Unclassified Information in Nonfederal Systems and Organizations, and with the cybersecurity requirements of UT Austin.
+
+### Audit
+
+TACC is audited by a third-party independent auditor on a fixed schedule. The audit assesses TACC's compliance with NIST 800-53 Revision 5, NIST 800-171 Revision 2, and the Health Insurance Portability and Accountability Act (HIPAA) Security Rule.

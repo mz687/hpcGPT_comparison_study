@@ -1,0 +1,32 @@
+1. [Home](/)
+2. [Research](/research/)
+3. [SciVis Gallery](/research/scivis-gallery/)
+4. Visualization of NARA Record Collections
+
+# Visualization of NARA Record Collections
+
+### Science Behind the Image
+
+The National Archives and Records Administration (NARA) is responsible for ensuring continuous access to government records. To preserve and provide access to electronic records collections, archivists need to first conduct a series of analysis to discover their structure and content and to make decisions about long-term preservation needs. TACC's research examines information visualization for archival analysis and long-term preservation planning of terabyte size collections.
+
+### Visualization Behind the Image
+
+This type of visualization work is intended to help digital archivists at NARA process their Federal Electronic Records collection for public access and long-term preservation. In response, TACC developed a program for NARA that visualized a test-bed collection of approximately 40,000 files. The visualization was rendered by a visual analytic application developed in Java. The application leveraged several existing information visualization packages, including Prefuse, JFreeChart, and OpenCloud. It includes publicly available data provided by Federal Agencies or harvested from their websites. Each record group corresponds to all the records of a small Federal Agency or some of the records of a larger Federal Agency and is represented as a node that includes child nodes. In turn, each record group may have different types of digital objects bearing different arrangements and a variety of file formats. The sample from the test-bed collection contained 1,031,118 files in 200 different formats with up to 12 levels of hierarchical nesting. Each square represents a directory within the file system with larger squares containing a higher number of files. The colors in the first image (casc\_filetype) indicate the types and percentage of file formats present in those directories: green = web files; blue = images; coral = pdf files; light blue = video files; and red = word processing files. This view infers that this test-bed collection contains a majority of web pages including photographs. The color black indicates that there are file formats that current software could not identify.
+The second picture (casc\_datamining) presents the results of a data mining analysis showing that the files are organized by similar naming conventions (light green); in sequential order (orange); by date (brown); or by geographical location (bordeaux).
+
+### Authors
+
+#### TACC
+
+Maria Esteva  
+Weijia Xu
+
+---
+
+#### UT Austin
+
+Suyog D. Jain
+
+### Funding and Support
+
+This work was supported through a NARA supplement to the National Science Foundation (NSF) Cooperative Agreement: OCI-0504077. Access to the NARA test-bed collections in the Transcontinental Persistent Archives Prototype courtesy of The Center for Advanced Systems and Technologies at NARA.

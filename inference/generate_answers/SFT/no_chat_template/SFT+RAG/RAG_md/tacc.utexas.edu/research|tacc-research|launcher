@@ -1,0 +1,59 @@
+1. [Home](/)
+2. [Research](/research/)
+3. [TACC Research](/research/tacc-research/)
+4. The Launcher
+
+# The Launcher
+
+### Purpose
+
+The Launcher is a framework for running large collections of serial or multi-threaded applications, known as High Throughput Computing (HTC), as a single multi-node parallel job on batch-scheduled High Performance Computing (HPC) systems.
+
+### Overview
+
+Many HPC systems discourage the submission of serial or single-node jobs, instead encouraging larger parallel runs. Additionally, many HPC systems either discourage or prohibit queuing hundreds of jobs at a time in order to make these systems more available for large-scale parallel jobs. And while many batch-scheduling tools provide a throughput feature called job arrays, these are sometimes restricted in size or disabled entirely.
+
+The Launcher circumvents these problems by allowing the user to create their own miniature high throughput machine inside of a single multi-node parallel job submitted to a large-scale HPC resource. Once started, the launcher independently manages the execution of a user's application batch on the provided nodes, with extremely low overhead and almost no learning curve.
+
+The Launcher is very customizable, allowing users to select various scheduling methods and processes per node. Launcher also has automatic process-to-core binding in order to achieve better performance on modern multi- and many-core architectures.
+
+### Impact
+
+Launcher is used on all of TACC's production systems, and is the integrated into several gateways and frameworks, including:
+
+* DrugDiscovery@TACC
+* VDJServer
+* Agave
+
+Launcher is being utilized at sites throughout the U.S. and around the world to quickly generate large-scale parametric runs for later analysis.
+
+---
+
+**Cite As**  
+Lucas A. Wilson, John M. Fonner, Oscar Esteban, Jason R. Allison, Marshall Lerner, and
+Harry Kenya, \Launcher: A simple tool for executing high throughput computing workloads,"
+Journal of Open Source Software, 2(16), August 2017. DOI:10.21105/joss.00289.
+
+### Contributors
+
+**John Fonner**  
+
+Director, Special Projects
+
+### Related Links
+
+* [Launcher GitHub](https://github.com/TACC/launcher)
+* [DOI: 10.21105/joss.00289](https://doi.org/10.21105/joss.00289)
+
+### Publications
+
+Lucas A. Wilson, John M. Fonner, Oscar Esteban, Jason R. Allison, Marshall Lerner, and
+Harry Kenya, \Launcher: A simple tool for executing high throughput computing workloads,"
+Journal of Open Source Software, 2(16), August 2017. DOI:10.21105/joss.00289.
+
+Lucas A. Wilson, \Using the Launcher for Executing High Throughput Workloads," Journal
+of Big Data Research, 8(C), Elsevier, July 2017, 57{64. DOI:10.1016/j.bdr.2017.04.001.
+
+Lucas A. Wilson, \Using Managed High Performance Computing Systems for High-Throughput Computing," Conquering Big Data with High Performance Computing (ed. Ritu Arora), pp. 61-79. Springer. Sept. 2016. DOI:10.1007/978-3-319-33742-5 4
+
+Lucas A. Wilson and John M. Fonner, \Launcher: A Shell-based Framework for Rapid Development of Parallel Parametric Studies," in proceedings of the 2014 Conference on Extreme Science and Engineering Discovery Environment (XSEDE14), July 2014. DOI:10.1145/2616498.2616534

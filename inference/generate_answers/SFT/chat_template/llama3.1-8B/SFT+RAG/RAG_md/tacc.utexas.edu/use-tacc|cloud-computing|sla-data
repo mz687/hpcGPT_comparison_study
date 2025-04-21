@@ -1,0 +1,73 @@
+1. [Home](/)
+2. [Use TACC](/use-tacc/)
+3. [Cloud Computing](/use-tacc/cloud-computing/)
+4. Generic SLA for TACC-hosted Data Storage
+
+# Generic SLA for TACC-hosted Data Storage
+
+### Key Metrics
+
+* Availability: 99.9%
+* Notification of data breach, loss or corruption: 3 business days
+* Routine work request acknowledgment response time: 1 business days
+* Review and response of Active requests: 3 business days
+
+### Description and Cost of Service
+
+A standard TACC Data service unit includes:
+
+* 1TB of disk based storage for 1 year
+
+The University of Texas has established cost recovery rates for data services per TACC Data service unit. This cost is multiplied by the number of standard service units required to satisfy a user's requirement. The number of service units is defined by what the user requests, rather than usage, and is allocated on an annual basis. Service units represent ‘usable' storage and replication of data as outlined below does not count against the service units.
+
+### Overview
+
+This document defines the Service Level Agreement (SLA) for the TACC Data Service (TACC Data) as well as the rights and responsibilities of any user that obtains this service from TACC.
+
+### Service Description
+
+TACC Data provides cost-effective, reliable, professionally managed digital data storage based on industry standard products and in support of open science. Users requesting TACC Data must first have an approved user account created through the TACC User Portal.
+
+Access to TACC Data is provided through a POSIX file system interface on most TACC resources including TACC data transfer nodes accessible at data.tacc.utexas.edu, or through alternative access mechanisms documented in the [Corral User Guide](https://docs.tacc.utexas.edu/hpc/corral/).
+
+TACC Data provides a total of 40Gbps of network connectivity from the storage to the TACC datacenter network; specific performance of applications accessing TACC Data will be dependent on multiple factors including level of overall activity, end user network connectivity, and application efficiency.
+
+TACC Data is a geographically replicated service. This replication is provided to protect against hardware failures and disaster scenarios, and is not a conventional backup service with the capability to restore past versions of user data. Users are solely responsible for management of files stored on TACC Data and deleted files will be deleted in both replication locations.
+
+### Service Commitment
+
+TACC will put forth its best effort to make TACC Data available with a Monthly Uptime Percentage (defined below) of at least 99.9%.
+
+**Definitions**
+
+"Monthly Uptime Percentage" is calculated by subtracting from 100% the percentage of minutes during the month in which the TACC data service has no external connectivity. Monthly Uptime Percentage measurements exclude downtime resulting directly or indirectly from any planned service outage (see below) or as a result of actions taken by the user.
+
+### Rates and Billing
+
+The University of Texas has established cost recovery rates per TACC Data service unit, which are set under the TACC Service Center and are not negotiable.
+
+The current rate is anticipated to remain until February 29th, 2020. However, the rate is reviewed biennially and is therefore subject to change. Users are billed through the TACC Data Service Center.
+
+TACC Data charges are billed annually.
+
+### Standard Maintenance of Service
+
+Availability of TACC Data is subject to published TACC Networking and Data Center maintenance events; TACC Data users will receive at least 10 business days notice via email prior to a planned maintenance event. Emergency maintenance events are scheduled as required due to necessary security patches or unexpected failure of service components.
+
+### Data Security
+
+Users are prohibited from uploading protected data to TACC Data unless specifically authorized via details outlined by a Memorandum of Understanding (MOU). Protected data includes, but is not limited to, Personally Identifiable Information (PII), data identified for protection by the Health Insurance Portability and Accountability Act (HIPAA), the Federal Information Security Management Act (FISMA), the Family Educational Rights and Privacy Act (FERPA), International Traffic in Arms Regulations (ITAR), and Export Administration Regulations (EAR).
+
+Users are responsible for ensuring that they have appropriate rights and privileges for all data and software stored in the TACC Data service, and that usage of the TACC Data service, including sharing and network access mechanisms, conforms to applicable legal regimes. TACC reserves the right to remove access to data stored by the user which is found to be in violation of privacy or intellectual property laws.
+
+TACC administrators have access to all data for the purposes of operation and maintenance of the storage systems. However, we acknowledge that all stored data and any associated intellectual property remains the property of the depositing entity, PI, or collaborator.
+
+Users of TACC Data are subject to periodic usage review and necessary scans to ensure that usage meets the [Information Resources Use and Security Policy](https://security.utexas.edu/policies/irusp).
+
+### Intended Use
+
+TACC Data is intended to provide infrastructure for digital data storage to faculty, staff, and researchers in departments, colleges, and research units and other entities that support the needs of open science. TACC Data is a shared environment and is subject to a suitability review by the TACC Data administrators. Usage that demonstrates a negative impact on the overall performance or availability of service for other TACC Data users is subject to quality of service controls, including temporary suspension, to restore TACC Data service availability.
+
+### Technical support
+
+Support for the TACC Data infrastructure, including maintenance for server hardware and disk systems, is provided by TACC Data administrators. Support requests related to TACC Data can be created via the consulting system accessed through the TACC User Portal.
