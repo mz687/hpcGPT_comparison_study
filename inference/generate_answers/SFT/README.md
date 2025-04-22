@@ -1,3 +1,0 @@
-We provide the evaluation scripts for both fine-tuned LLMs with and without using Llama-3.1 chat template, which are in [./chat_template](./chat_template) and [./no_chat_template](./no_chat_template). (The chat template file is provided [here](../../fine-tuning/DeepSpeedExamples/applications/DeepSpeed-Chat/dschat/utils/data/llama-3.1-instruct-chat-template.jinja) )
-
-Each of these two folders has the python scirpt for running inference on the eval dataset. The corresponding SLURM scripts have also been provided. 

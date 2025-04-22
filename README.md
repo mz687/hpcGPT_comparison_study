@@ -7,6 +7,9 @@ The train and eval datasets contain TACC user private email information, so they
 ## Hardware requirement
 This work used 64 GH200 GPUs for fine-tuning Llama-3.1-8B model, each of which has 96 GB HBM and 120 GB RAM.
 
+## Dataset
+We cleaned the user tickets stored in TACC database to form question-answer pairs. According to TACC's user privacy policy, we cannot release the train and evaluation dataset in public. If you are interested, please register a TACC account [here](https://accounts.tacc.utexas.edu/register?_gl=1*15ri7bv*_ga*ODMzMTMwOTkwLjE3MDc3NTMzNjA.*_ga_TRRRQZ0EHX*MTc0NTMzMzg0Mi4xMjAuMC4xNzQ1MzMzODQyLjAuMC4w) and contact us for access to the datasets on TACC machines.
+
 ## Software dependencies
 
 Please use `pip install -r requirements.txt` to install the required packages. 
@@ -31,3 +34,6 @@ CXX=/path/to/miniconda3/bin/g++ CC=/path/to/miniconda3/bin/gcc cmake -B build -D
 
 CXX=/path/to/miniconda3/bin/g++ CC=/path/to/miniconda3/bin/gcc cmake --build build --parallel
 ```
+
+## Experiment workflow
+fine-tuning -> inference -> evaluation
