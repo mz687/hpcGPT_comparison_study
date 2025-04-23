@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/970263838.svg)](https://doi.org/10.5281/zenodo.15270437)
+
 # A Comparative Study on LLM-enabled HPC User Support
 
 This git repository contains the code for preproducing the results in our submitted paper.
